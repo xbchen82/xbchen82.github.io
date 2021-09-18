@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Note Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yu yiyi"
-description              : "Life is note."
+name                     : "Xiaobo Chen's Research Page"
+description              : #"Life is note."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "YHZ"
+  name             : "Xiaobo Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "EEE Senior Member Founding Director of BIC Lab Assistant Professor of Bioengineering ​Assistant Professor of Electrical and Computer Engineering ​P.C. Rossin College of Engineering and Applied Science Lehigh University 113 Research Dr Bethlehem, PA 18015, USA "
   location         : "YanTai"
-  email            :
+  email            : "yuzhang@lehigh.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
