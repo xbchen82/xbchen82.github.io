@@ -5,7 +5,7 @@ main:
   - title: "PEOPLE"
     url: /_pages/people/     #  https://xbchen82.github.io/xbchen82/docs/people/
   - title: "NEWS"
-    url: /news/   #/year-archive/
+    url: /_pages/news/   #/year-archive/
   - title: "RESEARCH"
     url: /research/   #/collection-archive/
   - title: "PUBLICATIONS"
