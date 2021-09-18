@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "HOME"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://xbchen82.github.io
   - title: "PEOPLE"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://xbchen82.github.io/xbchen82/people/
   - title: "NEWS"
-    url: /year-archive/
+    url: /news/   #/year-archive/
   - title: "RESEARCH"
-    url: /collection-archive/
+    url: /research/   #/collection-archive/
   - title: "PUBLICATIONS"
-    url: /sitemap/
+    url: /publications/  #/sitemap/
