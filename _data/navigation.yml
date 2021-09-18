@@ -3,7 +3,7 @@ main:
   - title: "HOME"
     url: https://xbchen82.github.io
   - title: "PEOPLE"
-    url: https://xbchen82.github.io/xbchen82/docs/people/
+    url: /people/     #  https://xbchen82.github.io/xbchen82/docs/people/
   - title: "NEWS"
     url: /news/   #/year-archive/
   - title: "RESEARCH"

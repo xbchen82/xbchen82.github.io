@@ -23,7 +23,7 @@ main:
   - title: "Home"
     url: /docs/home/
   - title: "People"
-    url: /people/
+    url: /docs/people/
   - title: "Sample Posts"
     url: /year-archive/
   - title: "Sample Collections"
