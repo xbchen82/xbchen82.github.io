@@ -283,6 +283,16 @@ footer {
   text-align: center;
 }
 
+.grid-container {
+  /* display: inline-grid; */
+  display: grid;
+  /* grid-template-columns: 100px 100px 100px; */
+  grid-template-columns: 200px 280px 400px;
+  /* grid-template-rows: 100px 100px 100px; */
+  /* grid: 150px / auto auto auto; */
+  /* background-color: darkblue; */
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
