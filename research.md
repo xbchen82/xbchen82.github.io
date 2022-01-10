@@ -5,8 +5,7 @@ permalink: /research/
 ---
 ### Overview
 
-<img src=/images/research/overview/img1.png width=400px height=auto />
-<!-- ![Our Mission](/images/research/overview/img1.png) -->
+![Our Mission](/images/research/overview/img1.png){: width="700" }
 
 - **Macroscopic traffic big data analytics for imputation and prediction**
   ![macroscopic](/images/research/overview/img2.png)
