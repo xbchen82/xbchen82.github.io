@@ -7,15 +7,15 @@ permalink: /research/
 
 ![Our Mission](/images/research/overview/img1.png)
 
-- Macroscopic traffic big data analytics for imputation and prediction
+- **Macroscopic traffic big data analytics for imputation and prediction**
   ![macroscopic](/images/research/overview/img2.png)
-- Multi-sensor fusion cooperative traffic environment perception
+- **Multi-sensor fusion cooperative traffic environment perception**
   ![multi-sensor](/images/research/overview/img3.png)
-- Personalized biomedical signal understanding for driving safety
+- **Personalized biomedical signal understanding for driving safety**
   ![personalized](/images/research/overview/img4.png)
-- Internet of vehicles and mobile edge computing (MEC)
+- **Internet of vehicles and mobile edge computing (MEC)**
   ![Internet](/images/research/overview/img5.png)
-- Signal control and optimization for traffic safety, efficiency and fuel economy
+- **Signal control and optimization for traffic safety, efficiency and fuel economy**
   ![Internet](/images/research/overview/img6.png)
 
 ### Traffic data imputation
