@@ -63,6 +63,14 @@ Xiaobo Chen, Yan Xiao. Geometric Projection Twin Support Vector Machine for Patt
 
 In reality, due to the physical mechanism, the on-board sensors of intelligent vehicles always suffer from inherent drawbacks, such as limited perception range or field-of-view (FOV). Moreover, in the crowd scenarios where frequent occlusion occurs, intelligent vehicles fail to detect the target that is occluded, thus, increasing the potential risk of traffic conflicts. To address the above issue, cooperative perception (or collaborative perception) based on inter-vehicle communication has attracted much attention recently. For instance, dedicated short range communication (DSRC) has been introduced as a useful technique which allows vehicles to communicate with other neighboring vehicles through the on-board units (OBUs) installed in the vehicles. When the vehicles communicate successfully, they can exchange their respective local perception results. In fact, inter-vehicle communication (more strictly speaking, the wireless interface) can be viewed as a type of virtual sensor in the sense that a host vehicle can combine its local estimate and a remote message transmitted from other cooperative vehicles to form a more accurate and complete environmental model. Due to the significant distance of inter-vehicle communication and the fusion of information from different viewpoints, cooperative perception not only increases the accuracy and perceptual range beyond line of sight, but also reduces blind spots caused by mutual occlusion, weather, and other external factors.
 
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img1.png)
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img2.png)
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img3.png)
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img4.png)
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img5.png)
+  ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img6.png)
+  
+
 **Related publications**  
 陈小波，陈玲，梁书荣，胡煜. 一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法, 浙江大学学报（工学版）,  2021(EI)  
 陈小波，陈玲.定位噪声统计特性未知的变分贝叶斯协同目标跟踪, 吉林大学学报（工学版）,  2021(EI)  
