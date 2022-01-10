@@ -35,8 +35,8 @@ n actual traffic environment, the data collected by traffic equipment, e.g., loo
 - Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen, <font color=Blue>Nonconvex lp-norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery</font>, IEEE Access 6: 24279-24290, 2018 (SCI)  
 - Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, IEEE Access 6: 9347-9357，2018 (SCI)  
 - Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye. <font color=Blue>Kernel Sparse Representation with Hybrid Regularization for On-Road Traffic Sensor Data Imputation.</font> Sensors 18(9): 2884, 2018 (SCI)  
-- Xiaobo Chen. <font color=Blue>An Improved Self-Representation Approach for Missing Value Imputation, 24th International Conference on Pattern Recognition</font>, 2018 (EI)  
-- Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. <font color=Blue>Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation, Knowledge-Based Systems</font>, 132 249-262, 2017 (SCI)  
+- Xiaobo Chen. <font color=Blue>An Improved Self-Representation Approach for Missing Value Imputation</font>, 24th International Conference on Pattern Recognition, 2018 (EI)  
+- Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. <font color=Blue>Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation</font>, Knowledge-Based Systems, 132 249-262, 2017 (SCI)  
 
 
 ###     *<font color=Blue>Traffic flow forecasting</font>*
@@ -46,9 +46,9 @@ traffic flow forecasting system which predicts the traffic flow at a specific ro
   ![forecasting](/images/research/traffic-forecasting/img2.png)
 
 **Related studies**  
-Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting, IEEE Access 6: 9347-9357，2018 (SCI)  
-Xiaobo Chen, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. Spatiotemporal Variable and Parameter Selection Using Sparse Hybrid Genetic Algorithm for Traffic Flow Forecasting, International Journal of Distributed Sensor Networks, 13(6):1-14, 2017 (SCI)  
-陈小波, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 基于GA-LSSVR 模型的路网短时交通流预测研究, 交通运输系统工程与信息 17(1):60-66, 2017(EI)  
+- Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, IEEE Access 6: 9347-9357，2018 (SCI)  
+- Xiaobo Chen, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. <font color=Blue>Spatiotemporal Variable and Parameter Selection Using Sparse Hybrid Genetic Algorithm for Traffic Flow Forecasting</font>, International Journal of Distributed Sensor Networks, 13(6):1-14, 2017 (SCI)  
+- 陈小波, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 <font color=Blue>基于GA-LSSVR 模型的路网短时交通流预测研究, 交通运输系统工程与信息</font> 17(1):60-66, 2017(EI)  
 
 
 ###     *<font color=Blue>Traffic Accident prediction</font>*
@@ -57,7 +57,7 @@ We focus on a real-world application which predicts whether traffic accident wil
   ![accident prediction](/images/research/Traffic-Accident-prediction/img.png)
 
 **Related studies**  
-Xiaobo Chen, Yan Xiao. Geometric Projection Twin Support Vector Machine for Pattern Classification Multimedia Tools and Applications, 80, pages23073–23089, 2021 (SCI)  
+- Xiaobo Chen, Yan Xiao. <font color=Blue>Geometric Projection Twin Support Vector Machine for Pattern Classification Multimedia Tools and Applications</font>, 80, pages23073–23089, 2021 (SCI)  
 
 
 ###     *<font color=Blue>Distributed Cooperative Traffic Perception</font>*
@@ -73,10 +73,10 @@ In reality, due to the physical mechanism, the on-board sensors of intelligent v
   
 
 **Related studies**  
-陈小波，陈玲，梁书荣，胡煜. 一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法, 浙江大学学报（工学版）,  2021(EI)  
-陈小波，陈玲.定位噪声统计特性未知的变分贝叶斯协同目标跟踪, 吉林大学学报（工学版）,  2021(EI)  
-Xiaobo Chen, Jianyu Ji, Yanjun Wang. Robust Cooperative Multi-Vehicle Tracking with Inaccurate Self-Localization Based on On-Board Sensors and Inter-Vehicle Communication. Sensors 20(11): 3212, 2020 (SCI)  
-Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji. Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference. Sensors 20(11): 6487, 2020 (SCI)  
+- 陈小波，陈玲，梁书荣，胡煜. <font color=Blue>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</font>, 浙江大学学报（工学版）,  2021(EI)  
+- 陈小波，陈玲.<font color=Blue>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</font>, 吉林大学学报（工学版）,  2021(EI)  
+- Xiaobo Chen, Jianyu Ji, Yanjun Wang. <font color=Blue>Robust Cooperative Multi-Vehicle Tracking with Inaccurate Self-Localization Based on On-Board Sensors and Inter-Vehicle Communication.</font> Sensors 20(11): 3212, 2020 (SCI)  
+- Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji. <font color=Blue>Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference.</font> Sensors 20(11): 6487, 2020 (SCI)  
 
 
 ###     *<font color=Blue>Vehicle Reidentification</font>*
@@ -88,7 +88,7 @@ As the number of motor vehicles continues to increase, the need to use computer 
   ![Vehicle Reidentification](/images/research/vehicle-reidentification/img3.png)
 
 **Related studies**  
-胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，计算机研究与发展，2022(EI)  
+- 胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣. <font color=Blue>基于车辆组件特征与多注意力融合的车辆重识别方法</font>，计算机研究与发展，2022(EI)  
 
 
 ###     *<font color=Blue>Vehicle Trajectory Prediction based on Deep Learning</font>*
@@ -100,7 +100,7 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
   ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img3.png)
 
 **Related studies**  
-Xiaobo Chen, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles (submitted)  
+- Xiaobo Chen, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> (submitted)  
 
 
 ###     *<font color=Blue>EEG based driving fatigue detection based on Multi-view Learning</font>*
@@ -108,7 +108,7 @@ Xiaobo Chen, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Predictio
 Driver fatigue is one of the most influential factors causing traffic accidents. Current studies have revealed that 15%-20% of all fatal traffic accidents are related to driver fatigue while 1,200 deaths and 76,000 injuries were contributed to fatigue-related crashes annually. Electroencephalography (EEG), as a direct manifestation of brain inherent neurophysiological activities in response to particular stimulus, has been widely to detect the driving fatigue due to its high temporal resolution as well as non-invasive acquisition method. Based on the frequency bands, the brain electrical activity rhythms can be classified into delta (0-4Hz), theta (4-8Hz), alpha (8-13Hz) and beta (13-35Hz) waves. Alpha wave frequently occurs during wakefulness, especially in the occipital cortex area of the brain. It was also revealed that the increase of EEG alpha band spindles is related to the fatigue state when subjects drive in the actual monotonous driving environment. Therefore, we attempt to utilize EEG alpha wave to detect driving fatigue.
 
 **Related studies**  
-Xiaobo Chen, Yuxiang Gao, et al., Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection (submitted)  
+- Xiaobo Chen, Yuxiang Gao, et al., <font color=Blue>Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font> (submitted)  
 
 
 ###     *<font color=Blue>High-order Functional Connectivity Network with Applications</font>*
@@ -117,11 +117,11 @@ Xiaobo Chen, Yuxiang Gao, et al., Multi-view Classification via Twin Projection 
 Functional connectivity (FC), defined as the temporal correlation of BOLD signals in different brain regions, can exhibit how structurally segregated and functionally specialized brain regions interact with each other. FC is often modeled as a network using graph theoretic techniques. Differences between normal and disrupted FC networks, in terms of both topological structure and connection strength. Network structure refers to the representation of network vertex and edge while the correlation computation means how to define an appropriate weight for each edge. For network structure in nearly all existing methods, a vertex is always corresponding to a specific brain region, and an edge is used to characterize the FC between brain regions. this method may overlook the complex and dynamic interaction patterns among brain regions, which are essentially time-varying. We propose the novel notions of high-order correlation and high-order FC network, and further develop a simple but effective framework for eMCI classification.
 
 **Related studies**  
-Xiaobo Chen, Han Zhang, Lichi Zhang, Celina Shen, Seong-Whan Lee, Dinggang Shen. Extraction of dynamic functional connectivity from brain grey matter and white matter for MCI classification, Human Brain Mapping,38(10): 5019-5034, 2017 (SCI)  
-Xiaobo Chen, Han Zhang, Dinggang Shen. Hierarchical High-Order Functional Connectivity Networks and Selective Feature Fusion for MCI Classification, Neuroinformatics 15(3):271-284, 2017 (SCI)  
-Xiaobo Chen, Han Zhang, Yu Zhang, Jian Yang, Dinggang Shen. Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification Asian Conference on Pattern Recognition 2017  
-Xiaobo Chen, Han Zhang, Yue Gao, Chong-Yaw Wee, Gang Li, Dinggang Shen. High-Order Resting-State Functional Connectivity Network for MCI Classification, Human Brain Mapping,37(9):3282-96, 2016 (SCI)  
-Xiaobo Chen, Han Zhang, Dinggang Shen, Ensemble Hierarchical High-Order Functional Connectivity Networks for MCI Classification. MICCAI (2) 2016: 18-25  
+- Xiaobo Chen, Han Zhang, Lichi Zhang, Celina Shen, Seong-Whan Lee, Dinggang Shen. <font color=Blue>Extraction of dynamic functional connectivity from brain grey matter and white matter for MCI classification</font>, Human Brain Mapping,38(10): 5019-5034, 2017 (SCI)  
+- Xiaobo Chen, Han Zhang, Dinggang Shen. <font color=Blue>Hierarchical High-Order Functional Connectivity Networks and Selective Feature Fusion for MCI Classification</font>, Neuroinformatics 15(3):271-284, 2017 (SCI)  
+- Xiaobo Chen, Han Zhang, Yu Zhang, Jian Yang, Dinggang Shen. <font color=Blue>Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification</font> Asian Conference on Pattern Recognition 2017  
+- Xiaobo Chen, Han Zhang, Yue Gao, Chong-Yaw Wee, Gang Li, Dinggang Shen. <font color=Blue>High-Order Resting-State Functional Connectivity Network for MCI Classification</font>, Human Brain Mapping,37(9):3282-96, 2016 (SCI)  
+- Xiaobo Chen, Han Zhang, Dinggang Shen, <font color=Blue>Ensemble Hierarchical High-Order Functional Connectivity Networks for MCI Classification</font>. MICCAI (2) 2016: 18-25  
 
 
 ###    *<font color=Blue>Pattern Recognition and Machine Learning</font>*
@@ -131,4 +131,4 @@ Support vector machine (SVM), introduced by Vapnik and colleagues, has played an
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xbchen82@gmail.com](mailto:xbchen82@gmail.com)
