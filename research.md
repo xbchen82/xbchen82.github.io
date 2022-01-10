@@ -28,15 +28,15 @@ n actual traffic environment, the data collected by traffic equipment, e.g., loo
   ![imputation](/images/research/traffic-data-imputation/img4.png)
 
 **Related studies**  
-Xiaobo Chen, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network (submitted)  
-陈小波，梁书荣，柯佳，陈玲，胡煜. 基于图正则化和Schatten-p范数的交通数据缺失值恢复方法, 西南交通大学学报，2022(EI)
-陈小波,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  基于改进低秩矩阵补全的交通量数据缺失值插补方法, 交通运输工程学报 19(5):180-190, 2019(EI)  
-Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data, Neurocomputing 303: 47-59, 2018 (SCI)   
-Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen, Nonconvex lp-norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery, IEEE Access 6: 24279-24290, 2018 (SCI)  
-Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting, IEEE Access 6: 9347-9357，2018 (SCI)  
-Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye. Kernel Sparse Representation with Hybrid Regularization for On-Road Traffic Sensor Data Imputation. Sensors 18(9): 2884, 2018 (SCI)  
-Xiaobo Chen. An Improved Self-Representation Approach for Missing Value Imputation, 24th International Conference on Pattern Recognition, 2018 (EI)  
-Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation, Knowledge-Based Systems, 132 249-262, 2017 (SCI)  
+- Xiaobo Chen, Shurong Liang, et al., <font color=Blue>A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font> (submitted)  
+- 陈小波，梁书荣，柯佳，陈玲，胡煜. <font color=Blue>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</font>, 西南交通大学学报，2022(EI)
+- 陈小波,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  <font color=Blue>基于改进低秩矩阵补全的交通量数据缺失值插补方法</font>, 交通运输工程学报 19(5):180-190, 2019(EI)  
+- Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. <font color=Blue>Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data</font>, Neurocomputing 303: 47-59, 2018 (SCI)   
+- Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen, <font color=Blue>Nonconvex lp-norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery</font>, IEEE Access 6: 24279-24290, 2018 (SCI)  
+- Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, IEEE Access 6: 9347-9357，2018 (SCI)  
+- Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye. <font color=Blue>Kernel Sparse Representation with Hybrid Regularization for On-Road Traffic Sensor Data Imputation.</font> Sensors 18(9): 2884, 2018 (SCI)  
+- Xiaobo Chen. <font color=Blue>An Improved Self-Representation Approach for Missing Value Imputation, 24th International Conference on Pattern Recognition</font>, 2018 (EI)  
+- Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. <font color=Blue>Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation, Knowledge-Based Systems</font>, 132 249-262, 2017 (SCI)  
 
 
 ###     *<font color=Blue>Traffic flow forecasting</font>*
@@ -72,7 +72,7 @@ In reality, due to the physical mechanism, the on-board sensors of intelligent v
   ![Distributed Cooperative Traffic Perception](/images/research/distributed-cooperative-traffic-perception/img6.png)
   
 
-**Related publications**  
+**Related studies**  
 陈小波，陈玲，梁书荣，胡煜. 一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法, 浙江大学学报（工学版）,  2021(EI)  
 陈小波，陈玲.定位噪声统计特性未知的变分贝叶斯协同目标跟踪, 吉林大学学报（工学版）,  2021(EI)  
 Xiaobo Chen, Jianyu Ji, Yanjun Wang. Robust Cooperative Multi-Vehicle Tracking with Inaccurate Self-Localization Based on On-Board Sensors and Inter-Vehicle Communication. Sensors 20(11): 3212, 2020 (SCI)  
