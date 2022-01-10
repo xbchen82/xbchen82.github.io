@@ -5,20 +5,20 @@ permalink: /research/
 ---
 ### Overview
 
-![Our Mission](/images/research/overview/img1.png){: width="700" }
+![Our Mission](/images/research/overview/img1.png){: width="700" }  
 
 - **Macroscopic traffic big data analytics for imputation and prediction**
-  ![macroscopic](/images/research/overview/img2.png)
+  ![macroscopic](/images/research/overview/img2.png)  
 - **Multi-sensor fusion cooperative traffic environment perception**
-  ![multi-sensor](/images/research/overview/img3.png)
+  ![multi-sensor](/images/research/overview/img3.png)  
 - **Personalized biomedical signal understanding for driving safety**
-  ![personalized](/images/research/overview/img4.png)
+  ![personalized](/images/research/overview/img4.png)  
 - **Internet of vehicles and mobile edge computing (MEC)**
-  ![Internet](/images/research/overview/img5.png)
+  ![Internet](/images/research/overview/img5.png)  
 - **Signal control and optimization for traffic safety, efficiency and fuel economy**
-  ![Internet](/images/research/overview/img6.png)
+  ![Internet](/images/research/overview/img6.png)  
 
-### Traffic data imputation
+### <font class=Blue>Traffic data imputation</font>
 
 n actual traffic environment, the data collected by traffic equipment, e.g., loop detectors, are usually not completed where many missing values may occur because of a variety of reasons, such as the failures of loop detectors or transmission network. For example, it was reported that for a dense road network in the city of Melbourne, about 8% of sensor can reach up to 56% missing data. Similarly, about 10% of daily traffic flow in Beijing is missing. Due to the connectivity of road network and the regularity of human travel activity, traffic sensor data collected at different time intervals and different road segments is essentially correlated with each other. Consequently, such a kind of intrinsic correlation between traffic sensor data makes the recovery of missing values feasible and reliable in practice. To address the above mentioned missing sensor data problem, we propose a series of imputation methods based on sparse learning and tensor learning.
   ![imputation](/images/research/traffic-data-imputation/img1.png)
