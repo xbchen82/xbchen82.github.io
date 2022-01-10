@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 
-  ![test](/images/people/test.gif)  
+  
 
 
 
