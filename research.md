@@ -5,9 +5,10 @@ permalink: /research/
 ---
 ### Overview
 
-![Our Mission](/images/img/img-funding.png)
+![Our Mission](/images/research/overview/img1.png)
 
 - Macroscopic traffic big data analytics for imputation and prediction
+  ![macroscopic](/images/research/overview/img2.png)
 - Multi-sensor fusion cooperative traffic environment perception
 - Personalized biomedical signal understanding for driving safety
 - Internet of vehicles and mobile edge computing (MEC)
