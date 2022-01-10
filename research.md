@@ -51,10 +51,7 @@ Xiaobo Chen, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. Spati
 ### Traffic Accident prediction
 
 We focus on a real-world application which predicts whether traffic accident will take place at a specific place based on real-time data as well as the history data. The application of machine learning to improve traffic safety has become an interesting topic recently. Due to the vast deployment of various sensors, such as camera, some import traffic parameters such as volume, speed, etc., can be obtained directly or calculated from video captured by camera. In this application, samples were collected from a road section in Hangzhou city, China from Jun. 11, to Nov. 11 in 2015. A total of 123 accident samples were recorded and accordingly 123 normal samples were selected referring to the time of accident occurrence. Each sample represented by a 24-dimensional vector can be divided into three correlated variable sets: volume, occupancy, and speed, each of which consists of 8 features. These features were obtained from two upstream and two downstream sections closest to the accident location.
-  <div style="display: grid; grid-template-columns: aotu aotu;">
-      <div><img style="height: aotu;" src="images/Traffic-Accident-prediction/img1.png" alt=""></div>
-      <div><img style="height: aotu;" src="images/Traffic-Accident-prediction/img2.png" alt=""></div>
-  </div>
+  ![accident prediction](/images/research/Traffic-Accident-prediction/img.png)
 
 **Related studies**  
 Xiaobo Chen, Yan Xiao. Geometric Projection Twin Support Vector Machine for Pattern Classification Multimedia Tools and Applications, 80, pages23073–23089, 2021 (SCI)  
@@ -81,12 +78,20 @@ Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji. Multi-Vehicle Cooperative Target
 
 As the number of motor vehicles continues to increase, the need to use computer technology to assist manual traffic management has become very urgent. As an important means to locate, track and monitor vehicles in cities, vehicle re-identification has received extensive attention. Vehicle re-identification means that given one image of the target vehicle in a specific area, we can find the images of the target vehicle captured by other cameras. Vehicle re-identification is a special kind of image retrieval problem, which can only use the appearance information of the vehicle and auxiliary information (such as vehicle number, shooting time and location, etc.). The retrieved image can be inconsistent with the given image due to factors such as viewpoint, shooting time and weather. Due to different camera locations, viewing angles, lighting lighting, resolution, and other factors, different images of the same vehicle may look different and different vehicles may produce similar images due to the same viewpoint and vehicle model, all of which pose a challenge to the vehicle re-identification problem.
 
+  ![Vehicle Reidentification](/images/research/vehicle-reidentification/img1.png)
+  ![Vehicle Reidentification](/images/research/vehicle-reidentification/img2.png)
+  ![Vehicle Reidentification](/images/research/vehicle-reidentification/img3.png)
+
 **Related studies**  
 胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，计算机研究与发展，2022(EI)  
 
 ### Vehicle Trajectory Prediction based on Deep Learning
 
 Due to the rapid development of communication network such as C-V2X and 5G, the high transmission bandwidth and low latency have paved the way for internet of vehicles (IoV) where vehicles can share their local information including but not limited to ego motion state, road environmental data captured by different types of sensors, such as camera, LiDAR, to name a few. Especially, the vehicle trajectory data can be gathered by Mobile Edge Computing (MEC) server where real-time trajectory prediction can be carried out. Accurate prediction of the future trajectory of vehicle in certain traffic scene has been an indispensable task with promising applications, e.g., autonomous driving. For instance, if the future trajectory of surrounding vehicles can be accurately predicted in advance, autonomous vehicles will have sufficient time and information for risk assessment and take appropriate actions. As a result, it will be helpful to avoid potential collision and reduce dangerous incidents.
+
+  ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img1.png)
+  ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img2.png)
+  ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img3.png)
 
 **Related studies**  
 Xiaobo Chen, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles (submitted)  
