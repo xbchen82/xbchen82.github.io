@@ -13,8 +13,8 @@ Xiaobo Chen received the B.S. and M.S. degree from Jiangsu University, in 2004 a
 Our research is funded in part from these sources:
 
 ### Funding
-![Desktop View](/images/img/img-funding.png)
-![Desktop View](/images/img/img-funding2.png)
+![National Natural Science Foundation of China](/images/img-funding.png)
+![Taishan Scholars](/images/img-funding2.png)
 
 ### Contact me
 
