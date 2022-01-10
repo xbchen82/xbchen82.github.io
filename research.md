@@ -40,6 +40,8 @@ Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. Ensemble Correla
 ### Traffic flow forecasting
 
 traffic flow forecasting system which predicts the traffic flow at a specific road segment in a certain period of time ahead, plays a fundamental role in various applications, including signal control, traffic guidance, route planning, etc. For example, reliable prediction of future traffic condition will provide valuable information for vehicle navigation and route planning system, thus reducing travel time and improving road utilization. According to the prediction period of time, traffic flow prediction can be categorized into long-term, mid-term, and short-term. For short-term traffic flow forecasting, the period of time is usually in the range of 5-30 minutes. In order to improve the performance of short-term traffic flow forecasting, we develop several effective algorithms based on a variety of machine learning techniques, including support vector machine, feature selection, harmony search, genetic algorithm and ensemble learning.
+  ![forecasting](/images/research/traffic-forecasting/img1.png)
+  ![forecasting](/images/research/traffic-forecasting/img2.png)
 
 **Related studies**  
 Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting, IEEE Access 6: 9347-9357，2018 (SCI)  
@@ -49,6 +51,10 @@ Xiaobo Chen, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. Spati
 ### Traffic Accident prediction
 
 We focus on a real-world application which predicts whether traffic accident will take place at a specific place based on real-time data as well as the history data. The application of machine learning to improve traffic safety has become an interesting topic recently. Due to the vast deployment of various sensors, such as camera, some import traffic parameters such as volume, speed, etc., can be obtained directly or calculated from video captured by camera. In this application, samples were collected from a road section in Hangzhou city, China from Jun. 11, to Nov. 11 in 2015. A total of 123 accident samples were recorded and accordingly 123 normal samples were selected referring to the time of accident occurrence. Each sample represented by a 24-dimensional vector can be divided into three correlated variable sets: volume, occupancy, and speed, each of which consists of 8 features. These features were obtained from two upstream and two downstream sections closest to the accident location.
+  <div style="display: grid; grid-template-columns: aotu aotu;">
+      <div><img style="height: aotu;" src="images/Traffic-Accident-prediction/img1.png" alt=""></div>
+      <div><img style="height: aotu;" src="images/Traffic-Accident-prediction/img2.png" alt=""></div>
+  </div>
 
 **Related studies**  
 Xiaobo Chen, Yan Xiao. Geometric Projection Twin Support Vector Machine for Pattern Classification Multimedia Tools and Applications, 80, pages23073–23089, 2021 (SCI)  
