@@ -7,17 +7,17 @@ permalink: /publications/
 
 ### In progress
 1. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Shurong Liang, et al., </font>**<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">.(submitted)</font>  
-2. **Xiaobo Chen**, Huanjia Zhang, et al., **Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles**. (submitted)  
-3. **Xiaobo Chen**, Yuxiang Gao, et al., **Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection**. (submitted)
+2. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Huanjia Zhang, et al., </font>**<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**<font size=3 face="Times New Roman">. (submitted)</font>  
+3. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Yuxiang Gao, et al., </font>**<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**<font size=3 face="Times New Roman">. (submitted)</font>  
 
 
 ### 2021
-1. Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, **Xiaobo Chen**, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao. **Driving service active sensing system and method in internet of vehicles environment**.US Patent, 11,100,795
-2. Qingsong Xie, Xiangfei Zhang, Islem Rekik, **Xiaobo Chen**, Ning Mao, Dinggang Shen, Feng Zhao.**Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder**.PeerJ 9, e11692
-3. **Xiaobo Chen**, Yan Xiao.**Geometric projection twin support vector machine for pattern classification**.Multimedia Tools and Applications 80 (15), 23073-23089
+1. <font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, </font>**<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao. </font>**<font size=3 face="Times New Roman">Driving service active sensing system and method in internet of vehicles environment</font>**<font size=3 face="Times New Roman">.US Patent, 11,100,795</font>  
+2. <font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, </font>**<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Ning Mao, Dinggang Shen, Feng Zhao.</font>**<font size=3 face="Times New Roman">Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</font>**<font size=3 face="Times New Roman">.PeerJ 9, e11692</font>  
+3. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Yan Xiao.</font>**<font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>**<font size=3 face="Times New Roman">.Multimedia Tools and Applications 80 (15), 23073-23089</font>  
 
 ### 2020
-1. Yu Zhang, Han Zhang, Ehsan Adeli, **Xiaobo Chen**, Mingxia Liu, Dinggang Shen.**Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis**.IEEE Transactions on Cybernetics,2020
+1. <font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, </font>**<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Mingxia Liu, Dinggang Shen.</font>**<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**<font size=3 face="Times New Roman">.IEEE Transactions on Cybernetics,2020</font>  
 2. Yang YU, Jun LIANG, Long CHEN, **Xiaobo CHEN**, Ning ZHU, Guodong HUA.**Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN**.China Mechanical Engineering 31 (23), 2874
 3. Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, **Xiaobo Chen**, Xijian Fan, Wankou Yang, Guowei Yang.**Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics**.IEEE transactions on neural networks and learning systems
 4. Hai Wang, Yijie Yu, Yingfeng Cai, **Xiaobo Chen**, Long Chen, Yicheng Li.**Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models**.IEEE Transactions on Intelligent Vehicles 6 (1), 100-109
