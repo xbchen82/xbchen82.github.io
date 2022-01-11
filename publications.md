@@ -3,10 +3,34 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)
+
+### In progress
+1. **Xiaobo Chen**, Shurong Liang, et al., **A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network**.(submitted) 
+2. **Xiaobo Chen**, Huanjia Zhang, et al., **Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles**. (submitted)  
+3. **Xiaobo Chen**, Yuxiang Gao, et al., **Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection**. (submitted)
 
 
+### 2021
+1. Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, **Xiaobo Chen**, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao. **Driving service active sensing system and method in internet of vehicles environment**.US Patent, 11,100,795
+2. Qingsong Xie, Xiangfei Zhang, Islem Rekik, **Xiaobo Chen**, Ning Mao, Dinggang Shen, Feng Zhao.**Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder**.PeerJ 9, e11692
+3. **Xiaobo Chen**, Yan Xiao.**Geometric projection twin support vector machine for pattern classification**.Multimedia Tools and Applications 80 (15), 23073-23089
+
+### 2020
+1. Yu Zhang, Han Zhang, Ehsan Adeli, **Xiaobo Chen**, Mingxia Liu, Dinggang Shen.**Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis**.IEEE Transactions on Cybernetics,2020
+2. Yang YU, Jun LIANG, Long CHEN, **Xiaobo CHEN**, Ning ZHU, Guodong HUA.**Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN**.China Mechanical Engineering 31 (23), 2874
+3. Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, **Xiaobo Chen**, Xijian Fan, Wankou Yang, Guowei Yang.**Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics**.IEEE transactions on neural networks and learning systems
+4. Hai Wang, Yijie Yu, Yingfeng Cai, **Xiaobo Chen**, Long Chen, Yicheng Li.**Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models**.IEEE Transactions on Intelligent Vehicles 6 (1), 100-109
+5. Zhen Zhou, **Xiaobo Chen**, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen.**A toolbox for brain network construction and classification (BrainNetClass)**.Human brain mapping 41 (10), 2808-2826
+6. Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen.**Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation**.IEEE transactions on medical imaging 39 (10), 3137-3147
+7. Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, **Xiaobo Chen**, Youguang Guo.**Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs**.IEEE Journal of Emerging and Selected Topics in Power Electronics
+8. Yingfeng CAI, Jian LI, Xiaoqiang SUN, Long CHEN, Haobing JIANG, Youguo HE, **Xiaobo CHEN**.**Research on hybrid control strategy for intelligent vehicle path tracking**.China Mechanical Engineering 31 (03), 289
+9. **Xiaobo Chen**, Yanjun Wang, Ling Chen, Jianyu Ji.**Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference**.Sensors 20 (22), 6487
+10. **Xiaobo Chen**, Jianyu Ji, Yanjun Wang.**Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication**.Sensors 20 (11), 3212
+
+### Accepted
 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xbchen82@gmail.com](mailto:xbchen82@gmail.com)
