@@ -6,7 +6,7 @@ permalink: /publications/
 [My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)
 
 ### In progress
-1. **Xiaobo Chen**, Shurong Liang, et al., **A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network**.(submitted) 
+1. <font size=2 face="Times New Roman">**Xiaobo Chen**, Shurong Liang, et al., **A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network**.(submitted)  </font>
 2. **Xiaobo Chen**, Huanjia Zhang, et al., **Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles**. (submitted)  
 3. **Xiaobo Chen**, Yuxiang Gao, et al., **Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection**. (submitted)
 
