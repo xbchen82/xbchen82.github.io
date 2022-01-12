@@ -6,15 +6,23 @@ permalink: /publications/
 *[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
 ### In progress
-1. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Shurong Liang, et al., </font>**<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">.(submitted)</font>  
-2. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Huanjia Zhang, et al., </font>**<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**<font size=3 face="Times New Roman">. (submitted)</font>  
-3. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Yuxiang Gao, et al., </font>**<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**<font size=3 face="Times New Roman">. (submitted)</font>  
+- **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">.
+  <font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font>
+  <font size=3 face="Times New Roman">(submitted).</font>  
+- **<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**.
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font>
+  <font size=3 face="Times New Roman"> (submitted)</font>  
+- </font>**<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font>
+  <font size=3 face="Times New Roman">. (submitted)</font>  
 
 
 ### 2021
-1. <font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, <b>Xiaobo Chen</b>, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao. <b>Driving service active sensing system and method in internet of vehicles environment<b>. US Patent, 11,100,795</font>  
-2. <font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, <b>Xiaobo Chen</b>, Ning Mao, Dinggang Shen, Feng Zhao. <b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b>.PeerJ 9, e11692</font>  
-3. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Yan Xiao.</font>**<font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>**<font size=3 face="Times New Roman">.Multimedia Tools and Applications 80 (15), 23073-23089</font>  
+- <font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment<b>.</font>  
+  <font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, Xiaobo Chen, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao.</font>
+  <font size=3 face="Times New Roman">US Patent, 11,100,795</font>
+1. <font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, <b>Xiaobo Chen</b>, Ning Mao, Dinggang Shen, Feng Zhao. <b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b>.PeerJ 9, e11692</font>  
+2. **<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Yan Xiao.</font>**<font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>**<font size=3 face="Times New Roman">.Multimedia Tools and Applications 80 (15), 23073-23089</font>  
 
 ### 2020
 1. <font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli,</font>**<font size=3 face="Times New Roman">Xiaobo Chen</font>**<font size=3 face="Times New Roman">, Mingxia Liu, Dinggang Shen.</font>**<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**<font size=3 face="Times New Roman">.IEEE Transactions on Cybernetics,2020</font>  
