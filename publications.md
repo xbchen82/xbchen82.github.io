@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 *[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
-[2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | 2015 | 2014 | 2013 | 2012 | 2011 
+[2021](#2021)  |  [2020](#2020)  |  [2019](#2019)  |  [2018](#2018)  |  [2017](#2017)  |  [2016](#2016)  |  2015  |  2014  |  2013  |  2012  |  2011  | 
 
 ### In progress
 - **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">.  
@@ -70,7 +70,7 @@ permalink: /publications/
 - **<font size=3 face="Times New Roman">Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference.</font>**  
   <font size=3 face="Times New Roman">Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji.</font>  
   <font size=3 face="Times New Roman">Sensors 20 (22), 6487</font>  
-  
+
 - **<font size=3 face="Times New Roman">Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication.</font>**  
   <font size=3 face="Times New Roman">Xiaobo Chen, Jianyu Ji, Yanjun Wang.</font>  
   <font size=3 face="Times New Roman">Sensors 20 (11), 3212</font>  
