@@ -14,4 +14,4 @@ The Traffic Information Intelligent Perception and Control Laboratory (TIIPC Lab
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com) -->

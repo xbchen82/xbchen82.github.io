@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 *[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
-[2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  2015  ||  2014  ||  2013  ||  2012  ||  2011   
+[2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### In progress
 - **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">.  
@@ -74,6 +74,40 @@ permalink: /publications/
 - **<font size=3 face="Times New Roman">Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication.</font>**  
   <font size=3 face="Times New Roman">Xiaobo Chen, Jianyu Ji, Yanjun Wang.</font>  
   <font size=3 face="Times New Roman">Sensors 20 (11), 3212</font>  
+
+### 2019
+- **<font size=3 face="Times New Roman">Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks</font>**  
+<font size=3 face="Times New Roman">Luyan Liu, Han Zhang, Jinsong Wu, Zhengda Yu, Xiaobo Chen, Islem Rekik, Qian Wang, Junfeng Lu, Dinggang Shen</font>  
+<font size=3 face='Times New Roman'>Brain imaging and behavior 13 (5), 1333-1351</font>  
+
+- **<font size=3 face='Times New Roman'>Treatment-naive first episode depression classification based on high-order brain functional network</font>**  
+  <font size=3 face='Times New Roman'>Yanting Zheng, Xiaobo Chen, Danian Li, Yujie Liu, Xin Tan, Yi Liang, Han Zhang, Shijun Qiu, Dinggang Shen</font>  
+  <font size=3 face='Times New Roman'>Journal of affective disorders 256, 33-41</font>  
+
+- **<font size=3 face='Times New Roman'>Strength and similarity guided group-level brain functional network construction for MCI diagnosis</font>**  
+  <font size=3 face='Times New Roman'>Yu Zhang, Han Zhang, Xiaobo Chen, Mingxia Liu, Xiaofeng Zhu, Seong-Whan Lee, Dinggang Shen</font>  
+  <font size=3 face='Times New Roman'>Pattern recognition 88, 421-430</font>  
+
+- **<font size=3 face='Times New Roman'>A comparative study of state-of-the-art deep learning algorithms for vehicle detection</font>**  
+  <font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Qingchao Liu</font>  
+  <font size=3 face='Times New Roman'>IEEE Intelligent Transportation Systems Magazine 11 (2), 82-95</font>  
+  
+- **<font size=3 face='Times New Roman'>基于改进低秩矩阵补全的交通量数据缺失值插补方法</font>**  
+  <font size=3 face='Times New Roman'>陈小波， 陈程， 陈蕾， 韦中杰， 蔡英凤， 周俊杰</font>  
+  <font size=3 face='Times New Roman'>交通运输工程学报 5</font>  
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+
+
 
 ### Accepted
 

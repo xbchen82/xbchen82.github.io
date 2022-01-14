@@ -4,11 +4,11 @@ title: People
 permalink: /people/
 ---
 
-
+**<font size=4 face='Times New Roman'>Principal Investigator</font>**
   
 
 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xbchen82@gmail.com](mailto:xbchen82@gmail.com)
