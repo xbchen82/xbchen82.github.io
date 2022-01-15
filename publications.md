@@ -76,9 +76,9 @@ permalink: /publications/
   <font size=3 face="Times New Roman">Sensors 20 (11), 3212</font>  
 
 ### 2019
-- **<font size=3 face="Times New Roman">Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks</font>**  
-<font size=3 face="Times New Roman">Luyan Liu, Han Zhang, Jinsong Wu, Zhengda Yu, Xiaobo Chen, Islem Rekik, Qian Wang, Junfeng Lu, Dinggang Shen</font>  
-<font size=3 face='Times New Roman'>Brain imaging and behavior 13 (5), 1333-1351</font>  
+- **<font size=3 face="Times New Roman">Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks</font>**
+  <font size=3 face="Times New Roman">Luyan Liu, Han Zhang, Jinsong Wu, Zhengda Yu, Xiaobo Chen, Islem Rekik, Qian Wang, Junfeng Lu, Dinggang Shen</font>  
+  <font size=3 face='Times New Roman'>Brain imaging and behavior 13 (5), 1333-1351</font>  
 
 - **<font size=3 face='Times New Roman'>Treatment-naive first episode depression classification based on high-order brain functional network</font>**  
   <font size=3 face='Times New Roman'>Yanting Zheng, Xiaobo Chen, Danian Li, Yujie Liu, Xin Tan, Yi Liang, Han Zhang, Shijun Qiu, Dinggang Shen</font>  
@@ -97,6 +97,82 @@ permalink: /publications/
   <font size=3 face='Times New Roman'>交通运输工程学报 5</font>  
   
   
+### 2018
+- **<font size=3 face='Times New Roman'>A vehicle recognition algorithm based on deep transfer learning with a multiple feature subspace distribution</font>**  
+  <font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Long Chen, Xiaobo Chen</font>  
+  <font size=3 face='Times New Roman'>Sensors 18 (12), 4109</font>  
+
+- **<font size=3 face='Times New Roman'>Vehicle detection by fusing part model learning and semantic scene information for complex urban surveillance</font>**  
+  <font size=3 face='Times New Roman'>Yingfeng Cai, Ze Liu, Hai Wang, Xiaobo Chen, Long Chen</font>  
+  <font size=3 face='Times New Roman'>Sensors 18 (10), 3505</font>  
+
+- **<font size=3 face='Times New Roman'>Kernel sparse representation with hybrid regularization for on-road traffic sensor data imputation</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye</font>  
+  <font size=3 face='Times New Roman'>Sensors 18 (9), 2884</font>  
+
+- **<font size=3 face='Times New Roman'>Improved Robust Discriminant Analysis for Feature Extraction</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen</font>  
+  <font size=3 face='Times New Roman'>2018 24th International Conference on Pattern Recognition (ICPR), 1444-1449</font>  
+
+- **<font size=3 face='Times New Roman'>An Improved Self-Representation Approach for Missing Value Imputation</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen</font>  
+  <font size=3 face='Times New Roman'>2018 24th International Conference on Pattern Recognition (ICPR), 1450-1455</font>  
+
+- **<font size=3 face='Times New Roman'>Graph regularized local self-representation for missing value imputation with applications to on-road traffic sensor data</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li</font>  
+  <font size=3 face='Times New Roman'>Neurocomputing 303, 47-59</font>  
+  
+- **<font size=3 face='Times New Roman'>Nonconvex-Norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen</font>  
+  <font size=3 face='Times New Roman'>IEEE Access 6, 24279-24290</font>  
+
+- **<font size=3 face='Times New Roman'>Multi-layer multi-view classification for Alzheimer’s disease diagnosis</font>**  
+  <font size=3 face='Times New Roman'>Changqing Zhang, Ehsan Adeli, Tao Zhou, Xiaobo Chen, Dinggang Shen</font>  
+  <font size=3 face='Times New Roman'>Proceedings of the AAAI Conference on Artificial Intelligence</font>  
+  
+- **<font size=3 face='Times New Roman'>Ensemble learning multiple LSSVR with improved harmony search algorithm for short-term traffic flow forecasting</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu</font>  
+  <font size=3 face='Times New Roman'>Ieee Access 6, 9347-9357</font>  
+
+- **<font size=3 face='Times New Roman'>A novel method for air quality data imputation by nuclear norm minimization</font>**  
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yan Xiao</font>  
+  <font size=3 face='Times New Roman'>Journal of Sensors 2018</font>  
+
+- **<font size=3 face='Times New Roman'>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</font>**  
+  <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font>  
+  <font size=3 face='Times New Roman'>IEEE Access 6, 9690-9702</font>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+
+  
+  
+
+  
+  
+
+
+  
+  
+
+
+  
+  
+
+  
+  
+
 
   
 
