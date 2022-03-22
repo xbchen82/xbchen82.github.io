@@ -9,7 +9,9 @@ permalink: /publications/
 
 ### In progress
 - **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">. <br> 
+
   <font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font>  <br>
+  
   <font size=3 face="Times New Roman">(submitted).</font>  
 
 - **<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**.  <br>
