@@ -9,19 +9,19 @@ permalink: /publications/
 
 ### In progress
 - **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**<font size=3 face="Times New Roman">. <br> 
-  <font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font><br/>
   <font size=3 face="Times New Roman">submitted to IEEE xxx</font>  
 
 - **<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**.  <br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br/>
   <font size=3 face="Times New Roman">submitted to IEEE xxx</font>  
 
 - **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**  <br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font><br/>
   <font size=3 face="Times New Roman">submitted to IEEE xxx</font>  
   
 - **<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**  <br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br/>
   <font size=3 face="Times New Roman">submitted to IEEE xxx</font>  
 
 
