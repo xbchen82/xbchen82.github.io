@@ -36,12 +36,12 @@ permalink: /publications/
 
 - **<font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>**  
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yan Xiao.</font></p>  
-  <p><font size=3 face="Times New Roman">.Multimedia Tools and Applications 80 (15), 23073-23089</font></p>  
+  <p><font size=3 face="Times New Roman">Multimedia Tools and Applications 80 (15), 23073-23089</font></p>  
 
 ### 2020
 - **<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**  
   <p><font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen.</font></p>  
-  <p><font size=3 face="Times New Roman">.IEEE Transactions on Cybernetics,2020</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Cybernetics,2020</font></p>  
 
 - **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**.
   <p><font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA.</font></p>  
