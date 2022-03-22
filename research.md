@@ -39,7 +39,7 @@ n actual traffic environment, the data collected by traffic equipment, e.g., loo
 - Xiaobo Chen, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. <font color=Blue>Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation</font>, Knowledge-Based Systems, 132 249-262, 2017 (SCI)  
 
 
-###     *<font color=Blue>Traffic flow forecasting</font>*
+###   *<font color=Blue>Traffic flow forecasting</font>*
 
 traffic flow forecasting system which predicts the traffic flow at a specific road segment in a certain period of time ahead, plays a fundamental role in various applications, including signal control, traffic guidance, route planning, etc. For example, reliable prediction of future traffic condition will provide valuable information for vehicle navigation and route planning system, thus reducing travel time and improving road utilization. According to the prediction period of time, traffic flow prediction can be categorized into long-term, mid-term, and short-term. For short-term traffic flow forecasting, the period of time is usually in the range of 5-30 minutes. In order to improve the performance of short-term traffic flow forecasting, we develop several effective algorithms based on a variety of machine learning techniques, including support vector machine, feature selection, harmony search, genetic algorithm and ensemble learning.
   ![forecasting](/images/research/traffic-forecasting/img1.png)
