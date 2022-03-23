@@ -4,13 +4,13 @@ title: Biography
 permalink: /biography/
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授一直从事模式识别理论与方法及其在智能交通、医学影响等领域的应用研究。在IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用1800余次。单篇最高被引用160余次，3篇一作论文被引用超过100次。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才（2017-2021），山东省“泰山学者”青年专家（2021-2025）等省级人才项目。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE/CCF Member)一直从事模式识别理论与方法及其在智能交通、医学影像等领域的应用研究。在IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用1800余次。单篇最高被引用160余次，3篇一作论文被引用超过100次。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
 
 ### Education Experience
 - **<font size=3>博士</font>**
   <p><font size=3>学校：南京理工大学</font></p>
   <p><font size=3>专业：模式识别与智能系统(国家重点学科)</font></p>
-  <p><font size=3>导师：杨健(长江学者，国家杰青)</font></p>
+  <p><font size=3>导师：<a href="http://www.patternrecognition.asia/jian/">杨健</a>(长江学者，国家杰青)</font></p>
   <p><font size=3>年份：2009-2013</font></p>
 
 - **<font size=3>硕士</font>**
@@ -36,12 +36,12 @@ permalink: /biography/
 ### Visiting Experience
 - **<font size=3>美国北卡罗来纳大学教堂山分校(UNC-CH)</font>**
   <p><font size=3>职务：博士后研究员</font></p>
-  <p><font size=3>合作导师：沈定刚(IEEE Fellow)</font></p>
+  <p><font size=3>合作导师：<a href="https://bme.shanghaitech.edu.cn/2021/0205/c8204a59374/page.htm">沈定刚</a>(IEEE Fellow)</font></p>
   <p><font size=3>年份：2015-2017</font></p>
   
 - **<font size=3>香港理工大学</font>**
   <p><font size=3>职务：研究助理</font></p>
-  <p><font size=3>导师：张大鹏(IEEE Fellow)</font></p>
+  <p><font size=3>导师：<a href="http://www4.comp.polyu.edu.hk/~csdzhang/">张大鹏</a>(IEEE Fellow)</font></p>
   <p><font size=3>年份：2011</font></p>
   
 ### Research Awards  
