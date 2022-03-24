@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-permalink: /members/
+permalink: /Resource/
 ---
 
 **<font size=4 face='Times New Roman'>Principal Investigator</font>**
