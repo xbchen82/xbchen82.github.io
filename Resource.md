@@ -6,7 +6,6 @@ permalink: /resource/
 
 **<font size=4 face='Times New Roman'>Data and Code resource</font>**
   
-[Code](#Code)  ||  [Data](#Data)
 
 ### Code
 
