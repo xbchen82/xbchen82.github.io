@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Members
+title: Resource
 permalink: /Resource/
 ---
 
-**<font size=4 face='Times New Roman'>Principal Investigator</font>**
+**<font size=4 face='Times New Roman'>Data and Code resource</font>**
   
 
 
