@@ -11,7 +11,7 @@ permalink: /Resource/
 ### Code
 
 - **<font size=3 face="Times New Roman">Code for our paper "A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network"</font>**
-  <p><font size=3 face="Times New Roman">https://xbchen82.github.io/lrssrtc</font></p>
+ 
 
 - **<font size=3 face="Times New Roman">Code for our paper "Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles"</font>**
   <p><font size=3 face="Times New Roman">https://xbchen82.github.io/stdan</font></p>
