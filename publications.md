@@ -24,13 +24,33 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
+### 2022
+- **<font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>  **
+  <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*.</font></p>  
+  <p><font size=3 face="Times New Roman">International Conference on Pattern Recognition (ICPR 2022), accepted</font></p>
+
+- **<font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font> **
+  <p><font size=3>胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣.</font></p>  
+  <p><font size=3>计算机研究与发展 (<b>EI，CCF推荐A类中文期刊</b>)</font></p>  
+
+- **<font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font> **
+  <p><font size=3>陈小波，梁书荣，柯佳，陈玲，胡煜.</font></p>  
+  <p><font size=3>西南交通大学学报 (<b>EI</b>)</font></p>  
+  
+- **<font size=3><b>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</b></font> **
+  <p><font size=3>陈小波，陈玲，梁书荣，胡煜.</font></p>  
+  <p><font size=3>浙江大学学报（工学版） (<b>EI</b>)</font></p>  
+  
+- **<font size=3><b>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</b></font> **
+  <p><font size=3>陈小波，陈玲.</font></p>  
+  <p><font size=3>吉林大学学报（工学版） (<b>EI</b>)</font></p>  
 
 ### 2021
-- <font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b>.</font>  
+- **<font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font> **
   <p><font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, Xiaobo Chen, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao.</font></p>  
   <p><font size=3 face="Times New Roman">US Patent, 11,100,795</font></p>  
 
-- <font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b>.</font>    
+- **<font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b></font> **  
   <p><font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, Xiaobo Chen, Ning Mao, Dinggang Shen, Feng Zhao.</font></p>  
   <p><font size=3 face="Times New Roman">PeerJ 9, e11692</font></p>  
 
@@ -43,27 +63,27 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen.</font></p>  
   <p><font size=3 face="Times New Roman">IEEE Transactions on Cybernetics,2020</font></p>  
 
-- **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**.
+- **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**
   <p><font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA.</font></p>  
   <p><font size=3 face="Times New Roman">China Mechanical Engineering 31 (23), 2874</font></p>  
 
-- **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**.  
+- **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**
   <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, **Xiaobo Chen**, Xijian Fan, Wankou Yang, Guowei Yang.</font></p>  
   <p><font size=3 face="Times New Roman">IEEE transactions on neural networks and learning systems</font></p>  
 
-- **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**.
+- **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**
   <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li.</font></p>  
   <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Vehicles 6 (1), 100-109</font></p>  
 
-- **<font size=3 face="Times New Roman">A toolbox for brain network construction and classification (BrainNetClass)</font>**.  
+- **<font size=3 face="Times New Roman">A toolbox for brain network construction and classification (BrainNetClass)</font>**
   <p><font size=3 face="Times New Roman">Zhen Zhou, **Xiaobo Chen**, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen.</font></p>  
   <p><font size=3 face="Times New Roman">Human brain mapping 41 (10), 2808-2826</font></p>  
 
-- **<font size=3 face="Times New Roman">Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation.</font>**
+- **<font size=3 face="Times New Roman">Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation</font>**
   <p><font size=3 face="Times New Roman">Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen.</font></p>  
   <p><font size=3 face="Times New Roman">IEEE transactions on medical imaging 39 (10), 3137-3147</font></p>  
 
-- **<font size=3 face="Times New Roman">Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</font>**.  
+- **<font size=3 face="Times New Roman">Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</font>**
   <p><font size=3 face="Times New Roman">Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, Xiaobo Chen, Youguang Guo.</font></p>  
   <p><font size=3 face="Times New Roman">IEEE Journal of Emerging and Selected Topics in Power Electronics</font></p>  
 
@@ -71,11 +91,11 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Yingfeng CAI, Jian LI, Xiaoqiang SUN, Long CHEN, Haobing JIANG, Youguo HE, Xiaobo CHEN.</font></p>  
   <p><font size=3 face="Times New Roman">China Mechanical Engineering 31 (03), 289</font></p>  
 
-- **<font size=3 face="Times New Roman">Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference.</font>**  
+- **<font size=3 face="Times New Roman">Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference</font>**  
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji.</font></p>  
   <p><font size=3 face="Times New Roman">Sensors 20 (22), 6487</font></p>  
 
-- **<font size=3 face="Times New Roman">Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication.</font>**  
+- **<font size=3 face="Times New Roman">Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication</font>**  
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Jianyu Ji, Yanjun Wang.</font></p>  
   <p><font size=3 face="Times New Roman">Sensors 20 (11), 3212</font></p>  
 
