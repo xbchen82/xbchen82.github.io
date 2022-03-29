@@ -25,36 +25,36 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
-- **<font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>  **
+- <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
   <p><font size=3 face="Times New Roman">International Conference on Pattern Recognition (ICPR 2022), accepted</font></p>
 
-- **<font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font> **
+- <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
   <p><font size=3>胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣</font></p>  
   <p><font size=3>计算机研究与发展 (<b>EI，CCF推荐A类中文期刊</b>)</font></p>  
 
-- **<font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font> **
+- <font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font>
   <p><font size=3>陈小波，梁书荣，柯佳，陈玲，胡煜</font></p>  
   <p><font size=3>西南交通大学学报 (<b>EI</b>)</font></p>  
   
-- **<font size=3><b>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</b></font> **
+- <font size=3><b>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</b></font>
   <p><font size=3>陈小波，陈玲，梁书荣，胡煜</font></p>  
   <p><font size=3>浙江大学学报(工学版) (<b>EI</b>)</font></p>  
   
-- **<font size=3><b>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</b></font> **
+- <font size=3><b>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</b></font>
   <p><font size=3>陈小波，陈玲</font></p>  
   <p><font size=3>吉林大学学报(工学版) (<b>EI</b>)</font></p>  
 
 ### 2021
-- **<font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font> **
+- <font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font>
   <p><font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, Xiaobo Chen, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao</font></p>  
   <p><font size=3 face="Times New Roman">US Patent, 11,100,795</font></p>  
 
-- **<font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b></font> **  
+- <font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b></font>
   <p><font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, Xiaobo Chen, Ning Mao, Dinggang Shen, Feng Zhao</font></p>  
   <p><font size=3 face="Times New Roman">PeerJ 9, e11692</font></p>  
 
-- **<font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>**  
+- <font size=3 face="Times New Roman">Geometric projection twin support vector machine for pattern classification</font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yan Xiao</font></p>  
   <p><font size=3 face="Times New Roman">Multimedia Tools and Applications 80 (15), 23073-23089</font></p>  
 
