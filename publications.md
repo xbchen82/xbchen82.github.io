@@ -68,7 +68,7 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">China Mechanical Engineering 31 (23), 2874</font></p>  
 
 - **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**
-  <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, **Xiaobo Chen**, Xijian Fan, Wankou Yang, Guowei Yang</font></p>  
+  <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font></p>  
   <p><font size=3 face="Times New Roman">IEEE transactions on Neural Networks and Learning Systems (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**
