@@ -69,7 +69,7 @@ permalink: /publications/
 
 - **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**
   <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font></p>  
-  <p><font size=3 face="Times New Roman">IEEE transactions on Neural Networks and Learning Systems (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Neural Networks and Learning Systems (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**
   <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font></p>  
@@ -77,11 +77,11 @@ permalink: /publications/
 
 - **<font size=3 face="Times New Roman">A toolbox for brain network construction and classification (BrainNetClass)</font>**
   <p><font size=3 face="Times New Roman">Zhen Zhou, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman">Human brain mapping 41 (10), 2808-2826 (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">Human Brain Mapping 41 (10), 2808-2826 (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation</font>**
   <p><font size=3 face="Times New Roman">Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman">IEEE transactions on Medical Imaging 39 (10), 3137-3147 (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Medical Imaging 39 (10), 3137-3147 (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</font>**
   <p><font size=3 face="Times New Roman">Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, Xiaobo Chen, Youguang Guo</font></p>  
@@ -110,7 +110,7 @@ permalink: /publications/
 
 - **<font size=3 face='Times New Roman'>Strength and similarity guided group-level brain functional network construction for MCI diagnosis</font>**  
   <p><font size=3 face='Times New Roman'>Yu Zhang, Han Zhang, Xiaobo Chen, Mingxia Liu, Xiaofeng Zhu, Seong-Whan Lee, Dinggang Shen</font></p>
-  <p><font size=3 face='Times New Roman'>Pattern recognition 88, 421-430 (SCI)</font></p>
+  <p><font size=3 face='Times New Roman'>Pattern Recognition 88, 421-430 (SCI)</font></p>
 
 - **<font size=3 face='Times New Roman'>A comparative study of state-of-the-art deep learning algorithms for vehicle detection</font>**  
   <p><font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Qingchao Liu</font></p>
