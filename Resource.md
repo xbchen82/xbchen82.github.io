@@ -4,7 +4,7 @@ title:
 permalink: /resource/
 ---
 
-**<font size=4 face='Times New Roman'>Data and Code resource</font>**
+**<font size=4 face='Times New Roman'>Code and Data resource</font>**
   
 
 ### Code
