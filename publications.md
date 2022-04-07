@@ -12,9 +12,6 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
 
-- **<font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
 
 - **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
@@ -25,12 +22,16 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
+- <font size=3 face="Times New Roman">Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, accepted</font></p>
+
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
   <p><font size=3 face="Times New Roman">International Conference on Pattern Recognition (ICPR 2022), accepted</font></p>
 
 - <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
-  <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲,  梁书荣</font></p>  
+  <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲, 梁书荣</font></p>  
   <p><font size=3>计算机研究与发展 (EI，CCF推荐A类中文期刊)</font></p>  
 
 - <font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font>
