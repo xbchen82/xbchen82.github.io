@@ -91,7 +91,7 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/cc.jpg" alt="陈程" width="50px" height="65px"></td>
-		<td valign="middle">陈程&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复</td>		
+		<td valign="middle">陈程&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复。毕业去向：东南大学读博</td>		
     </tr>
 </table>
 
@@ -107,7 +107,7 @@ permalink: /members/
 <table>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/wzj.jpg" alt="韦中杰" width="50px" height="65px"></td>
-		<td valign="middle">韦中杰&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复</td>		
+		<td valign="middle">韦中杰&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复。毕业去向：苏州博世汽车有限公司</td>		
     </tr>
 </table>
 
@@ -115,7 +115,7 @@ permalink: /members/
 <table>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/lx.jpg" alt="刘祥" width="50px" height="65px"></td>
-		<td valign="middle">刘祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通流预测</td>		
+		<td valign="middle">刘祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通流预测。毕业去向：安波福中央电气有限公司</td>		
     </tr>
 </table>
 
