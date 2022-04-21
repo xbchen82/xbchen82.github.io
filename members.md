@@ -18,25 +18,6 @@ permalink: /members/
 
 **<font size=4 face='Times New Roman'>Students</font>**
 <p><b>2021级</b></p>
-<table>
-    <tr>
-        <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="120px"></td>
-		<td>研究方向：车辆重识别</td>		
-    </tr>
-	<tr>
-        <td><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="120px"></td>
-		<td>研究方向：交通图像语义分割</td>		
-    </tr>
-	<tr>
-        <td><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="120px"></td>
-		<td>研究方向：车辆轨迹预测</td>		
-    </tr>
-	<tr>
-        <td><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="120px"></td>
-		<td>研究方向：多视图半监督机器学习</td>		
-    </tr>
-</table>
-
 
 <table>
     <tr>
@@ -82,6 +63,22 @@ permalink: /members/
 </table>
 
 <p><b>2019级</b></p>
+
+<table>
+    <tr>
+        <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="梁书荣" width="80px" height="120px"></td>
+		<td>研究方向：交通数据缺失值恢复</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/lfb.jpg" alt="陈玲" width="80px" height="120px"></td>
+		<td>研究方向：多目标协同跟踪</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/wy.jpg" alt="胡煜" width="80px" height="120px"></td>
+		<td>研究方向：车辆重识别与车辆轨迹预测</td>		
+    </tr>
+</table>
+
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/lsr.jpg" alt="梁书荣" width="50px" height="70px"></td>
