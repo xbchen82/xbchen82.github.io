@@ -4,8 +4,19 @@ title: Members
 permalink: /members/
 ---
 
-**<font size=4 face='Times New Roman'>Principal Investigator</font>**
-  
+
+**<font size=4 face='Times New Roman'>Faculty</font>**
+
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>陈小波</td>
+		<td>赵峰</td>
+    </tr>
+</table>  
 
 **<font size=4 face='Times New Roman'>Students</font>**
 <p><b>2021级</b></p>
@@ -106,6 +117,8 @@ permalink: /members/
         <td>刘祥</td>
     </tr>
 </table>
+
+
 
 ### Contact me
 
