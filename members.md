@@ -118,9 +118,3 @@ permalink: /members/
 		<td valign="middle">刘祥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通流预测。毕业去向：安波福中央电气有限公司</td>		
     </tr>
 </table>
-
-
-
-### Contact me
-
-[xbchen82@gmail.com](mailto:xbchen82@gmail.com)
