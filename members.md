@@ -11,10 +11,10 @@ permalink: /members/
 <p><b>2021级</b></p>
 <table>
     <tr>
-        <td>![Alt text](D:/ALPS/xbchen82.github.io/images/me.jpg)</td>
-		<td>![Alt text](D:/ALPS/xbchen82.github.io/images/me.jpg)</td>
-		<td>![Alt text](D:/ALPS/xbchen82.github.io/images/me.jpg)</td>
-		<td>![Alt text](D:/ALPS/xbchen82.github.io/images/me.jpg)</td>
+        <td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
     </tr>
 	<tr>
         <td>余昊泽</td>
