@@ -9,7 +9,7 @@ permalink: /members/
 
 <table>
     <tr>
-        <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="50px" height="70px"></td>
+        <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="80px" height="120px"></td>
     </tr>
 	<tr>
         <td><center>陈小波</center></td>
@@ -18,6 +18,26 @@ permalink: /members/
 
 **<font size=4 face='Times New Roman'>Students</font>**
 <p><b>2021级</b></p>
+<table>
+    <tr>
+        <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="120px"></td>
+		<td>研究方向：车辆重识别</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="120px"></td>
+		<td>研究方向：交通图像语义分割</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="120px"></td>
+		<td>研究方向：车辆轨迹预测</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="120px"></td>
+		<td>研究方向：多视图半监督机器学习</td>		
+    </tr>
+</table>
+
+
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="50px" height="70px"></td>
@@ -43,7 +63,7 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="50px" height="70px"></td>
-		<td><img src="https://xbchen82.github.io/images/gyx.jpg" alt="高玉祥" width="50px" height="70px"></td>
+		<td><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="50px" height="70px"></td>
 		<td><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="50px" height="70px"></td>
 		<td><img src="https://xbchen82.github.io/images/rbb.jpg" alt="任彬彬" width="50px" height="70px"></td>
     </tr>
