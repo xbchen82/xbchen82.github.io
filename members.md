@@ -82,7 +82,7 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/wyj.jpg" alt="王彦钧" width="50px" height="65px"></td>
-		<td valign="middle">王彦钧&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多目标协同跟踪</td>		
+		<td valign="middle">王彦钧&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多目标协同跟踪。毕业去向：哪吒汽车</td>		
     </tr>
 </table>
 
