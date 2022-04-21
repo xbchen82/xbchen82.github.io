@@ -78,7 +78,7 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/jjy.jpg" alt="冀建宇" width="50px" height="65px"></td>
-		<td valign="middle">冀建宇&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多目标协同跟踪</td>		
+		<td valign="middle">冀建宇&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多目标协同跟踪。毕业去向：上海汽检</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/wyj.jpg" alt="王彦钧" width="50px" height="65px"></td>
