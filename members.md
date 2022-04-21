@@ -41,17 +41,72 @@ permalink: /members/
 </table>
 
 <p><b>2019级</b></p>
-梁书荣、陈玲、胡煜
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>梁书荣</td>
+		<td>陈玲</td>
+		<td>胡煜</td>
+    </tr>
+</table>
+
 <p><b>2018级</b></p>
-冀建宇、王彦钧
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>冀建宇</td>
+		<td>王彦钧</td>
+    </tr>
+</table>
+
 <p><b>2017级</b></p>
-陈程
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>陈程</td>
+    </tr>
+</table>
+
+
 <p><b>2016级</b></p>
-蔡新闻
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>蔡新闻</td>
+    </tr>
+</table>
+
 <p><b>2015级</b></p>
-韦中杰
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>韦中杰</td>
+    </tr>
+</table>
+
 <p><b>2014级</b></p>
-刘祥
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>刘祥</td>
+    </tr>
+</table>
+
 ### Contact me
 
 [xbchen82@gmail.com](mailto:xbchen82@gmail.com)
