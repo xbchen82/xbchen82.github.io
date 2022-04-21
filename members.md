@@ -10,7 +10,7 @@ permalink: /members/
 <table>
     <tr>
         <td>![text](/images/me.jpg)</td>
-		<td>![text](/images/me.jpg)</td>
+		<td><img src="images/me.jpg" alt="人物图片"></td>
     </tr>
 	<tr>
         <td>陈小波</td>
