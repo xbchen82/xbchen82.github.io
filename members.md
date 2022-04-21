@@ -23,9 +23,23 @@ permalink: /members/
 		<td>杜健</td>
     </tr>
 </table>
-余昊泽、罗锋波、王勇、杜健
+
 <p><b>2020级</b></p>
-张欢嘉、高玉祥、张致豪、任彬彬
+<table>
+    <tr>
+        <td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+		<td>![text](/images/me.jpg)</td>
+    </tr>
+	<tr>
+        <td>张欢嘉</td>
+		<td>高玉祥</td>
+		<td>张致豪</td>
+		<td>任彬彬</td>
+    </tr>
+</table>
+
 <p><b>2019级</b></p>
 梁书荣、陈玲、胡煜
 <p><b>2018级</b></p>
