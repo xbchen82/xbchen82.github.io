@@ -26,7 +26,3 @@ permalink: /chinese/
 
 ### 车联网
 
-
-### Contact me
-
-[xbchen82@gmail.com](mailto:xbchen82@gmail.com)

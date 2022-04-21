@@ -127,8 +127,3 @@ Functional connectivity (FC), defined as the temporal correlation of BOLD signal
 ###    *<font color=Blue>Pattern Recognition and Machine Learning</font>*
 
 Support vector machine (SVM), introduced by Vapnik and colleagues, has played an important role in the pattern recognition and machine learning community over the past decades. SVM is based on the structural risk minimization (SRM) principles which strike a balance between the traditional empirical risk and model complexity. This is implemented by maximizing margin between the samples of two classes and simultaneously minimizing the classification errors of training samples. Furthermore, in order to handle nonlinear problems, the input space is first mapped into a much higher dimensional feature space wherein a linear SVM is constructed. This is the so-called kernel trick. Due to the above merits, SVM shows good generalization performance and has been applied to various real-world problems, including text categorization, time series prediction and regression analysis.
-
-
-### Contact me
-
-[xbchen82@gmail.com](mailto:xbchen82@gmail.com)

@@ -16,7 +16,3 @@ permalink: /resource/
   <p><font size=3 face="Times New Roman"><a href="https://github.com/xbchen82/stdan">https://github.com/xbchen82/stdan</a></font></p>
   
 ### Data
-
-### Contact me
-
-[xbchen82@gmail.com](mailto:xbchen82@gmail.com)

@@ -166,10 +166,3 @@ permalink: /publications/
 - **<font size=3 face='Times New Roman'>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</font>**  
   <p><font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font></p>
   <p><font size=3 face='Times New Roman'>IEEE Access 6, 9690-9702 (SCI)</font></p>
-  
-  
-
- 
-### Contact me
-
-[xbchen82@gmail.com](mailto:xbchen82@gmail.com)
