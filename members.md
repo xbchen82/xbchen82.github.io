@@ -9,10 +9,10 @@ permalink: /members/
 
 <table>
     <tr>
-        <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="80px" height="120px"></td>
+        <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="80px" height="110px"></td>
     </tr>
 	<tr>
-        <td><center>陈小波</center></td>
+        <td><center><a href="https://xbchen82.github.io/biography/">陈小波</a></center></td>
     </tr>
 </table>  
 
