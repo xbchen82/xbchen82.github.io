@@ -66,15 +66,15 @@ permalink: /members/
 
 <table>
     <tr>
-        <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="梁书荣" width="80px" height="120px"></td>
+        <td><img src="https://xbchen82.github.io/images/lsr.jpg" alt="梁书荣" width="80px" height="120px"></td>
 		<td>研究方向：交通数据缺失值恢复</td>		
     </tr>
 	<tr>
-        <td><img src="https://xbchen82.github.io/images/lfb.jpg" alt="陈玲" width="80px" height="120px"></td>
+        <td><img src="https://xbchen82.github.io/images/cl.jpg" alt="陈玲" width="80px" height="120px"></td>
 		<td>研究方向：多目标协同跟踪</td>		
     </tr>
 	<tr>
-        <td><img src="https://xbchen82.github.io/images/wy.jpg" alt="胡煜" width="80px" height="120px"></td>
+        <td><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="80px" height="120px"></td>
 		<td>研究方向：车辆重识别与车辆轨迹预测</td>		
     </tr>
 </table>
