@@ -18,11 +18,11 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
-- <font size=3 face="Times New Roman">A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>
+- <font size=3 face="Times New Roman" color="red"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
   <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, accepted</font></p>
   
-- <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
+- <font size=3 face="Times New Roman"  color="red"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
   <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, accepted</font></p>
 
