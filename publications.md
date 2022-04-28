@@ -8,10 +8,6 @@ permalink: /publications/
 [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### In progress
-- **<font size=3 face="Times New Roman">A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
-
 
 - **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
@@ -22,6 +18,10 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
+- <font size=3 face="Times New Roman">A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, accepted</font></p>
+  
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
   <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, accepted</font></p>
