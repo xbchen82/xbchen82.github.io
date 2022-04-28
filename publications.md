@@ -18,7 +18,7 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
-- <font size=3 face="Times New Roman">A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>**
+- <font size=3 face="Times New Roman">A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
   <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, accepted</font></p>
   
