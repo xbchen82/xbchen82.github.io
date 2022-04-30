@@ -119,7 +119,7 @@ Functional connectivity (FC), defined as the temporal correlation of BOLD signal
 **Related studies**  
 - Xiaobo Chen, Han Zhang, Lichi Zhang, Celina Shen, Seong-Whan Lee, Dinggang Shen. <font color=Blue>Extraction of dynamic functional connectivity from brain grey matter and white matter for MCI classification</font>, Human Brain Mapping,38(10): 5019-5034, 2017 (SCI)  
 - Xiaobo Chen, Han Zhang, Dinggang Shen. <font color=Blue>Hierarchical High-Order Functional Connectivity Networks and Selective Feature Fusion for MCI Classification</font>, Neuroinformatics 15(3):271-284, 2017 (SCI)  
-- Xiaobo Chen, Han Zhang, Yu Zhang, Jian Yang, Dinggang Shen. <font color=Blue>Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification</font> Asian Conference on Pattern Recognition 2017  
+- Xiaobo Chen, Han Zhang, Yu Zhang, Dinggang Shen. <font color=Blue>Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification</font> Asian Conference on Pattern Recognition 2017  
 - Xiaobo Chen, Han Zhang, Yue Gao, Chong-Yaw Wee, Gang Li, Dinggang Shen. <font color=Blue>High-Order Resting-State Functional Connectivity Network for MCI Classification</font>, Human Brain Mapping,37(9):3282-96, 2016 (SCI)  
 - Xiaobo Chen, Han Zhang, Dinggang Shen, <font color=Blue>Ensemble Hierarchical High-Order Functional Connectivity Networks for MCI Classification</font>. MICCAI (2) 2016: 18-25  
 
@@ -127,3 +127,15 @@ Functional connectivity (FC), defined as the temporal correlation of BOLD signal
 ###    *<font color=Blue>Pattern Recognition and Machine Learning</font>*
 
 Support vector machine (SVM), introduced by Vapnik and colleagues, has played an important role in the pattern recognition and machine learning community over the past decades. SVM is based on the structural risk minimization (SRM) principles which strike a balance between the traditional empirical risk and model complexity. This is implemented by maximizing margin between the samples of two classes and simultaneously minimizing the classification errors of training samples. Furthermore, in order to handle nonlinear problems, the input space is first mapped into a much higher dimensional feature space wherein a linear SVM is constructed. This is the so-called kernel trick. Due to the above merits, SVM shows good generalization performance and has been applied to various real-world problems, including text categorization, time series prediction and regression analysis.
+
+**Related studies**  
+-Xiaobo Chen, Jian Yang, Qiaolin Ye, Jun Liang. <font color=Blue>Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization</font>, Pattern Recognition, 44(10-11): 2643-2655, 2011 (SCI)
+-Xiaobo Chen, Jian Yang, David Zhang, Jun Liang. <font color=Blue>Complete Large Margin Linear Discriminant Analysis Using Mathematical Programming Approach</font>, Pattern Recognition, 46(6):1579-1594, 2013 (SCI)
+-Xiaobo Chen, Jian Yang, Jun Liang. <font color=Blue>Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization</font>, Neural Processing Letters, 33(3): 301-315, 2011 (SCI)
+-Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
+-Xiaobo Chen, Jian Yang, Jun Liang. <font color=Blue>A Flexible Support Vector Machine for Regression</font>, Neural Computing and Applications, 21(8): 2005-2013, 2012 (SCI) 
+-Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
+-Xiaobo Chen, Jian Yang et al. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, Neurocomputing, 122(25):521-534, 2013 (SCI) 
+-Xiaobo Chen, Jian Yang, Long Chen <font color=Blue>An Improved Robust and Sparse Twin Support Vector Regression via Linear Programming</font>, Soft Computing, 18(12): 2335-2348, 2014 (SCI) 
+-Xiaobo Chen, Yan Xiao, Yinfeng Cai, Long Chen. <font color=Blue>Structural Max-Margin Discriminant Analysis for Feature Extraction</font>, Knowledge-Based Systems, 70:154-166, 2014 (SCI)
+-Xiaobo Chen, Yingfeng Cai, Long Chen, Zuoyong Li.<font color=Blue>Discriminant Feature Extraction for Image Recognition Using Complete Robust Maximum Margin Criterion</font>, Machine Vision and Applications, 26(7): 857-870, 2015 (SCI)
