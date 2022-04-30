@@ -134,7 +134,6 @@ Support vector machine (SVM), introduced by Vapnik and colleagues, has played an
 - <b>Xiaobo Chen</b>, Jian Yang, Jun Liang. <font color=Blue>Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization</font>, <b>Neural Processing Letters</b>, 33(3): 301-315, 2011 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, <b>Neural Computing and Applications</b>, 21(3): 505-513, 2012 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, Jun Liang. <font color=Blue>A Flexible Support Vector Machine for Regression</font>, <b>Neural Computing and Applications</b>, 21(8): 2005-2013, 2012 (SCI) 
-- <b>Xiaobo Chen</b>, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, <b>Neural Computing and Applications</b>, 21(3): 505-513, 2012 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, Qirong Mao, Fei Han. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, <b>Neurocomputing</b>, 122(25):521-534, 2013 (SCI) 
 - <b>Xiaobo Chen</b>, Jian Yang, Long Chen. <font color=Blue>An Improved Robust and Sparse Twin Support Vector Regression via Linear Programming</font>, <b>Soft Computing</b>, 18(12): 2335-2348, 2014 (SCI) 
 - <b>Xiaobo Chen</b>, Yan Xiao, Yinfeng Cai, Long Chen. <font color=Blue>Structural Max-Margin Discriminant Analysis for Feature Extraction</font>, <b>Knowledge-Based Systems</b>, 70:154-166, 2014 (SCI)
