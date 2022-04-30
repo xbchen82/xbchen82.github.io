@@ -28,7 +28,7 @@ n actual traffic environment, the data collected by traffic equipment, e.g., loo
   ![imputation](/images/research/traffic-data-imputation/img4.png)
 
 **Related studies**  
-- Xiaobo Chen, Shurong Liang, et al., <font color=Blue>A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font> (submitted)  
+- Xiaobo Chen, Shurong Liang, et al., <font color=Blue>A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network</font> , IEEE Internet of Things Journal, accepted 
 - 陈小波，梁书荣，柯佳，陈玲，胡煜. <font color=Blue>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</font>, 西南交通大学学报，2022(EI)
 - 陈小波,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  <font color=Blue>基于改进低秩矩阵补全的交通量数据缺失值插补方法</font>, 交通运输工程学报 19(5):180-190, 2019(EI)  
 - Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. <font color=Blue>Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data</font>, Neurocomputing 303: 47-59, 2018 (SCI)   
@@ -100,7 +100,7 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
   ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img3.png)
 
 **Related studies**  
-- Xiaobo Chen, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> (submitted)  
+- Xiaobo Chen, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> , IEEE Transactions on Intelligent Transportation Systems, accepted  
 
 
 ###     *<font color=Blue>EEG based driving fatigue detection based on Multi-view Learning</font>*
