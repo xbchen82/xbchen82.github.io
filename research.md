@@ -135,7 +135,7 @@ Support vector machine (SVM), introduced by Vapnik and colleagues, has played an
 - Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
 - Xiaobo Chen, Jian Yang, Jun Liang. <font color=Blue>A Flexible Support Vector Machine for Regression</font>, Neural Computing and Applications, 21(8): 2005-2013, 2012 (SCI) 
 - Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
-- Xiaobo Chen, Jian Yang et al. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, Neurocomputing, 122(25):521-534, 2013 (SCI) 
+- Xiaobo Chen, Jian Yang, Qirong Mao, Fei Han. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, Neurocomputing, 122(25):521-534, 2013 (SCI) 
 - Xiaobo Chen, Jian Yang, Long Chen <font color=Blue>An Improved Robust and Sparse Twin Support Vector Regression via Linear Programming</font>, Soft Computing, 18(12): 2335-2348, 2014 (SCI) 
 - Xiaobo Chen, Yan Xiao, Yinfeng Cai, Long Chen. <font color=Blue>Structural Max-Margin Discriminant Analysis for Feature Extraction</font>, Knowledge-Based Systems, 70:154-166, 2014 (SCI)
 - Xiaobo Chen, Yingfeng Cai, Long Chen, Zuoyong Li.<font color=Blue>Discriminant Feature Extraction for Image Recognition Using Complete Robust Maximum Margin Criterion</font>, Machine Vision and Applications, 26(7): 857-870, 2015 (SCI)
