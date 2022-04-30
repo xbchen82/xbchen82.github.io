@@ -48,7 +48,7 @@ traffic flow forecasting system which predicts the traffic flow at a specific ro
 **Related studies**  
 - <b>Xiaobo Chen</b>, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, <b>IEEE Access</b> 6: 9347-9357，2018 (SCI)  
 - <b>Xiaobo Chen</b>, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. <font color=Blue>Spatiotemporal Variable and Parameter Selection Using Sparse Hybrid Genetic Algorithm for Traffic Flow Forecasting</font>, <b>International Journal of Distributed Sensor Networks</b>, 13(6):1-14, 2017 (SCI)  
-- <b>陈小波</b>, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 <font color=Blue>基于GA-LSSVR 模型的路网短时交通流预测研究, <b>交通运输系统工程与信息</b></font> 17(1):60-66, 2017(EI)  
+- <b>陈小波</b>, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 <font color=Blue>基于GA-LSSVR 模型的路网短时交通流预测研究</font>, <b>交通运输系统工程与信息</b> 17(1):60-66, 2017(EI)  
 
 
 ###     *<font color=Blue>Traffic Accident prediction</font>*
@@ -57,7 +57,7 @@ We focus on a real-world application which predicts whether traffic accident wil
   ![accident prediction](/images/research/Traffic-Accident-prediction/img.png)
 
 **Related studies**  
-- <b>Xiaobo Chen</b>, Yan Xiao. <font color=Blue>Geometric Projection Twin Support Vector Machine for Pattern Classification <b>Multimedia Tools and Applications</b></font>, 80, pages23073–23089, 2021 (SCI)  
+- <b>Xiaobo Chen</b>, Yan Xiao. <font color=Blue>Geometric Projection Twin Support Vector Machine for Pattern Classification</font>, <b>Multimedia Tools and Applications</b>, 80, pages23073–23089, 2021 (SCI)  
 
 
 ###     *<font color=Blue>Distributed Cooperative Traffic Perception</font>*
