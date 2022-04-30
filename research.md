@@ -14,9 +14,9 @@ permalink: /research/
 - **Personalized biomedical signal understanding for driving safety**
   ![personalized](/images/research/overview/img4.png)  
 - **Internet of vehicles and mobile edge computing (MEC)**
-  ![Internet](/images/research/overview/img5.png)  
+  ![Internet](/images/research/overview/img5.png){: width="500" }
 - **Signal control and optimization for traffic safety, efficiency and fuel economy**
-  ![Internet](/images/research/overview/img6.png)  
+  ![Internet](/images/research/overview/img6.png){: width="500" }
 
 
 ###     *<font color=Blue>Traffic data imputation</font>*
