@@ -46,9 +46,9 @@ traffic flow forecasting system which predicts the traffic flow at a specific ro
   ![forecasting](/images/research/traffic-forecasting/img2.png)
 
 **Related studies**  
-- Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, IEEE Access 6: 9347-9357，2018 (SCI)  
-- Xiaobo Chen, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. <font color=Blue>Spatiotemporal Variable and Parameter Selection Using Sparse Hybrid Genetic Algorithm for Traffic Flow Forecasting</font>, International Journal of Distributed Sensor Networks, 13(6):1-14, 2017 (SCI)  
-- 陈小波, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 <font color=Blue>基于GA-LSSVR 模型的路网短时交通流预测研究, 交通运输系统工程与信息</font> 17(1):60-66, 2017(EI)  
+- <b>Xiaobo Chen</b>, Xinwen Cai, Jun Liang, Qingchao Liu. <font color=Blue>Ensemble Learning Multiple LSSVR with Improved Harmony Search Algorithm for Short-term Traffic Flow Forecasting</font>, <b>IEEE Access</b> 6: 9347-9357，2018 (SCI)  
+- <b>Xiaobo Chen</b>, Zhongjie Wei, Xiang Liu, Yingfeng Cai, Zuoyong Li, Feng Zhao. <font color=Blue>Spatiotemporal Variable and Parameter Selection Using Sparse Hybrid Genetic Algorithm for Traffic Flow Forecasting</font>, <b>International Journal of Distributed Sensor Networks</b>, 13(6):1-14, 2017 (SCI)  
+- <b>陈小波</b>, 刘祥, 韦中杰, 梁军, 蔡英凤, 陈龙 <font color=Blue>基于GA-LSSVR 模型的路网短时交通流预测研究, <b>交通运输系统工程与信息</b></font> 17(1):60-66, 2017(EI)  
 
 
 ###     *<font color=Blue>Traffic Accident prediction</font>*
@@ -57,7 +57,7 @@ We focus on a real-world application which predicts whether traffic accident wil
   ![accident prediction](/images/research/Traffic-Accident-prediction/img.png)
 
 **Related studies**  
-- Xiaobo Chen, Yan Xiao. <font color=Blue>Geometric Projection Twin Support Vector Machine for Pattern Classification Multimedia Tools and Applications</font>, 80, pages23073–23089, 2021 (SCI)  
+- <b>Xiaobo Chen</b>, Yan Xiao. <font color=Blue>Geometric Projection Twin Support Vector Machine for Pattern Classification <b>Multimedia Tools and Applications</b></font>, 80, pages23073–23089, 2021 (SCI)  
 
 
 ###     *<font color=Blue>Distributed Cooperative Traffic Perception</font>*
@@ -73,10 +73,10 @@ In reality, due to the physical mechanism, the on-board sensors of intelligent v
   
 
 **Related studies**  
-- 陈小波，陈玲，梁书荣，胡煜. <font color=Blue>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</font>, 浙江大学学报（工学版）,  2021(EI)  
-- 陈小波，陈玲.<font color=Blue>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</font>, 吉林大学学报（工学版）,  2021(EI)  
-- Xiaobo Chen, Jianyu Ji, Yanjun Wang. <font color=Blue>Robust Cooperative Multi-Vehicle Tracking with Inaccurate Self-Localization Based on On-Board Sensors and Inter-Vehicle Communication.</font> Sensors 20(11): 3212, 2020 (SCI)  
-- Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji. <font color=Blue>Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference.</font> Sensors 20(11): 6487, 2020 (SCI)  
+- <b>陈小波</b>，陈玲，梁书荣，胡煜. <font color=Blue>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</font>, <b>浙江大学学报(工学版)</b>,  2021(EI)  
+- <b>陈小波</b>，陈玲.<font color=Blue>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</font>, <b>吉林大学学报(工学版)</b>,  2021(EI)  
+- <b>Xiaobo Chen</b>, Jianyu Ji, Yanjun Wang. <font color=Blue>Robust Cooperative Multi-Vehicle Tracking with Inaccurate Self-Localization Based on On-Board Sensors and Inter-Vehicle Communication.</font> <b>Sensors</b> 20(11): 3212, 2020 (SCI)  
+- <b>Xiaobo Chen</b>, Yanjun Wang, Ling Chen, Jianyu Ji. <font color=Blue>Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference.</font> <b>Sensors</b> 20(11): 6487, 2020 (SCI)  
 
 
 ###     *<font color=Blue>Vehicle Reidentification</font>*
@@ -88,7 +88,7 @@ As the number of motor vehicles continues to increase, the need to use computer 
   ![Vehicle Reidentification](/images/research/vehicle-reidentification/img3.png)
 
 **Related studies**  
-- 胡煜, 陈小波（通信作者）,梁军, 陈玲,  梁书荣. <font color=Blue>基于车辆组件特征与多注意力融合的车辆重识别方法</font>，计算机研究与发展，2022(EI)  
+- 胡煜, <b>陈小波</b>（通信作者）,梁军, 陈玲,  梁书荣. <font color=Blue>基于车辆组件特征与多注意力融合的车辆重识别方法</font>，<b>计算机研究与发展</b>，2022(EI)  
 
 
 ###     *<font color=Blue>Vehicle Trajectory Prediction based on Deep Learning</font>*
@@ -100,7 +100,7 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
   ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img3.png)
 
 **Related studies**  
-- Xiaobo Chen, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> , IEEE Transactions on Intelligent Transportation Systems, accepted  
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> , <b>IEEE Transactions on Intelligent Transportation Systems</b>, accepted  
 
 
 ###     *<font color=Blue>EEG based driving fatigue detection based on Multi-view Learning</font>*
@@ -108,7 +108,7 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
 Driver fatigue is one of the most influential factors causing traffic accidents. Current studies have revealed that 15%-20% of all fatal traffic accidents are related to driver fatigue while 1,200 deaths and 76,000 injuries were contributed to fatigue-related crashes annually. Electroencephalography (EEG), as a direct manifestation of brain inherent neurophysiological activities in response to particular stimulus, has been widely to detect the driving fatigue due to its high temporal resolution as well as non-invasive acquisition method. Based on the frequency bands, the brain electrical activity rhythms can be classified into delta (0-4Hz), theta (4-8Hz), alpha (8-13Hz) and beta (13-35Hz) waves. Alpha wave frequently occurs during wakefulness, especially in the occipital cortex area of the brain. It was also revealed that the increase of EEG alpha band spindles is related to the fatigue state when subjects drive in the actual monotonous driving environment. Therefore, we attempt to utilize EEG alpha wave to detect driving fatigue.
 
 **Related studies**  
-- Xiaobo Chen, Yuxiang Gao, et al., <font color=Blue>Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font> (submitted)  
+- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., <font color=Blue>Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font> (submitted)  
 
 
 ###     *<font color=Blue>High-order Functional Connectivity Network with Applications</font>*
@@ -117,11 +117,11 @@ Driver fatigue is one of the most influential factors causing traffic accidents.
 Functional connectivity (FC), defined as the temporal correlation of BOLD signals in different brain regions, can exhibit how structurally segregated and functionally specialized brain regions interact with each other. FC is often modeled as a network using graph theoretic techniques. Differences between normal and disrupted FC networks, in terms of both topological structure and connection strength. Network structure refers to the representation of network vertex and edge while the correlation computation means how to define an appropriate weight for each edge. For network structure in nearly all existing methods, a vertex is always corresponding to a specific brain region, and an edge is used to characterize the FC between brain regions. this method may overlook the complex and dynamic interaction patterns among brain regions, which are essentially time-varying. We propose the novel notions of high-order correlation and high-order FC network, and further develop a simple but effective framework for eMCI classification.
 
 **Related studies**  
-- Xiaobo Chen, Han Zhang, Lichi Zhang, Celina Shen, Seong-Whan Lee, Dinggang Shen. <font color=Blue>Extraction of dynamic functional connectivity from brain grey matter and white matter for MCI classification</font>, Human Brain Mapping,38(10): 5019-5034, 2017 (SCI)  
-- Xiaobo Chen, Han Zhang, Dinggang Shen. <font color=Blue>Hierarchical High-Order Functional Connectivity Networks and Selective Feature Fusion for MCI Classification</font>, Neuroinformatics 15(3):271-284, 2017 (SCI)  
-- Xiaobo Chen, Han Zhang, Yu Zhang, Dinggang Shen. <font color=Blue>Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification</font> Asian Conference on Pattern Recognition 2017  
-- Xiaobo Chen, Han Zhang, Yue Gao, Chong-Yaw Wee, Gang Li, Dinggang Shen. <font color=Blue>High-Order Resting-State Functional Connectivity Network for MCI Classification</font>, Human Brain Mapping,37(9):3282-96, 2016 (SCI)  
-- Xiaobo Chen, Han Zhang, Dinggang Shen, <font color=Blue>Ensemble Hierarchical High-Order Functional Connectivity Networks for MCI Classification</font>. MICCAI (2) 2016: 18-25  
+- <b>Xiaobo Chen</b>, Han Zhang, Lichi Zhang, Celina Shen, Seong-Whan Lee, Dinggang Shen. <font color=Blue>Extraction of dynamic functional connectivity from brain grey matter and white matter for MCI classification</font>, <b>Human Brain Mapping</b>,38(10): 5019-5034, 2017 (SCI)  
+- <b>Xiaobo Chen</b>, Han Zhang, Dinggang Shen. <font color=Blue>Hierarchical High-Order Functional Connectivity Networks and Selective Feature Fusion for MCI Classification</font>, <b>Neuroinformatics</b> 15(3):271-284, 2017 (SCI)  
+- <b>Xiaobo Chen</b>, Han Zhang, Yu Zhang, Dinggang Shen. <font color=Blue>Learning Pairwise Similarity Guided Sparse Functional Connectivity Network for MCI Classification</font> <b>Asian Conference on Pattern Recognition</b> 2017  
+- <b>Xiaobo Chen</b>, Han Zhang, Yue Gao, Chong-Yaw Wee, Gang Li, Dinggang Shen. <font color=Blue>High-Order Resting-State Functional Connectivity Network for MCI Classification</font>, <b>Human Brain Mapping</b>,37(9):3282-96, 2016 (SCI)  
+- <b>Xiaobo Chen</b>, Han Zhang, Dinggang Shen, <font color=Blue>Ensemble Hierarchical High-Order Functional Connectivity Networks for MCI Classification</font>. <b>MICCAI</b> (2) 2016: 18-25  
 
 
 ###    *<font color=Blue>Pattern Recognition and Machine Learning</font>*
@@ -129,13 +129,13 @@ Functional connectivity (FC), defined as the temporal correlation of BOLD signal
 Support vector machine (SVM), introduced by Vapnik and colleagues, has played an important role in the pattern recognition and machine learning community over the past decades. SVM is based on the structural risk minimization (SRM) principles which strike a balance between the traditional empirical risk and model complexity. This is implemented by maximizing margin between the samples of two classes and simultaneously minimizing the classification errors of training samples. Furthermore, in order to handle nonlinear problems, the input space is first mapped into a much higher dimensional feature space wherein a linear SVM is constructed. This is the so-called kernel trick. Due to the above merits, SVM shows good generalization performance and has been applied to various real-world problems, including text categorization, time series prediction and regression analysis.
 
 **Related studies**  
-- Xiaobo Chen, Jian Yang, Qiaolin Ye, Jun Liang. <font color=Blue>Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization</font>, Pattern Recognition, 44(10-11): 2643-2655, 2011 (SCI)
-- Xiaobo Chen, Jian Yang, David Zhang, Jun Liang. <font color=Blue>Complete Large Margin Linear Discriminant Analysis Using Mathematical Programming Approach</font>, Pattern Recognition, 46(6):1579-1594, 2013 (SCI)
-- Xiaobo Chen, Jian Yang, Jun Liang. <font color=Blue>Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization</font>, Neural Processing Letters, 33(3): 301-315, 2011 (SCI)
-- Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
-- Xiaobo Chen, Jian Yang, Jun Liang. <font color=Blue>A Flexible Support Vector Machine for Regression</font>, Neural Computing and Applications, 21(8): 2005-2013, 2012 (SCI) 
-- Xiaobo Chen, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, Neural Computing and Applications, 21(3): 505-513, 2012 (SCI)
-- Xiaobo Chen, Jian Yang, Qirong Mao, Fei Han. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, Neurocomputing, 122(25):521-534, 2013 (SCI) 
-- Xiaobo Chen, Jian Yang, Long Chen. <font color=Blue>An Improved Robust and Sparse Twin Support Vector Regression via Linear Programming</font>, Soft Computing, 18(12): 2335-2348, 2014 (SCI) 
-- Xiaobo Chen, Yan Xiao, Yinfeng Cai, Long Chen. <font color=Blue>Structural Max-Margin Discriminant Analysis for Feature Extraction</font>, Knowledge-Based Systems, 70:154-166, 2014 (SCI)
-- Xiaobo Chen, Yingfeng Cai, Long Chen, Zuoyong Li.<font color=Blue>Discriminant Feature Extraction for Image Recognition Using Complete Robust Maximum Margin Criterion</font>, Machine Vision and Applications, 26(7): 857-870, 2015 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, Qiaolin Ye, Jun Liang. <font color=Blue>Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization</font>, <b>Pattern Recognition</b>, 44(10-11): 2643-2655, 2011 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, David Zhang, Jun Liang. <font color=Blue>Complete Large Margin Linear Discriminant Analysis Using Mathematical Programming Approach</font>, <b>Pattern Recognition</b>, 46(6):1579-1594, 2013 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, Jun Liang. <font color=Blue>Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization</font>, <b>Neural Processing Letters</b>, 33(3): 301-315, 2011 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, <b>Neural Computing and Applications</b>, 21(3): 505-513, 2012 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, Jun Liang. <font color=Blue>A Flexible Support Vector Machine for Regression</font>, <b>Neural Computing and Applications</b>, 21(8): 2005-2013, 2012 (SCI) 
+- <b>Xiaobo Chen</b>, Jian Yang, Jun Liang, Qiaolin Ye. <font color=Blue>Smooth twin support vector regression</font>, <b>Neural Computing and Applications</b>, 21(3): 505-513, 2012 (SCI)
+- <b>Xiaobo Chen</b>, Jian Yang, Qirong Mao, Fei Han. <font color=Blue>Regularized Least Squares Fisher Linear Discriminant with Applications to Image Recognition</font>, <b>Neurocomputing</b>, 122(25):521-534, 2013 (SCI) 
+- <b>Xiaobo Chen</b>, Jian Yang, Long Chen. <font color=Blue>An Improved Robust and Sparse Twin Support Vector Regression via Linear Programming</font>, <b>Soft Computing</b>, 18(12): 2335-2348, 2014 (SCI) 
+- <b>Xiaobo Chen</b>, Yan Xiao, Yinfeng Cai, Long Chen. <font color=Blue>Structural Max-Margin Discriminant Analysis for Feature Extraction</font>, <b>Knowledge-Based Systems</b>, 70:154-166, 2014 (SCI)
+- <b>Xiaobo Chen</b>, Yingfeng Cai, Long Chen, Zuoyong Li.<font color=Blue>Discriminant Feature Extraction for Image Recognition Using Complete Robust Maximum Margin Criterion</font>, <b>Machine Vision and Applications</b>, 26(7): 857-870, 2015 (SCI)
