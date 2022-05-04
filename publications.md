@@ -24,7 +24,7 @@ permalink: /publications/
   
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
-  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, accepted</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">Link</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
