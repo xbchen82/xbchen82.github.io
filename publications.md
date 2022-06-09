@@ -13,8 +13,12 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
   
-- **<font size=3 face="Times New Roman">Vehicle Trajectory Prediction Based on Intention-aware Transformer with Social and Temporal Attention Learning for Internet of Vehicles</font>**
+- **<font size=3 face="Times New Roman">Vehicle Trajectory Prediction Based on Intention-aware Non-autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+  
+- **<font size=3 face="Times New Roman">Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
