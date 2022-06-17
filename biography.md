@@ -10,6 +10,14 @@ permalink: /biography/
 
 [xbchen82@gmail.com](mailto:xbchen82@gmail.com)
 
+
+### Honorary Titles
+- **<font size=3>山东省“泰山学者”青年专家</font>**
+  <p><font size=3>年份：2021-2025</font></p>
+  
+- **<font size=3>江苏省“六大人才高峰”高层次人才</font>**
+  <p><font size=3>年份：2017-2021</font></p>
+
 ### Education Experience
 - **<font size=3>博士</font>**
   <p><font size=3>学校：南京理工大学</font></p>
@@ -112,9 +120,22 @@ permalink: /biography/
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2018-2019</font></p>
 
-### Honorary Titles
-- **<font size=3>山东省“泰山学者”青年专家</font>**
-  <p><font size=3>年份：2021-2025</font></p>
+### Academic Activities  
+- **<font size=3>学术组织</font>**
+  <p><font size=3>IEEE 会员</font></p>
+  <p><font size=3>CCF(中国计算机学会) 会员</font></p>
+  <p><font size=3>CAAI(中国人工智能学会) 会员</font></p>
+  <p><font size=3>SAE-China(中国汽车工程学会) 会员</font></p>
   
-- **<font size=3>江苏省“六大人才高峰”高层次人才</font>**
-  <p><font size=3>年份：2017-2021</font></p>
+- **<font size=3>Reviewer</font>**
+  <p><font size=3>IEEE Transactions on Intelligent Transportation Systems</font></p>
+  <p><font size=3>IEEE Transactions on Neural Networks and Learning Systems</font></p>
+  <p><font size=3>IEEE Transactions on Image Processing</font></p>
+  <p><font size=3>IEEE Transactions on Industrial Informatics</font></p>
+  <p><font size=3>IEEE Transactions on Vehicular Technology</font></p>
+  <p><font size=3>IEEE Transactions on Big Data</font></p>
+  <p><font size=3>IEEE Transactions on Biomedical Engineering</font></p>
+  <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
+  <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
+  <p><font size=3>IEEE Transactions on Circuits and Systems II: Express Briefs</font></p>
+  
