@@ -4,7 +4,7 @@ title:
 permalink: /biography/
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE/CCF Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用1800余次。单篇最高被引用160余次，3篇一作论文被引用超过100次。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE/CCF/CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用1800余次。单篇最高被引用160余次，3篇一作论文被引用超过100次。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
 
 ### Contact me
 
@@ -42,7 +42,7 @@ permalink: /biography/
   <p><font size=3>年份：2021-</font></p>
   
 - **<font size=3>江苏大学</font>**
-  <p><font size=3>职称：助教/讲师/副教授/研究员(破格)，博士生导师(破格)</font></p>
+  <p><font size=3>职称：助教/讲师/副教授/研究员(<font color="red">破格</font>)，博士生导师(<font color="red">破格</font>)</font></p>
   <p><font size=3>年份：2004-2021</font></p>
   
 ### Visiting Experience
