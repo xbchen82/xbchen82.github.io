@@ -110,6 +110,11 @@ permalink: /biography/
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2013-2015</font></p>
   
+- **<font size=3>烟台市科技创新发展计划项目</font>**
+  <p><font size=3>名称：面向智慧港口的自动驾驶环境感知系统关键技术研发</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2022-2024</font></p>
+  
 - **<font size=3>福建省信息处理与智能控制重点实验室开放基金</font>**
   <p><font size=3>名称：基于稀疏学习的智能交通数据恢复方法研究</font></p>
   <p><font size=3>排名：主持</font></p>
@@ -136,6 +141,7 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Big Data</font></p>
   <p><font size=3>IEEE Transactions on Biomedical Engineering</font></p>
   <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
-  <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
   <p><font size=3>IEEE Transactions on Circuits and Systems II: Express Briefs</font></p>
+  <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
+  
   
