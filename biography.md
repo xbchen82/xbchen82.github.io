@@ -127,10 +127,10 @@ permalink: /biography/
 
 ### Academic Activities  
 - **<font size=3>学术组织</font>**
-  <p><font size=3>IEEE 会员</font></p>
-  <p><font size=3>CCF(中国计算机学会) 会员</font></p>
-  <p><font size=3>CAAI(中国人工智能学会) 会员</font></p>
-  <p><font size=3>SAE-China(中国汽车工程学会) 会员</font></p>
+  <p><font size=3>IEEE Member</font></p>
+  <p><font size=3>CCF(中国计算机学会) Member</font></p>
+  <p><font size=3>CAAI(中国人工智能学会) Member</font></p>
+  <p><font size=3>SAE-China(中国汽车工程学会) Member</font></p>
   
 - **<font size=3>Reviewer</font>**
   <p><font size=3>IEEE Transactions on Intelligent Transportation Systems</font></p>
