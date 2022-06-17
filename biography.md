@@ -4,7 +4,7 @@ title:
 permalink: /biography/
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE/CCF/CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用1800余次。单篇最高被引用160余次，3篇一作论文被引用超过100次。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE/CCF/CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition、Knowledge-Based Systems、Neurocomputing、Human Brain Mapping、Multimedia Tools and Applications等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议发表论文100余篇（第一/通信作者论文40余篇），被引用近2000次。单篇最高被引用170次，3篇一作论文被引用超过120次，H指数24。申请发明专利10项，已授权4项。主持完成了多项国家级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
 
 ### Contact me
 
@@ -20,19 +20,19 @@ permalink: /biography/
 
 ### Education Experience
 - **<font size=3>博士</font>**
-  <p><font size=3>学校：南京理工大学</font></p>
+  <p><font size=3>学校：<a href="http://www.njust.edu.cn/">南京理工大学</a></font></p>
   <p><font size=3>专业：模式识别与智能系统(国家重点学科)</font></p>
   <p><font size=3>导师：<a href="http://www.patternrecognition.asia/jian/">杨健</a>(长江学者，国家杰青)</font></p>
   <p><font size=3>年份：2009-2013</font></p>
 
 - **<font size=3>硕士</font>**
-  <p><font size=3>学校：江苏大学</font></p>
+  <p><font size=3>学校：<a href="http://www.ujs.edu.cn/">江苏大学</a></font></p>
   <p><font size=3>专业：模式识别与智能系统</font></p>
   <p><font size=3>导师：程显毅</font></p>
   <p><font size=3>年份：2004-2007</font></p>
   
 - **<font size=3>学士</font>**
-  <p><font size=3>学校：江苏大学</font></p>
+  <p><font size=3>学校：<a href="http://www.ujs.edu.cn/">江苏大学</a></font></p>
   <p><font size=3>专业：计算机科学与技术</font></p>
   <p><font size=3>年份：2000-2004</font></p>
 
