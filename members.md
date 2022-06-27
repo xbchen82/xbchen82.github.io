@@ -17,6 +17,18 @@ permalink: /members/
 </table>  
 
 **<font size=4 face='Times New Roman'>Students</font>**
+<p><b>2022级</b></p>
+<table>
+    <tr>
+        <td><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="50px" height="65px"></td>
+		<td>张世林&nbsp;&nbsp;&nbsp;&nbsp;研究方向：行人意图识别</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="50px" height="65px"></td>
+		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复</td>		
+    </tr>
+</table>
+
 <p><b>2021级</b></p>
 <table>
     <tr>
@@ -41,11 +53,11 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="50px" height="65px"></td>
-		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆轨迹预测。<br/>录用IEEE T-ITS论文1篇，投稿IEEE论文1篇。撰写专利2项</td>		
+		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆/行人轨迹预测。<br/>录用IEEE T-ITS论文1篇，投稿IEEE论文1篇。撰写专利2项</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="50px" height="65px"></td>
-		<td>高玉祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多视图半监督机器学习。投稿IEEE论文2篇</td>		
+		<td>高玉祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：驾驶疲劳检测/驾驶行为分类。投稿IEEE论文2篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="50px" height="65px"></td>
