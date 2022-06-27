@@ -41,11 +41,11 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="50px" height="65px"></td>
-		<td>王勇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆轨迹预测</td>		
+		<td>王勇&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：驾驶员姿态识别/联邦学习</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="50px" height="65px"></td>
-		<td>杜健&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：多视图半监督机器学习</td>		
+		<td>杜健&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：驾驶疲劳检测</td>		
     </tr>
 </table>
 
