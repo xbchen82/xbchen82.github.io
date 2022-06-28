@@ -53,7 +53,7 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="50px" height="65px"></td>
-		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆/行人轨迹预测。<br/>录用IEEE T-ITS论文1篇，投稿IEEE论文1篇。撰写专利2项</td>		
+		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆/行人轨迹预测。<br/>录用IEEE T-ITS论文1篇，录用IEEE T-IM论文1篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="50px" height="65px"></td>
