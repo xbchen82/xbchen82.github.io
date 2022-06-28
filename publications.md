@@ -13,15 +13,17 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
   
-- **<font size=3 face="Times New Roman">Vehicle Trajectory Prediction Based on Intention-aware Non-autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+
   
 - **<font size=3 face="Times New Roman">Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
 ### 2022
+- <font size=3 face="Times New Roman">Vehicle Trajectory Prediction Based on Intention-aware Non-autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Instrumentation and Measurement, accepted, 2022</font></p>
+  
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
   <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
