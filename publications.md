@@ -22,15 +22,15 @@ permalink: /publications/
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-aware Non-autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Instrumentation and Measurement</font>, accepted, 2022</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Instrumentation and Measurement, accepted, 2022</font></p>
   
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Internet of Things Journal</font>, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
+  <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Intelligent Transportation Systems</font>, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
@@ -38,7 +38,7 @@ permalink: /publications/
 
 - <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
   <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲, 梁书荣</font></p>  
-  <p><font size=3><font color="blue">计算机研究与发展</font> (EI，CCF推荐A类中文期刊)</font></p>  
+  <p><font size=3>计算机研究与发展 (EI，CCF推荐A类中文期刊)</font></p>  
 
 - <font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font>
   <p><font size=3>陈小波，梁书荣，柯佳，陈玲，胡煜</font></p>  
@@ -68,7 +68,7 @@ permalink: /publications/
 ### 2020
 - **<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**  
   <p><font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Cybernetics</font>,2020 (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Cybernetics,2020 (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**
   <p><font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA</font></p>  
@@ -76,11 +76,11 @@ permalink: /publications/
 
 - **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**
   <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font></p>  
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Neural Networks and Learning Systems</font> (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Neural Networks and Learning Systems (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**
   <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font></p>  
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Intelligent Vehicles</font> 6 (1), 100-109 (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Vehicles 6 (1), 100-109 (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">A toolbox for brain network construction and classification (BrainNetClass)</font>**
   <p><font size=3 face="Times New Roman">Zhen Zhou, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen</font></p>  
@@ -88,11 +88,11 @@ permalink: /publications/
 
 - **<font size=3 face="Times New Roman">Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation</font>**
   <p><font size=3 face="Times New Roman">Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Transactions on Medical Imaging</font> 39 (10), 3137-3147 (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Medical Imaging 39 (10), 3137-3147 (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</font>**
   <p><font size=3 face="Times New Roman">Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, Xiaobo Chen, Youguang Guo</font></p>  
-  <p><font size=3 face="Times New Roman"><font color="blue">IEEE Journal of Emerging and Selected Topics in Power Electronics</font> (SCI)</font></p>  
+  <p><font size=3 face="Times New Roman">IEEE Journal of Emerging and Selected Topics in Power Electronics (SCI)</font></p>  
 
 - **<font size=3 face="Times New Roman">Research on hybrid control strategy for intelligent vehicle path tracking</font>**.  
   <p><font size=3 face="Times New Roman">Yingfeng CAI, Jian LI, Xiaoqiang SUN, Long CHEN, Haobing JIANG, Youguo HE, Xiaobo CHEN</font></p>  
@@ -121,7 +121,7 @@ permalink: /publications/
 
 - **<font size=3 face='Times New Roman'>A comparative study of state-of-the-art deep learning algorithms for vehicle detection</font>**  
   <p><font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Qingchao Liu</font></p>
-  <p><font size=3 face='Times New Roman'><font color="blue">IEEE Intelligent Transportation Systems Magazine</font> 11 (2), 82-95 (SCI)</font></p>
+  <p><font size=3 face='Times New Roman'>IEEE Intelligent Transportation Systems Magazine 11 (2), 82-95 (SCI)</font></p>
   
 - **<font size=3 face='Times New Roman'>基于改进低秩矩阵补全的交通量数据缺失值插补方法</font>**  
   <p><font size=3 face='Times New Roman'>陈小波， 陈程， 陈蕾， 韦中杰， 蔡英凤， 周俊杰</font></p>
