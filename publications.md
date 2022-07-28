@@ -9,9 +9,9 @@ permalink: /publications/
 
 ### In progress
 
-- **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG-based Driving Fatigue Detection</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2021</font></p>
+- **<font size=3 face="Times New Roman">Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
   
 
   
@@ -22,7 +22,7 @@ permalink: /publications/
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-aware Non-autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman">IEEE Transactions on Instrumentation and Measurement, accepted, 2022</font></p>
+  <p><font size=3 face="Times New Roman">IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2022.3192056, <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
