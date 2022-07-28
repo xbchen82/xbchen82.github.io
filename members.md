@@ -16,7 +16,16 @@ permalink: /members/
     </tr>
 </table>  
 
-**<font size=4 face='Times New Roman'>Students</font>**
+**<font size=4 face='Times New Roman'>Doctoral Candidate(在读博士生)</font>**
+<p><b>2022级</b></p>
+<table>
+    <tr>
+        <td><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="50px" height="65px"></td>
+		<td>张华铭&nbsp;&nbsp;&nbsp;&nbsp;研究方向：环境感知</td>		
+    </tr>
+</table>
+
+**<font size=4 face='Times New Roman'>Master Candidate(在读硕士生)</font>**
 <p><b>2022级</b></p>
 <table>
     <tr>
@@ -69,6 +78,7 @@ permalink: /members/
     </tr>
 </table>
 
+**<font size=4 face='Times New Roman'>Alumni(毕业生)</font>**
 <p><b>2019级</b></p>
 
 <table>
