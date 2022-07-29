@@ -5,7 +5,7 @@ permalink: /members/
 ---
 
 
-**<font size=4 face='Times New Roman' color='blue'>Faculty</font>**
+**<font size=4 face='Times New Roman' color='#177cb0'>Faculty</font>**
 
 <table>
     <tr>
@@ -16,7 +16,7 @@ permalink: /members/
     </tr>
 </table>  
 
-**<font size=4 face='Times New Roman' color='blue'>Doctoral Candidate(在读博士生)</font>**
+**<font size=4 face='Times New Roman' color='#177cb0'>Doctoral Candidate(在读博士生)</font>**
 <p><b>2022级</b></p>
 <table>
     <tr>
@@ -25,7 +25,7 @@ permalink: /members/
     </tr>
 </table>
 
-**<font size=4 face='Times New Roman' color='blue'>Master Candidate(在读硕士生)</font>**
+**<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
 <p><b>2022级</b></p>
 <table>
     <tr>
@@ -78,7 +78,7 @@ permalink: /members/
     </tr>
 </table>
 
-**<font size=4 face='Times New Roman' color='blue'>Alumni(毕业生)</font>**
+**<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2019级</b></p>
 
 <table>
