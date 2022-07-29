@@ -22,35 +22,35 @@ permalink: /publications/
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman"> <i>IEEE Transactions on Instrumentation and Measurement</i>, DOI: 10.1109/TIM.2022.3192056, <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i><font color='#177cb0'>IEEE Transactions on Instrumentation and Measurement</font></i>, DOI: 10.1109/TIM.2022.3192056, <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman"> <i>IEEE Internet of Things Journal</i>, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i><font color='#177cb0'>IEEE Internet of Things Journal</font></i>, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
-  <p><font size=3 face="Times New Roman"> <i>IEEE Transactions on Intelligent Transportation Systems</i>, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i><font color='#177cb0'>IEEE Transactions on Intelligent Transportation Systems</font></i>, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
-  <p><font size=3 face="Times New Roman"> <i>International Conference on Pattern Recognition (ICPR)</i>, accepted</font></p>
+  <p><font size=3 face="Times New Roman"> <i><font color='#177cb0'>International Conference on Pattern Recognition (ICPR)</font></i>, accepted</font></p>
 
 - <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
   <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲, 梁书荣</font></p>  
-  <p><font size=3><i>计算机研究与发展</i> (EI，CCF推荐A类中文期刊)</font></p>  
+  <p><font size=3><i><font color='#177cb0'>计算机研究与发展</font></i> (EI，CCF推荐A类中文期刊)</font></p>  
 
 - <font size=3><b>基于图正则化和Schatten-p范数的交通数据缺失值恢复方法</b></font>
   <p><font size=3>陈小波，梁书荣，柯佳，陈玲，胡煜</font></p>  
-  <p><font size=3><i>西南交通大学学报</i> (EI)</font></p>  
+  <p><font size=3><i><font color='#177cb0'>西南交通大学学报</font></i> (EI)</font></p>  
   
 - <font size=3><b>一种面向重尾非高斯定位噪声的鲁棒协同目标跟踪方法</b></font>
   <p><font size=3>陈小波，陈玲，梁书荣，胡煜</font></p>  
-  <p><font size=3><i>浙江大学学报(工学版)</i> (EI)</font></p>  
+  <p><font size=3><i><font color='#177cb0'>浙江大学学报(工学版)</font></i> (EI)</font></p>  
   
 - <font size=3><b>定位噪声统计特性未知的变分贝叶斯协同目标跟踪</b></font>
   <p><font size=3>陈小波，陈玲</font></p>  
-  <p><font size=3><i>吉林大学学报(工学版)</i> (EI)</font></p>  
+  <p><font size=3><i><font color='#177cb0'>吉林大学学报(工学版)</font></i> (EI)</font></p>  
 
 ### 2021
 - <font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font>
