@@ -22,19 +22,19 @@ permalink: /publications/
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman">IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2022.3192056, <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i>IEEE Transactions on Instrumentation and Measurement</i>, DOI: 10.1109/TIM.2022.3192056, <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman">IEEE Internet of Things Journal, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i>IEEE Internet of Things Journal</i>, DOI: 10.1109/JIOT.2022.3172447, <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
-  <p><font size=3 face="Times New Roman">IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
+  <p><font size=3 face="Times New Roman"> <i>IEEE Transactions on Intelligent Transportation Systems</i>, DOI: 10.1109/TITS.2022.3170551, <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
-  <p><font size=3 face="Times New Roman">International Conference on Pattern Recognition (ICPR 2022), accepted</font></p>
+  <p><font size=3 face="Times New Roman"> <i>International Conference on Pattern Recognition (ICPR)</i>, accepted</font></p>
 
 - <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
   <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲, 梁书荣</font></p>  
