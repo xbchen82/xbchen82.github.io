@@ -38,7 +38,11 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="50px" height="65px"></td>
-		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+		<td>梁瑜文&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="50px" height="65px"></td>
+		<td>周祥正(南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a>)&nbsp;&nbsp;&nbsp;&nbsp;研究方向：轨迹预测</td>		
     </tr>
 </table>
 
