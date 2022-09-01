@@ -36,6 +36,10 @@ permalink: /members/
         <td><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="50px" height="65px"></td>
 		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复</td>		
     </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="50px" height="65px"></td>
+		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+    </tr>
 </table>
 
 <p><b>2021级</b></p>
