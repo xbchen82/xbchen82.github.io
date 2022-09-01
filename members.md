@@ -26,6 +26,7 @@ permalink: /members/
     </tr>
 </table>
 
+---
 **<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
 <p><b>2022级</b></p>
 <table>
@@ -87,6 +88,7 @@ permalink: /members/
     </tr>
 </table>
 
+---
 **<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2019级</b></p>
 
