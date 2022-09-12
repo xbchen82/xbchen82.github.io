@@ -11,6 +11,9 @@ permalink: /members/
     <tr>
         <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="80px" height="110px"></td>
     </tr>
+	<tr>
+        <td><center><a href="https://xbchen82.github.io/biography/">陈小波</a></center></td>
+    </tr>
 </table>  
 
 ---
