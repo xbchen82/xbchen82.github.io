@@ -11,9 +11,6 @@ permalink: /members/
     <tr>
         <td><img src="https://xbchen82.github.io/images/me.jpg" alt="陈小波" width="80px" height="110px"></td>
     </tr>
-	<tr>
-        <td><center><a href="https://xbchen82.github.io/biography/">陈小波</a></center></td>
-    </tr>
 </table>  
 
 ---
@@ -23,6 +20,10 @@ permalink: /members/
     <tr>
         <td><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="50px" height="65px"></td>
 		<td>张华铭&nbsp;&nbsp;&nbsp;&nbsp;研究方向：环境感知</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="50px" height="65px"></td>
+		<td>胡煜(江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a>)&nbsp;&nbsp;&nbsp;&nbsp;研究方向：轨迹预测</td>	
     </tr>
 </table>
 
@@ -36,11 +37,15 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="50px" height="65px"></td>
-		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：交通数据缺失值恢复</td>		
+		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="50px" height="65px"></td>
 		<td>梁瑜文&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+    </tr>
+	<tr>
+        <td><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="50px" height="65px"></td>
+		<td>曲锐&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="50px" height="65px"></td>
