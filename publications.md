@@ -13,12 +13,18 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
   
-
-  
 - **<font size=3 face="Times New Roman">Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
+- **<font size=3 face="Times New Roman">Collaborative Spatial-Temporal Data Tensor Completion for Digital Twin in Transportation Industry</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+
+- **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEGbased Driving Fatigue Detection</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to xxx 2022</font></p>
+  
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
