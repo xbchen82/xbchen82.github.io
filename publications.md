@@ -21,7 +21,7 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
-- **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEGbased Driving Fatigue Detection</font>**
+- **<font size=3 face="Times New Roman">Multi-view Classification via Twin Projection Vector Machine with Application to EEG based Driving Fatigue Detection</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to xxx 2022</font></p>
   
