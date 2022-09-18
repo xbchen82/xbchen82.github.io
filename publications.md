@@ -17,7 +17,7 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
-- **<font size=3 face="Times New Roman">Collaborative Spatial-Temporal Data Tensor Completion for Digital Twin in Transportation Industry</font>**
+- **<font size=3 face="Times New Roman">Spatial-Temporal Data Tensor Completion</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
