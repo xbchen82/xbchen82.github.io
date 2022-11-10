@@ -21,7 +21,7 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
-- **<font size=3 face="Times New Roman">Global-local Discriminative Representation Learning for Viewpoint-aware Vehicle Re-identification in Camera Network</font>**
+- **<font size=3 face="Times New Roman">Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
   
