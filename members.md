@@ -44,15 +44,15 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="50px" height="65px"></td>
-		<td>梁瑜文&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+		<td>梁瑜文&nbsp;&nbsp;&nbsp;&nbsp;研究方向：轨迹预测</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="50px" height="65px"></td>
-		<td>曲锐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+		<td>曲锐&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：目标检测</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="50px" height="65px"></td>
-		<td>陈琳&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+		<td>陈琳&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆重识别</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="50px" height="65px"></td>
