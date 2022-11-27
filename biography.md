@@ -113,8 +113,13 @@ permalink: /biography/
 - **<font size=3>烟台市科技创新发展计划项目</font>**
   <p><font size=3>名称：面向智慧港口的自动驾驶环境感知系统关键技术研发</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2022-2024</font></p>
-  
+  <p><font size=3>年份：2022.01-2024.12</font></p>
+
+- **<font size=3>江苏省社会安全图像与视频理解重点实验室开放课题</font>**
+  <p><font size=3>名称：面向复杂交通场景的车辆重识别与轨迹预测方法研究</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2022.01-2023.12</font></p>
+
 - **<font size=3>福建省信息处理与智能控制重点实验室开放基金</font>**
   <p><font size=3>名称：基于稀疏学习的智能交通数据恢复方法研究</font></p>
   <p><font size=3>排名：主持</font></p>
