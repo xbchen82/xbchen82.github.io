@@ -27,7 +27,7 @@ permalink: /chinese/
 <center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div></center>
 <center><b>相关成果</b></center>
 - <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
-- <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, <b><i>submitted to IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, submitted to <b><i>IEEE xxxx</i></b>, 2022
 - <b>陈小波</b>，梁书荣，柯佳，陈玲，胡煜. 基于图正则化和Schatten-p范数的交通数据缺失值恢复方法, <b><i>西南交通大学学报</i></b>，2022(EI)
 - <b>陈小波</b>,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  基于改进低秩矩阵补全的交通量数据缺失值插补方法, <b><i>交通运输工程学报</i></b> 19(5):180-190, 2019(EI)  
 - <b>Xiaobo Chen</b>, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data, <b><i>Neurocomputing</i></b> 303: 47-59, 2018 (SCI)   
@@ -43,8 +43,8 @@ permalink: /chinese/
 <center><div><img style="height: 150px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div></center>
 
 <center><b>相关成果</b></center>
-- 胡煜, <b>陈小波\*</b>,梁军, 陈玲, 梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，<b>计算机研究与发展</b>，2022(EI)  
-- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, <b><i>submitted to IEEE xxxx</i></b>, 2022 
+- 胡煜, <b>陈小波\*</b>,梁军, 陈玲, 梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，<b><i>计算机研究与发展</i></b>，2022(EI)  
+- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, >submitted to <b><iIEEE xxxx</i></b>, 2022 
 <HR>
 ### <center>统计机器学习
 <center><div>
