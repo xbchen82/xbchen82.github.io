@@ -15,9 +15,9 @@ permalink: /chinese/
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>,3(10):19471-19483, 2022 (SCI)
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>,71: 2513912, 2022 (SCI)
 - Yu Hu,<b>Xiaobo Chen\*</b>, Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction, 26th <b><i>International Conference on Pattern Recognition</i></b>, 2022
-- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles, <b><i>IEEE xxxx</i></b>, 2022
-- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., VNAT: Fast and Accurate Multi-Agent Trajectory Prediction Using Variational Non-Autoregressive Transformer for Intelligent Vehicles, <b><i>IEEE xxxx</i></b>, 2022
-- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine, <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles, submitted to <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., VNAT: Fast and Accurate Multi-Agent Trajectory Prediction Using Variational Non-Autoregressive Transformer for Intelligent Vehicles, submitted to <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine, submitted to <b><i>IEEE xxxx</i></b>, 2022
 <HR>
 ### <center>交通数据缺失值恢复
 
@@ -44,7 +44,7 @@ permalink: /chinese/
 
 <center><b>相关成果</b></center>
 - 胡煜, <b>陈小波\*</b>,梁军, 陈玲, 梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，<b><i>计算机研究与发展</i></b>，2022(EI)  
-- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, >submitted to <b><iIEEE xxxx</i></b>, 2022 
+- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, submitted to <b><i>IEEE xxxx</i></b>, 2022 
 <HR>
 ### <center>统计机器学习
 <center><div>
