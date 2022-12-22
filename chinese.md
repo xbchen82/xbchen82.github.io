@@ -11,7 +11,7 @@ permalink: /chinese/
 <center><div><img style="height: 100px;" src="/images/research/vhicle-trajectory-prediction/img1.png" alt="Fun" align=center></div></center>
 <center><div><img style="height: 300px;" src="/images/research/vhicle-trajectory-prediction/img2.png" alt="Fun" align=center></div></center>
 <center><div><img style="height: 100px;" src="/images/research/vhicle-trajectory-prediction/img3.png" alt="Fun" align=center></div></center>
-<center>**相关成果**
+<center><b>相关成果</b></center>
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>,3(10):19471-19483, 2022 (SCI)
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>,71: 2513912, 2022 (SCI)
 - Yu Hu,<b>Xiaobo Chen\*</b>, Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction, 26th <b><i>International Conference on Pattern Recognition</i></b>, 2022
@@ -25,7 +25,7 @@ permalink: /chinese/
 <center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img2.png" alt="Fun" align=center></div></center>
 <center><div><img style="height: 100px;" src="/images/research/traffic-data-imputation/img3.png" alt="Fun" align=center></div></center>
 <center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div></center>
-<center>**相关成果**
+<center><b>相关成果</b></center>
 - <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
 - <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, <b><i>submitted to IEEE xxxx</i></b>, 2022
 - <b>陈小波</b>，梁书荣，柯佳，陈玲，胡煜. 基于图正则化和Schatten-p范数的交通数据缺失值恢复方法, <b><i>西南交通大学学报</i></b>，2022(EI)
@@ -42,7 +42,7 @@ permalink: /chinese/
 <center><div><img style="height: 100px;" src="/images/research/vehicle-reidentification/img2.png" alt="Fun" align=center></div></center>
 <center><div><img style="height: 150px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div></center>
 
-<center>**相关成果**
+<center><b>相关成果</b></center>
 - 胡煜, <b>陈小波\*</b>,梁军, 陈玲, 梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，<b>计算机研究与发展</b>，2022(EI)  
 - <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, <b><i>submitted to IEEE xxxx</i></b>, 2022 
 <HR>
@@ -56,7 +56,7 @@ permalink: /chinese/
 <img style="height: 100px;" src="/images/MVA.jpg"/>
 <img style="height: 100px;" src="/images/SC.jpg"/>
 </div></center>
-<center>**相关成果**
+<center><b>相关成果</b></center>
 - <b>Xiaobo Chen</b>, Jian Yang, Qiaolin Ye, Jun Liang. Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization, <b><i>Pattern Recognition</i></b>, 44(10-11): 2643-2655, 2011 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, David Zhang, Jun Liang. Complete Large Margin Linear Discriminant Analysis Using Mathematical Programming Approach, <b><i>Pattern Recognition</i></b>, 46(6):1579-1594, 2013 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, Jun Liang. Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization, <b><i>Neural Processing Letters</i></b>, 33(3): 301-315, 2011 (SCI)
