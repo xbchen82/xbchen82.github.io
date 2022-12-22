@@ -4,13 +4,13 @@ title:研究方向
 permalink: /chinese/
 ---
 
-[车车/车路协同感知](#车车/车路协同感知)  ||  [轨迹预测](#轨迹预测)  ||  [车辆重识别](#车辆重识别)  ||  [交通数据缺失值恢复](#交通数据缺失值恢复)  ||  [交通流预测](#交通流预测)  ||  [脑信号分析](#脑信号分析)    ||  [统计机器学习](#统计机器学习)  ||  [交通场景语义分割](#交通场景语义分割)  ||  [车联网](#车联网)
+[轨迹预测](#轨迹预测)  ||  [交通数据缺失值恢复](#交通数据缺失值恢复)  ||  [车辆重识别](#车辆重识别)  ||  [车车/车路协同感知](#车车/车路协同感知)  ||  [交通流预测](#交通流预测)  ||  [脑信号分析](#脑信号分析)    ||  [统计机器学习](#统计机器学习)  ||  [交通场景语义分割](#交通场景语义分割)  ||  [车联网](#车联网)
 
 ### 轨迹预测
 
-<div><img style="height: 200px;" src="images/research/vhicle-trajectory-prediction/img1.png" alt="Fun"></div>
-<div><img style="height: 200px;" src="images/research/vhicle-trajectory-prediction/img2.png" alt="Fun"></div>
-<div><img style="height: 200px;" src="images/research/vhicle-trajectory-prediction/img3.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/vhicle-trajectory-prediction/img1.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/vhicle-trajectory-prediction/img2.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/vhicle-trajectory-prediction/img3.png" alt="Fun"></div>
 **相关成果**  
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>,3(10):19471-19483, 2022 (SCI)
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>,71: 2513912, 2022 (SCI)
@@ -21,10 +21,10 @@ permalink: /chinese/
 
 ### 交通数据缺失值恢复
 
-<div><img style="height: 200px;" src="images/research/traffic-data-imputation/img1.png" alt="Fun"></div>
-<div><img style="height: 200px;" src="images/research/traffic-data-imputation/img2.png" alt="Fun"></div>
-<div><img style="height: 200px;" src="images/research/traffic-data-imputation/img3.png" alt="Fun"></div>
-<div><img style="height: 200px;" src="images/research/traffic-data-imputation/img4.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img1.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img2.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img3.png" alt="Fun"></div>
+<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun"></div>
 **相关成果**  
 - <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
 - <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, <b><i>submitted to IEEE xxxx</i></b>, 2022
