@@ -8,9 +8,9 @@ permalink: /chinese/
 
 ### 轨迹预测
 
-<div><img style="height: 100px;" src="/images/research/vhicle-trajectory-prediction/img1.png" alt="Fun" align=center></div>
-<div><img style="height: 200px;" src="/images/research/vhicle-trajectory-prediction/img2.png" alt="Fun" align=center></div>
-<div><img style="height: 150px;" src="/images/research/vhicle-trajectory-prediction/img3.png" alt="Fun" align=center></div>
+<center><div><img style="height: 100px;" src="/images/research/vhicle-trajectory-prediction/img1.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 200px;" src="/images/research/vhicle-trajectory-prediction/img2.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 150px;" src="/images/research/vhicle-trajectory-prediction/img3.png" alt="Fun" align=center></div></center>
 **相关成果**  
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>,3(10):19471-19483, 2022 (SCI)
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>,71: 2513912, 2022 (SCI)
@@ -21,10 +21,10 @@ permalink: /chinese/
 
 ### 交通数据缺失值恢复
 
-<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img1.png"></div>
-<div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img2.png" alt="Fun" align=center></div>
-<div><img style="height: 100px;" src="/images/research/traffic-data-imputation/img3.png" alt="Fun" align=center></div>
-<div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div>
+<center><div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img1.png"></div></center>
+<center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img2.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 100px;" src="/images/research/traffic-data-imputation/img3.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div></center>
 **相关成果**  
 - <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
 - <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, <b><i>submitted to IEEE xxxx</i></b>, 2022
@@ -38,9 +38,9 @@ permalink: /chinese/
 - <b>Xiaobo Chen</b>, Zhongjie Wei, Zuoyong Li, Jun Liang, Yingfeng Cai. Ensemble Correlation-based Low-rank Matrix Completion with Application to Traffic Data Imputation, <b><i>Knowledge-Based Systems</i></b>, 132 249-262, 2017 (SCI)  
 
 ### 车辆重识别
-<div><img style="height: 200px;" src="/images/research/vehicle-reidentification/img1.png" alt="Fun" align=center></div>
-<div><img style="height: 100px;" src="/images/research/vehicle-reidentification/img2.png" alt="Fun" align=center></div>
-<div><img style="height: 150px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div>
+<center><div><img style="height: 200px;" src="/images/research/vehicle-reidentification/img1.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 100px;" src="/images/research/vehicle-reidentification/img2.png" alt="Fun" align=center></div></center>
+<center><div><img style="height: 150px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div></center>
 
 **相关成果** 
 - 胡煜, <b>陈小波</b>（通信作者）,梁军, 陈玲,  梁书荣. <font color=Blue>基于车辆组件特征与多注意力融合的车辆重识别方法</font>，<b>计算机研究与发展</b>，2022(EI)  
@@ -52,6 +52,9 @@ permalink: /chinese/
 <img style="height: 100px;" src="/images/KBS.gif"/>
 <img style="height: 100px;" src="/images/NC.gif"/>
 <img style="height: 100px;" src="/images/NCA.jpg"/>
+<img style="height: 100px;" src="/images/NPL.jpg"/>
+<img style="height: 100px;" src="/images/MVA.jpg"/>
+<img style="height: 100px;" src="/images/SC.jpg"/>
 </div></center>
 **相关成果** 
 - <b>Xiaobo Chen</b>, Jian Yang, Qiaolin Ye, Jun Liang. Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization, <b><i>Pattern Recognition</i></b>, 44(10-11): 2643-2655, 2011 (SCI)
