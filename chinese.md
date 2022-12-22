@@ -21,7 +21,7 @@ permalink: /chinese/
 
 ### 交通数据缺失值恢复
 
-<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img1.png" alt="Fun" align=center></div>
+<div><img style="height: 200px;" src="/images/research/traffic-data-imputation/img1.png"></div>
 <div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img2.png" alt="Fun" align=center></div>
 <div><img style="height: 100px;" src="/images/research/traffic-data-imputation/img3.png" alt="Fun" align=center></div>
 <div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div>
@@ -39,19 +39,20 @@ permalink: /chinese/
 
 ### 车辆重识别
 <div><img style="height: 200px;" src="/images/research/vehicle-reidentification/img1.png" alt="Fun" align=center></div>
-<div><img style="height: 200px;" src="/images/research/vehicle-reidentification/img2.png" alt="Fun" align=center></div>
-<div><img style="height: 200px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div>
+<div><img style="height: 100px;" src="/images/research/vehicle-reidentification/img2.png" alt="Fun" align=center></div>
+<div><img style="height: 150px;" src="/images/research/vehicle-reidentification/img3.png" alt="Fun" align=center></div>
 
 **相关成果** 
 - 胡煜, <b>陈小波</b>（通信作者）,梁军, 陈玲,  梁书荣. <font color=Blue>基于车辆组件特征与多注意力融合的车辆重识别方法</font>，<b>计算机研究与发展</b>，2022(EI)  
 - <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, <b><i>submitted to IEEE xxxx</i></b>, 2022 
 
 ### 统计机器学习
-<div><img style="height: 100px;" src="/images/PR.gif"/>
+<center><div>
+<img style="height: 100px;" src="/images/PR.gif"/>
 <img style="height: 100px;" src="/images/KBS.gif"/>
 <img style="height: 100px;" src="/images/NC.gif"/>
 <img style="height: 100px;" src="/images/NCA.jpg"/>
-</div>
+</div></center>
 **相关成果** 
 - <b>Xiaobo Chen</b>, Jian Yang, Qiaolin Ye, Jun Liang. Recursive Projection Twin Support Vector Machine via Within-Class Variance Minimization, <b><i>Pattern Recognition</i></b>, 44(10-11): 2643-2655, 2011 (SCI)
 - <b>Xiaobo Chen</b>, Jian Yang, David Zhang, Jun Liang. Complete Large Margin Linear Discriminant Analysis Using Mathematical Programming Approach, <b><i>Pattern Recognition</i></b>, 46(6):1579-1594, 2013 (SCI)
