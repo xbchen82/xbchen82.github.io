@@ -28,7 +28,8 @@ n actual traffic environment, the data collected by traffic equipment, e.g., loo
   ![imputation](/images/research/traffic-data-imputation/img4.png)
 
 **Related studies**  
-- <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network , <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
+- <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
+- <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, <b><i>submitted to IEEE xxxx</i></b>, 2022
 - <b>陈小波</b>，梁书荣，柯佳，陈玲，胡煜. 基于图正则化和Schatten-p范数的交通数据缺失值恢复方法, <b><i>西南交通大学学报</i></b>，2022(EI)
 - <b>陈小波</b>,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  基于改进低秩矩阵补全的交通量数据缺失值插补方法, <b><i>交通运输工程学报</i></b> 19(5):180-190, 2019(EI)  
 - <b>Xiaobo Chen</b>, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data, <b><i>Neurocomputing</i></b> 303: 47-59, 2018 (SCI)   
@@ -100,8 +101,12 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
   ![Vehicle Trajectory Prediction based on Deep Learning](/images/research/vhicle-trajectory-prediction/img3.png)
 
 **Related studies**  
-- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., <font color=Blue>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</font> , <b>IEEE Transactions on Intelligent Transportation Systems</b>, accepted  
-
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>,3(10):19471-19483, 2022 (SCI)
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>,71: 2513912, 2022 (SCI)
+- Yu Hu,<b>Xiaobo Chen\*</b>, Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction, 26th <b><i>International Conference on Pattern Recognition</i></b>, 2022
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles, <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Huanjia Zhang, et al., VNAT: Fast and Accurate Multi-Agent Trajectory Prediction Using Variational Non-Autoregressive Transformer for Intelligent Vehicles, <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine, <b><i>IEEE xxxx</i></b>, 2022
 
 ###     *<font color=Blue>EEG based driving fatigue detection based on Multi-view Learning</font>*
 
