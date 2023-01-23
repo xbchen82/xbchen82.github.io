@@ -106,6 +106,8 @@ permalink: /members/
 <table width="100%">
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/cxw.jpg" alt="蔡新闻" width="80px" height="110px"><br/>蔡新闻<br/>研究方向：交通流预测</td>
+		<td width="33.33%"></td>
+		<td width="33.33%"></td>
     </tr>
 </table>
 
@@ -113,6 +115,8 @@ permalink: /members/
 <table width="100%">
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/wzj.jpg" alt="韦中杰" width="80px" height="110px"><br/>韦中杰<br/>研究方向：交通数据缺失值恢复<br/>工作单位：苏州博世汽车有限公司</td>
+		<td width="33.33%"></td>
+		<td width="33.33%"></td>
     </tr>
 </table>
 
@@ -120,5 +124,7 @@ permalink: /members/
 <table width="100%">
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/lx.jpg" alt="刘祥" width="80px" height="110px"><br/>刘祥<br/>研究方向：交通流预测<br/>工作单位：安波福中央电气有限公司</td>
+		<td width="33.33%"></td>
+		<td width="33.33%"></td>
     </tr>
 </table>
