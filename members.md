@@ -40,7 +40,7 @@ permalink: /members/
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="50px" height="65px"></td>
-		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：</td>		
+		<td>王开元&nbsp;&nbsp;&nbsp;&nbsp;研究方向：优化<br/>投稿IEEE论文1篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="50px" height="65px"></td>
@@ -64,7 +64,7 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="50px" height="65px"></td>
-		<td>余昊泽&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆重识别</td>		
+		<td>余昊泽&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆重识别<br/>投稿IEEE论文1篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="50px" height="65px"></td>
@@ -84,11 +84,11 @@ permalink: /members/
 <table>
     <tr>
         <td><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="50px" height="65px"></td>
-		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆/行人轨迹预测。<br/>录用IEEE T-ITS论文1篇，录用IEEE T-IM论文1篇</td>		
+		<td>张欢嘉&nbsp;&nbsp;&nbsp;&nbsp;研究方向：车辆/行人轨迹预测。<br/>发表IEEE论文2篇，投稿IEEE论文2篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="50px" height="65px"></td>
-		<td>高玉祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：驾驶疲劳检测/驾驶行为分类。投稿IEEE论文2篇</td>		
+		<td>高玉祥&nbsp;&nbsp;&nbsp;&nbsp;研究方向：驾驶疲劳检测/驾驶行为分类。发表会议论文1篇，投稿IEEE论文1篇</td>		
     </tr>
 	<tr>
         <td><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="50px" height="65px"></td>
