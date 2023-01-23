@@ -33,9 +33,9 @@ permalink: /members/
 ---
 <table>
     <tr>
-        <td><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="50px" height="65px"><br/>张华铭;研究方向：环境感知</td>
-        <td><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="50px" height="65px"><br/>胡煜(江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a>);研究方向：轨迹预测</td>		
-		<td><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="50px" height="65px"><br/>张世林;研究方向：行人意图识别</td>
+        <td><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="50px" height="65px"><br/>张华铭<br/>研究方向：环境感知</td>
+        <td><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="50px" height="65px"><br/>胡煜<br/>江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a><br/>研究方向：轨迹预测</td>		
+		<td><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="50px" height="65px"><br/>张世林<br/>研究方向：行人意图识别</td>
     </tr>
 </table>
 
