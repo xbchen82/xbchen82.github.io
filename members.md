@@ -31,6 +31,15 @@ permalink: /members/
 </table>
 
 ---
+<table>
+    <tr>
+        <td><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="50px" height="65px">张华铭;研究方向：环境感知</td>
+        <td><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="50px" height="65px">胡煜(江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a>);研究方向：轨迹预测</td>		
+		<td><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="50px" height="65px">张世林;研究方向：行人意图识别</td>
+    </tr>
+</table>
+
+---
 **<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
 <p><b>2022级</b></p>
 <table>
