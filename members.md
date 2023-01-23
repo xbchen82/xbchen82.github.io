@@ -30,7 +30,7 @@ permalink: /members/
 ---
 **<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
 <p><b>2022级</b></p>
-<table border="1" width="100%">
+<table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>投稿IEEE论文1篇</td>	
@@ -44,10 +44,10 @@ permalink: /members/
 </table>
 
 <p><b>2021级</b></p>
-<table border="1" width="100%">
+<table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>投稿IEEE论文1篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：交通图像语义分割/轨迹预测</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别</td>
     </tr>
 	<tr>
@@ -58,10 +58,10 @@ permalink: /members/
 </table>
 
 <p><b>2020级</b></p>
-<table border="1" width="100%">
+<table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：车辆/行人轨迹预测<br/>发表IEEE论文2篇，投稿IEEE论文2篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶疲劳检测/驾驶行为分类<br/>发表会议论文1篇，投稿IEEE论文1篇</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：轨迹预测<br/>发表IEEE论文2篇，投稿IEEE论文2篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，投稿IEEE论文1篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="80px" height="110px"><br/>张致豪<br/>研究方向：多目标协同跟踪<br/>投稿论文1篇</td>
     </tr>
 	<tr>
