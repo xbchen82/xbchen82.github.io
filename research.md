@@ -3,7 +3,6 @@ layout: page
 title: 
 permalink: /research/
 ---
-### Overview
 
 ![Our Mission](/images/research/overview/img1.png#pic_center){: width="400" }  
 
