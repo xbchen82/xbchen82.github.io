@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 ---
 *[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
