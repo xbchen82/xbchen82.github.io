@@ -44,7 +44,11 @@ permalink: /publications/
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
-  <p><font size=3 face="Times New Roman"> <i>International Conference on Pattern Recognition (ICPR)</i>, accepted</font></p>
+  <p><font size=3 face="Times New Roman"> <i>International Conference on Pattern Recognition (ICPR)</i>, 2022</font></p>
+  
+- <font size=3 face="Times New Roman"><b>Multi-view Classification via Twin Projection Vector Machine with Application to EEG-Based Driving Fatigue Detection</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao</font></p>  
+  <p><font size=3 face="Times New Roman"> <i>International Conference on Data Mining and Big Data (DMBD)</i>, 2022, 394–407</font></p>
 
 - <font size=3><b>基于车辆组件特征与多注意力融合的车辆重识别方法</b></font>
   <p><font size=3>胡煜, 陈小波(通信作者),梁军, 陈玲, 梁书荣</font></p>  
