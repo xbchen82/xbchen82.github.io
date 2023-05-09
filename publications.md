@@ -17,10 +17,6 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
-- **<font size=3 face="Times New Roman">VNAGT: Multi-Agent Trajectory Prediction Using Variational Non-Autoregressive Graph Transformer Network for Intelligent Vehicles</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
-
 - **<font size=3 face="Times New Roman">Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
@@ -28,7 +24,12 @@ permalink: /publications/
 - **<font size=3 face="Times New Roman">Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
-  
+
+### 2023
+- <font size=3 face="Times New Roman"><b>VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang.</font></p>
+  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Vehicular Technology</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10121688">link</a></font></p>
+
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
