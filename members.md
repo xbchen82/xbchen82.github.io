@@ -33,6 +33,7 @@ permalink: /members/
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/wjy.jpg" alt="王俊宇" width="80px" height="110px"><br/>王俊宇<br/>研究方向：</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/xw.jpg" alt="徐伟" width="80px" height="110px"><br/>徐伟<br/>研究方向：</td>	
+		<td width="33.33%"></td>
     </tr>
 </table>
 
