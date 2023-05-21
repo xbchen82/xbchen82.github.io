@@ -28,6 +28,14 @@ permalink: /members/
 
 ---
 **<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
+<p><b>2023级</b></p>
+<table width="100%">
+    <tr>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/wjy.jpg" alt="王俊宇" width="80px" height="110px"><br/>王俊宇<br/>研究方向：</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/xw.jpg" alt="徐伟" width="80px" height="110px"><br/>徐伟<br/>研究方向：</td>	
+    </tr>
+</table>
+
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
@@ -37,7 +45,7 @@ permalink: /members/
     </tr>
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：目标检测</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="80px" height="110px"><br/>陈琳<br/>研究方向：车辆重识别</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="80px" height="110px"><br/>陈琳<br/>研究方向：驾驶行为识别</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="80px" height="110px"><br/>周祥正<br/>研究方向：轨迹预测<br/>南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
     </tr>
 </table>
