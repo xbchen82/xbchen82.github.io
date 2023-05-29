@@ -27,7 +27,7 @@ permalink: /chinese/
 <center><div><img style="height: 300px;" src="/images/research/traffic-data-imputation/img4.png" alt="Fun" align=center></div></center>
 <center><b>相关成果</b></center>
 - <b>Xiaobo Chen</b>, Shurong Liang, et al., A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network, <b><i>IEEE Internet of Things Journal</i></b>, 9(20): 20122-20135, 2022 (SCI) 
-- <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., Collaborative Nonconvex Low-rank Spatial-Temporal Data Tensor Completion for Smart Traffic IoT Network, submitted to <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Kaiyuan Wang, et al., A Novel Nonconvex Low-rank Tensor Completion Approach for Traffic Sensor Data Recovery from Incomplete Measurements,  <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>, 2023 (SCI)  
 - <b>陈小波</b>，梁书荣，柯佳，陈玲，胡煜. 基于图正则化和Schatten-p范数的交通数据缺失值恢复方法, <b><i>西南交通大学学报</i></b>，2022(EI)
 - <b>陈小波</b>,陈程,陈蕾,韦中杰,蔡英凤,周俊杰  基于改进低秩矩阵补全的交通量数据缺失值插补方法, <b><i>交通运输工程学报</i></b> 19(5):180-190, 2019(EI)  
 - <b>Xiaobo Chen</b>, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li. Graph Regularized Local Self-Representation for Missing Value Imputation with Applications to On-Road Traffic Sensor Data, <b><i>Neurocomputing</i></b> 303: 47-59, 2018 (SCI)   
