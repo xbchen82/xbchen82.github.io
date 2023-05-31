@@ -4,6 +4,10 @@ title:
 permalink: /members/
 ---
 
+[团队成员](#团队成员)  ||  [精彩团建](#精彩团建) 
+
+<HR>
+### 团队成员
 
 **<font size=4 face='Times New Roman' color='#177cb0'>Faculty</font>**
 
@@ -136,3 +140,11 @@ permalink: /members/
 		<td width="33.33%"></td>
     </tr>
 </table>
+
+---
+
+<HR>
+
+### 精彩团建
+<p><b>2023-05-31，祝贺张欢嘉、高玉祥顺利毕业，前程似锦！</b></p>
+<center><div><img style="height: 500px;" src="/images/activity/20230531.jpg" alt="Fun" align=center></div></center>
