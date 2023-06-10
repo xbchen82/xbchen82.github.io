@@ -28,7 +28,7 @@ permalink: /publications/
 
 - <font size=3 face="Times New Roman"><b>A Novel Nonconvex Low-rank Tensor Completion Approach for Traffic Sensor Data Recovery from Incomplete Measurements</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, Zuoyong Li, Yu Zhang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023</font></p>
+  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10147850">link</a></font></p>
 
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
