@@ -43,8 +43,8 @@ permalink: /members/
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>投稿IEEE论文1篇</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>投稿IEEE论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表IEEE论文1篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测</td>
     </tr>
 	<tr>
@@ -57,9 +57,9 @@ permalink: /members/
 <p><b>2021级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>投稿IEEE论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表IEEE论文1篇</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别</td>
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>投稿IEEE论文1篇</td>
     </tr>
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="110px"><br/>杜健<br/>研究方向：驾驶员表情识别<br/>投稿IET论文1篇</td>

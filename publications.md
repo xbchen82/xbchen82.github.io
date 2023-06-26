@@ -17,13 +17,15 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
 
-- **<font size=3 face="Times New Roman">Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+
 
 ### 2023
+- <font size=3 face="Times New Roman"><b>Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Feng Zhao, Yu Hu, Zuoyong Li</font></p>
+  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 </font></p>
+  
 - <font size=3 face="Times New Roman"><b>VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction</b></font>
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang.</font></p>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang</font></p>
   <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Vehicular Technology</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10121688">link</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>A Novel Nonconvex Low-rank Tensor Completion Approach for Traffic Sensor Data Recovery from Incomplete Measurements</b></font>
