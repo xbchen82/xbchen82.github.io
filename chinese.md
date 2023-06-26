@@ -44,7 +44,7 @@ permalink: /chinese/
 
 <center><b>相关成果</b></center>
 - 胡煜, <b>陈小波\*</b>,梁军, 陈玲, 梁书荣. 基于车辆组件特征与多注意力融合的车辆重识别方法，<b><i>计算机研究与发展</i></b>，2022(EI)  
-- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, submitted to <b><i>IEEE xxxx</i></b>, 2022 
+- <b>Xiaobo Chen</b>, Haoze Yu, et al., Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation, <b><i>IEEE Transactions on Instrumentation and Measurement</i></b>, 2023 
 <HR>
 ### <center>统计机器学习
 <center><div>
