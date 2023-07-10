@@ -148,6 +148,7 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Image Processing</font></p>
   <p><font size=3>IEEE Transactions on Industrial Informatics</font></p>
   <p><font size=3>IEEE Transactions on Vehicular Technology</font></p>
+    <p><font size=3>IEEE Transactions on Intelligent Vehicles</font></p>
   <p><font size=3>IEEE Transactions on Big Data</font></p>
   <p><font size=3>IEEE Transactions on Biomedical Engineering</font></p>
   <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
