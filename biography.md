@@ -110,6 +110,11 @@ permalink: /biography/
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2013-2015</font></p>
   
+- **<font size=3>山东省自然科学基金面上项目</font>**
+  <p><font size=3>名称：基于动态时空注意力的交互式车辆轨迹预测及其不确定性量化方法研究</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2024.01-2026.12</font></p>
+  
 - **<font size=3>烟台市科技创新发展计划项目</font>**
   <p><font size=3>名称：面向智慧港口的自动驾驶环境感知系统关键技术研发</font></p>
   <p><font size=3>排名：主持</font></p>
