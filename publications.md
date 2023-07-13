@@ -13,13 +13,27 @@ permalink: /publications/
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
   
-- **<font size=3 face="Times New Roman">Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+- **<font size=3 face="Times New Roman">Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
+- **<font size=3 face="Times New Roman">Unsupervised Cross-scenario Abnormal Driving Behavior Recognition Using Smartphone Sensor Data</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yong Wang, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
+- **<font size=3 face="Times New Roman">Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
+- **<font size=3 face="Times New Roman">Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</font>**
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, et al.</font></p>
+  <p><font size=3 face="Times New Roman">submitted to IET xxx 2023</font></p>
+  
 ### 2023
+- <font size=3 face="Times New Roman"><b>Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, Haoze Yu, Hai Wang, Yingfeng Cai</font></p>
+  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Intelligent Transportation Systems</i>, 2023 </font></p>
+
 - <font size=3 face="Times New Roman"><b>Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Feng Zhao, Yu Hu, Zuoyong Li</font></p>
   <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 </font></p>
