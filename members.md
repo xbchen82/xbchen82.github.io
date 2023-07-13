@@ -58,7 +58,7 @@ permalink: /members/
 <table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表IEEE论文1篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测<br/>投稿IEEE论文1篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>投稿IEEE论文1篇</td>
     </tr>
 	<tr>
@@ -68,22 +68,22 @@ permalink: /members/
     </tr>
 </table>
 
+---
+**<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2020级</b></p>
 <table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：轨迹预测<br/>发表IEEE论文3篇，投稿IEEE论文1篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，投稿IEEE论文1篇</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="80px" height="110px"><br/>张致豪<br/>研究方向：多目标协同跟踪<br/>投稿论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，发表IEEE论文1篇</td>	
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="80px" height="110px"><br/>张致豪<br/>研究方向：多目标协同跟踪<br/>发表论文1篇</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/rbb.jpg" alt="任彬彬" width="80px" height="110px"><br/>任彬彬<br/>研究方向：交通流预测<br/>投稿论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/rbb.jpg" alt="任彬彬" width="80px" height="110px"><br/>任彬彬<br/>研究方向：交通流预测<br/>发表论文1篇</td>
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
 </table>
 
----
-**<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2019级</b></p>
 
 <table width="100%">
