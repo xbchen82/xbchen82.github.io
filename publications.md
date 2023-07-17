@@ -36,7 +36,7 @@ permalink: /publications/
 
 - <font size=3 face="Times New Roman"><b>Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Feng Zhao, Yu Hu, Zuoyong Li</font></p>
-  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 </font></p>
+  <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10182351">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang</font></p>
