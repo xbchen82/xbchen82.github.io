@@ -105,7 +105,7 @@ Due to the rapid development of communication network such as C-V2X and 5G, the 
 - Yu Hu,<b>Xiaobo Chen\*</b>, Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction, 26th <b><i>International Conference on Pattern Recognition</i></b>, 2022
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles, <b><i>IEEE xxxx</i></b>, 2022
 - <b>Xiaobo Chen</b>, Huanjia Zhang, et al., VNAT: Fast and Accurate Multi-Agent Trajectory Prediction Using Variational Non-Autoregressive Transformer for Intelligent Vehicles, <b><i>IEEE Transactions on Vehicular Technology</i></b>, 2023
-- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-supervised Twin Projection Vector Machine, <b><i>IEEE xxxx</i></b>, 2022
+- <b>Xiaobo Chen</b>, Yuxiang Gao, et al., Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-Supervised Twin Projection Vector Machine, <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, 2023
 
 ###     *<font color=Blue>EEG based driving fatigue detection based on Multi-view Learning</font>*
 
