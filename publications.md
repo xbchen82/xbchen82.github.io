@@ -24,12 +24,12 @@ permalink: /publications/
 - **<font size=3 face="Times New Roman">Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
-
-- **<font size=3 face="Times New Roman">Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IET xxx 2023</font></p>
   
 ### 2023
+- <font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font></p>
+  <p><font size=3 face="Times New Roman"><i>IET Intelligent Transportation Systems</i>, 2023, Accept </font></p>
+
 - <font size=3 face="Times New Roman"><b>Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-Supervised Twin Projection Vector Machine</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, Haoze Yu, Hai Wang, Yingfeng Cai</font></p>
   <p><font size=3 face="Times New Roman"><i>IEEE Transactions on Intelligent Transportation Systems</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10201384">link</a></font></p>
