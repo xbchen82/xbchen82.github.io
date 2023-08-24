@@ -4,7 +4,7 @@ title:
 permalink: /biography/
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE Senior Member/CCF,CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在国内外期刊和会议发表论文110余篇（第一/通信作者论文50余篇），代表性论文发表在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Vehicular Technology、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议，被引用2300余次。单篇最高被引用180次，3篇一作论文被引用超过130次，H指数27，i10指数55。申请发明专利10项，已授权7项。主持完成了多项国家和省部级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE Senior Member/CCF,CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在国内外期刊和会议发表论文110余篇（第一/通信作者论文50余篇），代表性论文发表在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Vehicular Technology、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议，被引用2700余次。单篇最高被引用190次，3篇一作论文被引用超过130次，H指数28，i10指数55。申请发明专利10项，已授权7项。主持完成了多项国家和省部级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
 
 ### Contact me
 
@@ -42,7 +42,7 @@ permalink: /biography/
   <p><font size=3>年份：2021-</font></p>
   
 - **<font size=3>江苏大学</font>**
-  <p><font size=3>职称：助教/讲师/副教授/研究员(<font color="red">破格</font>)，博士生导师(<font color="red">破格</font>)</font></p>
+  <p><font size=3>职称：助教/讲师/副教授/教授(<font color="red">破格</font>)，博士生导师(<font color="red">破格</font>)</font></p>
   <p><font size=3>年份：2004-2021</font></p>
   
 ### Visiting Experience
@@ -96,19 +96,24 @@ permalink: /biography/
 
 ### Projects  
 - **<font size=3>国家自然科学基金(面上项目)</font>**
+  <p><font size=3>名称：基于多维不确定性建模的跨场景交互式车辆轨迹预测方法研究</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2024.01-2027.12</font></p>
+  
+- **<font size=3>国家自然科学基金(面上项目)</font>**
   <p><font size=3>名称：基于时空特征驱动稀疏学习的路网交通流缺失值恢复研究</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2018-2021</font></p>
+  <p><font size=3>年份：2018.01-2021.12</font></p>
 
 - **<font size=3>国家重点研发计划“新能源汽车”专项子课题</font>**
   <p><font size=3>名称：多车协同感知下的多目标跟踪方法研究</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2018-2021</font></p>
+  <p><font size=3>年份：2018.04-2021.03</font></p>
 
 - **<font size=3>国家自然科学基金(青年基金)</font>**
   <p><font size=3>名称：数据内在结构驱动的大间隔特征提取算法及其应用研究</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2013-2015</font></p>
+  <p><font size=3>年份：2013.01-2015.12</font></p>
   
 - **<font size=3>山东省自然科学基金面上项目</font>**
   <p><font size=3>名称：基于动态时空注意力的交互式车辆轨迹预测及其不确定性量化方法研究</font></p>
@@ -128,12 +133,12 @@ permalink: /biography/
 - **<font size=3>福建省信息处理与智能控制重点实验室开放基金</font>**
   <p><font size=3>名称：基于稀疏学习的智能交通数据恢复方法研究</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2017-2018</font></p>
+  <p><font size=3>年份：2017.01-2018.12</font></p>
 
 - **<font size=3>江苏省大数据安全与智能处理重点实验室开放基金</font>**
   <p><font size=3>名称：基于稀疏学习的路网交通流缺失值恢复研究</font></p>
   <p><font size=3>排名：主持</font></p>
-  <p><font size=3>年份：2018-2019</font></p>
+  <p><font size=3>年份：2018.01-2019.12</font></p>
 
 ### Academic Activities  
 - **<font size=3>学术组织</font>**
@@ -148,7 +153,7 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Image Processing</font></p>
   <p><font size=3>IEEE Transactions on Industrial Informatics</font></p>
   <p><font size=3>IEEE Transactions on Vehicular Technology</font></p>
-    <p><font size=3>IEEE Transactions on Intelligent Vehicles</font></p>
+  <p><font size=3>IEEE Transactions on Intelligent Vehicles</font></p>
   <p><font size=3>IEEE Transactions on Big Data</font></p>
   <p><font size=3>IEEE Transactions on Biomedical Engineering</font></p>
   <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
