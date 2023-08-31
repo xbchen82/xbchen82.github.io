@@ -125,7 +125,7 @@ permalink: /biography/
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2021.01-2025.12</font></p>
   
- - **<font size=3>江苏省“六大人才高峰”高层次人才项目</font>**
+- **<font size=3>江苏省“六大人才高峰”高层次人才项目</font>**
   <p><font size=3>名称：基于机器学习的路网交通流预测关键技术研究</font></p>
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2017.01-2021.12</font></p>
