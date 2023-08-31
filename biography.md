@@ -4,7 +4,7 @@ title:
 permalink: /biography/
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE Senior Member/CCF,CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在国内外期刊和会议发表论文110余篇（第一/通信作者论文50余篇），代表性论文发表在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Vehicular Technology、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议，被引用2700余次。单篇最高被引用190次，3篇一作论文被引用超过130次，H指数28，i10指数55。申请发明专利10项，已授权7项。主持完成了多项国家和省部级科研课题，研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;陈小波教授(IEEE Senior Member/CCF,CAAI Member)一直从事模式识别理论与方法及其在智能交通、脑信号分析等领域的应用研究。在国内外期刊和会议发表论文110余篇（第一/通信作者论文50余篇），代表性论文发表在IEEE Transactions on Intelligent Transportation Systems、IEEE Transactions on Vehicular Technology、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Vehicles、IEEE Intelligent Transportation Systems Magazine、IEEE Internet of Things Journal、Pattern Recognition等国际知名期刊和AAAI、ICPR、ACPR、MICCAI等国际会议，被引用2700余次。单篇最高被引用190次，3篇一作论文被引用超过150次，H指数28，i10指数55。申请发明专利10项，已授权7项。主持科研项目10余项（包括国家自然科学基金3项、国家重点研发计划子课题1项），研究成果多次获得省部级政府和行业奖励，入选江苏省“六大人才高峰”高层次人才，山东省“泰山学者”青年专家等省级人才项目。</p>
 
 ### Contact me
 
@@ -119,6 +119,16 @@ permalink: /biography/
   <p><font size=3>名称：基于动态时空注意力的交互式车辆轨迹预测及其不确定性量化方法研究</font></p>
   <p><font size=3>排名：主持</font></p>
   <p><font size=3>年份：2024.01-2026.12</font></p>
+  
+- **<font size=3>山东省“泰山学者”人才工程项目</font>**
+  <p><font size=3>名称：基于车联网的多车协同复杂环境感知理论与方法</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2021.01-2025.12</font></p>
+  
+ - **<font size=3>江苏省“六大人才高峰”高层次人才项目</font>**
+  <p><font size=3>名称：基于机器学习的路网交通流预测关键技术研究</font></p>
+  <p><font size=3>排名：主持</font></p>
+  <p><font size=3>年份：2017.01-2021.12</font></p>
   
 - **<font size=3>烟台市科技创新发展计划项目</font>**
   <p><font size=3>名称：面向智慧港口的自动驾驶环境感知系统关键技术研发</font></p>
