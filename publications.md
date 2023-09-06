@@ -28,7 +28,7 @@ permalink: /publications/
 ### 2023
 - <font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman"><i>IET Intelligent Transportation Systems</i>, 2023, Accept </font></p>
+  <p><font size=3 face="Times New Roman"><i>IET Intelligent Transportation Systems</i>, 2023, <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12423">link</a> </font></p>
 
 - <font size=3 face="Times New Roman"><b>Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-Supervised Twin Projection Vector Machine</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, Haoze Yu, Hai Wang, Yingfeng Cai</font></p>
