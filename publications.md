@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 *[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
-[2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
+[2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### In progress
 
@@ -28,36 +28,36 @@ permalink: /publications/
 ### 2023
 - <font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"><i>IET Intelligent Transportation Systems</i>, 2023, <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12423">link</a> </font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IET Intelligent Transportation Systems</b></i>, 2023, <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12423">link</a> </font></p>
 
 - <font size=3 face="Times New Roman"><b>Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-Supervised Twin Projection Vector Machine</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, Haoze Yu, Hai Wang, Yingfeng Cai</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"><i>IEEE Transactions on Intelligent Transportation Systems</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10201384">link</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i>, 2023 <a href="https://ieeexplore.ieee.org/document/10201384">link</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Feng Zhao, Yu Hu, Zuoyong Li</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10182351">link</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i>, 2023 <a href="https://ieeexplore.ieee.org/document/10182351">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"><i>IEEE Transactions on Vehicular Technology</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10121688">link</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i>, 2023 <a href="https://ieeexplore.ieee.org/document/10121688">link</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>A Novel Nonconvex Low-rank Tensor Completion Approach for Traffic Sensor Data Recovery from Incomplete Measurements</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, Zuoyong Li, Yu Zhang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"><i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10147850">link</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i>, 2023 <a href="https://ieeexplore.ieee.org/document/10147850">link</a></font></p>
 
 ### 2022
 - <font size=3 face="Times New Roman"><b>Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer with Multi-Attention Learning for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"> <i>IEEE Transactions on Instrumentation and Measurement</i>, 71: 2513912, 2022 <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"> <i><b>IEEE Transactions on Instrumentation and Measurement</b></i>, 71: 2513912, 2022 <a href="https://ieeexplore.ieee.org/document/9832594">link</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>A Novel Spatio-Temporal Data Low-rank Imputation Approach for Traffic Sensor Network</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Shurong Liang, Zhihao Zhang, Feng Zhao</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"> <i>IEEE Internet of Things Journal</i>, 9(20): 20122-20135, 2022 <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"> <i><b>IEEE Internet of Things Journal</b></i>, 9(20): 20122-20135, 2022 <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></font></p>
   
 - <font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font>
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, Jian Yang</font></p>
-  <p><font size=3 face="Times New Roman" color="blue"> <i>IEEE Transactions on Intelligent Transportation Systems</i>, 3(10):19471-19483, 2022 <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
+  <p><font size=3 face="Times New Roman" color="blue"> <i><b>IEEE Transactions on Intelligent Transportation Systems</b></i>, 3(10):19471-19483, 2022 <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></font></p>
 
 - <font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font>
   <p><font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen*</font></p>  
