@@ -190,7 +190,7 @@ permalink: /publications/
 
 - **<font size=3 face='Times New Roman'>Multi-layer multi-view classification for Alzheimer’s disease diagnosis</font>**  
   <p><font size=3 face='Times New Roman'>Changqing Zhang, Ehsan Adeli, Tao Zhou, Xiaobo Chen, Dinggang Shen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>AAAI Conference on Artificial Intelligence</b></i></p>
+  <p><font size=3 face='Times New Roman' color="blue"><i><b>AAAI Conference on Artificial Intelligence</b></i></font></p>
   
 - **<font size=3 face='Times New Roman'>Ensemble learning multiple LSSVR with improved harmony search algorithm for short-term traffic flow forecasting</font>**  
   <p><font size=3 face='Times New Roman'>Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu</font></p>
