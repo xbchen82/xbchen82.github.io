@@ -4,8 +4,7 @@ title:
 permalink: /resource/
 ---
 
-**<font size=4 face='Times New Roman'>Code and Data resource</font>**
-  
+[代码](#Code)  ||  [数据](#Data) ||  [学习资源](#学习资源)
 
 ### Code
 
