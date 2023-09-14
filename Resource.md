@@ -22,6 +22,6 @@ permalink: /resource/
 
  ---
  
- ### 学习资源
+### 学习资源
 - **<font size=3>如何做研究：<a href="https://zhuanlan.zhihu.com/p/93765082">刘知远：好的研究想法从哪里来</a></font>**
-- **<font size=3>如何做研究：<a href="https://fangvv.gitee.io/homepage/research-experiences.pdf">零点花园科研经验集锦</a></font>**
+- **<font size=3>如何做研究：<a href="/images/research-experiences.pdf">零点花园科研经验集锦</a></font>**
