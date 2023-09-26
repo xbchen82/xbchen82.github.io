@@ -39,7 +39,7 @@ permalink: /members/
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/smc.jpg" alt="时孟超" width="80px" height="110px"><br/>时孟超<br/>研究方向：</td>	
     </tr>
 	<tr>
-        <td width="33.33%"></td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/zjp.jpg" alt="臧金鹏" width="80px" height="110px"><br/>臧金鹏<br/>研究方向：</td>
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
