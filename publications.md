@@ -97,109 +97,109 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>Multimedia Tools and Applications</b></i></font> 80 (15), 23073-23089 (SCI)</p>  
 
 ### 2020
-- <p><font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font><br> 
+- <p><font size=3 face="Times New Roman"><b>Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</b></font><br> 
   <font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>,2020 (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**
-  <p><font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (23), 2874</p>  
+- <p><font size=3 face="Times New Roman"><b>Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</b></font><br>
+  <font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA</font><br> 
+  <<font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (23), 2874</p>  
 
-- **<font size=3 face="Times New Roman">Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</font>**
-  <p><font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i></font> (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</b></font><br>
+  <font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font><br> 
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i></font> (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</font>**
-  <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font></p>  
+- <font size=3 face="Times New Roman"><b>Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</b></font><br>
+  <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font><br>
   <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Vehicles</b></i></font> 6 (1), 100-109 (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">A toolbox for brain network construction and classification (BrainNetClass)</font>**
-  <p><font size=3 face="Times New Roman">Zhen Zhou, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>Human Brain Mapping</b></i></font> 41 (10), 2808-2826 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>A toolbox for brain network construction and classification (BrainNetClass)</b></font><br>
+  <font size=3 face="Times New Roman">Zhen Zhou, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Human Brain Mapping</b></i></font> 41 (10), 2808-2826 (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation</font>**
-  <p><font size=3 face="Times New Roman">Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Medical Imaging</b></i></font> 39 (10), 3137-3147 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Multi-class ASD classification based on functional connectivity and functional correlation tensor via multi-source domain adaptation and multi-view sparse representation</b></font><br>
+  <font size=3 face="Times New Roman">Jun Wang, Lichi Zhang, Qian Wang, Lei Chen, Jun Shi, Xiaobo Chen, Zuoyong Li, Dinggang Shen</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Medical Imaging</b></i></font> 39 (10), 3137-3147 (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</font>**
-  <p><font size=3 face="Times New Roman">Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, Xiaobo Chen, Youguang Guo</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Journal of Emerging and Selected Topics in Power Electronics</b></i></font> (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Torque modeling of a segmented-rotor SRM using maximum-correntropy-criterion-based LSSVR for torque calculation of EVs</b></font><br>
+  <font size=3 face="Times New Roman">Xiaodong Sun, Jiangling Wu, Gang Lei, Yingfeng Cai, Xiaobo Chen, Youguang Guo</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Journal of Emerging and Selected Topics in Power Electronics</b></i></font> (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Research on hybrid control strategy for intelligent vehicle path tracking</font>**.  
-  <p><font size=3 face="Times New Roman">Yingfeng CAI, Jian LI, Xiaoqiang SUN, Long CHEN, Haobing JIANG, Youguo HE, Xiaobo CHEN</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (03), 289</p>  
+- <p><font size=3 face="Times New Roman"><b>Research on hybrid control strategy for intelligent vehicle path tracking</b></font><br>
+  <font size=3 face="Times New Roman">Yingfeng CAI, Jian LI, Xiaoqiang SUN, Long CHEN, Haobing JIANG, Youguo HE, Xiaobo CHEN</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (03), 289</p>  
 
-- **<font size=3 face="Times New Roman">Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference</font>**  
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>Sensors</b></i></font> 20 (22), 6487 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Multi-Vehicle Cooperative Target Tracking with Time-Varying Localization Uncertainty via Recursive Variational Bayesian Inference</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yanjun Wang, Ling Chen, Jianyu Ji</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Sensors</b></i></font> 20 (22), 6487 (SCI)</p>  
 
-- **<font size=3 face="Times New Roman">Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication</font>**  
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Jianyu Ji, Yanjun Wang</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>Sensors</b></i></font> 20 (11), 3212 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Robust cooperative multi-vehicle tracking with inaccurate self-localization based on on-board sensors and inter-vehicle communication</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Jianyu Ji, Yanjun Wang</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Sensors</b></i></font> 20 (11), 3212 (SCI)</p>  
 
 ### 2019
-- **<font size=3 face="Times New Roman">Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks</font>**
-  <p><font size=3 face="Times New Roman">Luyan Liu, Han Zhang, Jinsong Wu, Zhengda Yu, Xiaobo Chen, Islem Rekik, Qian Wang, Junfeng Lu, Dinggang Shen</font> </p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Brain imaging and behavior</b></i></font> 13 (5), 1333-1351 (SCI)</p>
+- <p><font size=3 face="Times New Roman"><b>Overall survival time prediction for high-grade glioma patients based on large-scale brain functional networks</b></font><br>
+  <font size=3 face="Times New Roman">Luyan Liu, Han Zhang, Jinsong Wu, Zhengda Yu, Xiaobo Chen, Islem Rekik, Qian Wang, Junfeng Lu, Dinggang Shen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Brain imaging and behavior</b></i></font> 13 (5), 1333-1351 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Treatment-naive first episode depression classification based on high-order brain functional network</font>**  
-  <p><font size=3 face='Times New Roman'>Yanting Zheng, Xiaobo Chen, Danian Li, Yujie Liu, Xin Tan, Yi Liang, Han Zhang, Shijun Qiu, Dinggang Shen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Journal of affective disorders</b></i></font> 256, 33-41 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Treatment-naive first episode depression classification based on high-order brain functional network</b></font><br>
+  <font size=3 face='Times New Roman'>Yanting Zheng, Xiaobo Chen, Danian Li, Yujie Liu, Xin Tan, Yi Liang, Han Zhang, Shijun Qiu, Dinggang Shen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Journal of affective disorders</b></i></font> 256, 33-41 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Strength and similarity guided group-level brain functional network construction for MCI diagnosis</font>**  
-  <p><font size=3 face='Times New Roman'>Yu Zhang, Han Zhang, Xiaobo Chen, Mingxia Liu, Xiaofeng Zhu, Seong-Whan Lee, Dinggang Shen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Pattern Recognition</b></i></font> 88, 421-430 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Strength and similarity guided group-level brain functional network construction for MCI diagnosis</b></font><br>
+  <font size=3 face='Times New Roman'>Yu Zhang, Han Zhang, Xiaobo Chen, Mingxia Liu, Xiaofeng Zhu, Seong-Whan Lee, Dinggang Shen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Pattern Recognition</b></i></font> 88, 421-430 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>A comparative study of state-of-the-art deep learning algorithms for vehicle detection</font>**  
-  <p><font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Qingchao Liu</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>IEEE Intelligent Transportation Systems Magazine</b></i></font> 11 (2), 82-95 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>A comparative study of state-of-the-art deep learning algorithms for vehicle detection</b></font><br>
+  <font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Qingchao Liu</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Intelligent Transportation Systems Magazine</b></i></font> 11 (2), 82-95 (SCI)</p>
   
-- **<font size=3 face='Times New Roman'>基于改进低秩矩阵补全的交通量数据缺失值插补方法</font>**  
-  <p><font size=3 face='Times New Roman'>陈小波， 陈程， 陈蕾， 韦中杰， 蔡英凤， 周俊杰</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>交通运输工程学报</b></i></font> 19(5):180-190 (EI)</p>
+- <p><font size=3 face='Times New Roman'><b>基于改进低秩矩阵补全的交通量数据缺失值插补方法</b></font><br>
+  <font size=3 face='Times New Roman'>陈小波， 陈程， 陈蕾， 韦中杰， 蔡英凤， 周俊杰</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>交通运输工程学报</b></i></font> 19(5):180-190 (EI)</p>
   
   
 ### 2018
-- **<font size=3 face='Times New Roman'>A vehicle recognition algorithm based on deep transfer learning with a multiple feature subspace distribution</font>**  
-  <p><font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Long Chen, Xiaobo Chen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (12), 4109 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>A vehicle recognition algorithm based on deep transfer learning with a multiple feature subspace distribution</b></font><br>
+  <font size=3 face='Times New Roman'>Hai Wang, Yijie Yu, Yingfeng Cai, Long Chen, Xiaobo Chen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (12), 4109 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Vehicle detection by fusing part model learning and semantic scene information for complex urban surveillance</font>**  
-  <p><font size=3 face='Times New Roman'>Yingfeng Cai, Ze Liu, Hai Wang, Xiaobo Chen, Long Chen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (10), 3505 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Vehicle detection by fusing part model learning and semantic scene information for complex urban surveillance</b></font><br>
+  <font size=3 face='Times New Roman'>Yingfeng Cai, Ze Liu, Hai Wang, Xiaobo Chen, Long Chen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (10), 3505 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Kernel sparse representation with hybrid regularization for on-road traffic sensor data imputation</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (9), 2884 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Kernel sparse representation with hybrid regularization for on-road traffic sensor data imputation</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Cheng Chen, Yingfeng Cai, Hai Wang, Qiaolin Ye</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Sensors</b></i></font> 18 (9), 2884 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Improved Robust Discriminant Analysis for Feature Extraction</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>International Conference on Pattern Recognition (ICPR)</b></i></font>, 1444-1449 (EI)</p>
+- <p><font size=3 face='Times New Roman'><b>Improved Robust Discriminant Analysis for Feature Extraction</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>International Conference on Pattern Recognition (ICPR)</b></i></font>, 1444-1449 (EI)</p>
 
-- **<font size=3 face='Times New Roman'>An Improved Self-Representation Approach for Missing Value Imputation</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen</font> </p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>International Conference on Pattern Recognition (ICPR)</b></i></font>, 1450-1455 (EI)</p>
+- <p><font size=3 face='Times New Roman'><b>An Improved Self-Representation Approach for Missing Value Imputation</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>International Conference on Pattern Recognition (ICPR)</b></i></font>, 1450-1455 (EI)</p>
 
-- **<font size=3 face='Times New Roman'>Graph regularized local self-representation for missing value imputation with applications to on-road traffic sensor data</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Neurocomputing</b></i></font> 303, 47-59 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Graph regularized local self-representation for missing value imputation with applications to on-road traffic sensor data</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qiaolin Ye, Lei Chen, Zuoyong Li</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Neurocomputing</b></i></font> 303, 47-59 (SCI)</p>
   
-- **<font size=3 face='Times New Roman'>Nonconvex-Norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 24279-24290 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Nonconvex-Norm Regularized Sparse Self-Representation for Traffic Sensor Data Recovery</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yingfeng Cai, Qingchao Liu, Lei Chen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 24279-24290 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Multi-layer multi-view classification for Alzheimer’s disease diagnosis</font>**  
-  <p><font size=3 face='Times New Roman'>Changqing Zhang, Ehsan Adeli, Tao Zhou, Xiaobo Chen, Dinggang Shen</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>AAAI Conference on Artificial Intelligence</b></i></font></p>
+- <p><font size=3 face='Times New Roman'><b>Multi-layer multi-view classification for Alzheimer’s disease diagnosis</b></font><br>
+  <font size=3 face='Times New Roman'>Changqing Zhang, Ehsan Adeli, Tao Zhou, Xiaobo Chen, Dinggang Shen</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>AAAI Conference on Artificial Intelligence</b></i></font></p>
   
-- **<font size=3 face='Times New Roman'>Ensemble learning multiple LSSVR with improved harmony search algorithm for short-term traffic flow forecasting</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9347-9357 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Ensemble learning multiple LSSVR with improved harmony search algorithm for short-term traffic flow forecasting</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Xinwen Cai, Jun Liang, Qingchao Liu</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9347-9357 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>A novel method for air quality data imputation by nuclear norm minimization</font>**  
-  <p><font size=3 face='Times New Roman'>Xiaobo Chen, Yan Xiao</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>Journal of Sensors</b></i></font> Volume 2018, Article ID 7465026 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>A novel method for air quality data imputation by nuclear norm minimization</b></font><br>
+  <font size=3 face='Times New Roman'>Xiaobo Chen, Yan Xiao</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>Journal of Sensors</b></i></font> Volume 2018, Article ID 7465026 (SCI)</p>
 
-- **<font size=3 face='Times New Roman'>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</font>**  
-  <p><font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font></p>
-  <p><font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
+- <p><font size=3 face='Times New Roman'><b>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</b></font><br>
+  <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font><br>
+  <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
