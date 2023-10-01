@@ -84,17 +84,17 @@ permalink: /publications/
   <font size=3 color="blue"><i><b>吉林大学学报(工学版)</b></i></font> (EI)</p>  
 
 ### 2021
-- <font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font>
-  <p><font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, Xiaobo Chen, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>US Patent</b></i></font>, 11,100,795</p>  
+- <p><font size=3 face="Times New Roman"><b>Driving service active sensing system and method in internet of vehicles environment</b></font><br>
+  <font size=3 face="Times New Roman">Jun Liang, ZHAO Zhenchao, Long Chen, Haobin Jiang, Xiaobo Chen, MA Shidian, ZHOU Weiqi, Yingfeng Cai, Tongyang Zhao</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>US Patent</b></i></font>, 11,100,795</p>  
 
-- <font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b></font>
-  <p><font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, Xiaobo Chen, Ning Mao, Dinggang Shen, Feng Zhao</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>PeerJ</b></i></font> 9, e11692 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Constructing high-order functional connectivity network based on central moment features for diagnosis of autism spectrum disorder</b></font><br>
+  <font size=3 face="Times New Roman">Qingsong Xie, Xiangfei Zhang, Islem Rekik, Xiaobo Chen, Ning Mao, Dinggang Shen, Feng Zhao</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>PeerJ</b></i></font> 9, e11692 (SCI)</p>  
 
-- <font size=3 face="Times New Roman"><b>Geometric projection twin support vector machine for pattern classification</b></font>
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yan Xiao</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>Multimedia Tools and Applications</b></i></font> 80 (15), 23073-23089 (SCI)</p>  
+- <p><font size=3 face="Times New Roman"><b>Geometric projection twin support vector machine for pattern classification</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yan Xiao</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Multimedia Tools and Applications</b></i></font> 80 (15), 23073-23089 (SCI)</p>  
 
 ### 2020
 - **<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**  
