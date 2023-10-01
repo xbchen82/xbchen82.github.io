@@ -24,6 +24,27 @@ permalink: /publications/
 - **<font size=3 face="Times New Roman">Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</font>**
   <p><font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font></p>
   <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
+
+### 2023
+- <p><font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IET Intelligent Transportation Systems</b></i></font>, 2023, <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12423">link</a></p>
+
+- <font size=3 face="Times New Roman"><b>Driving Style Feature Extraction and Recognition Based on Hyperdimensional Computing and Semi-Supervised Twin Projection Vector Machine</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yuxiang Gao, Haoze Yu, Hai Wang, Yingfeng Cai</font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2023 <a href="https://ieeexplore.ieee.org/document/10201384">link</a></p>
+
+- <font size=3 face="Times New Roman"><b>Global-Local Discriminative Representation Learning Network for Viewpoint-Aware Vehicle Re-identification in Intelligent Transportation</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Feng Zhao, Yu Hu, Zuoyong Li</font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2023 <a href="https://ieeexplore.ieee.org/document/10182351">link</a></p>
+  
+- <font size=3 face="Times New Roman"><b>VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Yu Hu, Jun Liang, Hai Wang</font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i></font>, 2023 <a href="https://ieeexplore.ieee.org/document/10121688">link</a></p>
+
+- <font size=3 face="Times New Roman"><b>A Novel Nonconvex Low-rank Tensor Completion Approach for Traffic Sensor Data Recovery from Incomplete Measurements</b></font>
+  <p><font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, Zuoyong Li, Yu Zhang, Qiaolin Ye</font></p>
+  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2023 <a href="https://ieeexplore.ieee.org/document/10147850">link</a></p>
   
 ### 2023
 - <font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font>
