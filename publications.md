@@ -115,7 +115,7 @@ permalink: /publications/
 
 - <p><font size=3 face="Times New Roman"><b>Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</b></font><br>
   <font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font><br>
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Vehicles</b></i></font> 6 (1), 100-109 (SCI)</p>  
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Vehicles</b></i></font> 6 (1), 100-109 (SCI)</p>  
 
 - <p><font size=3 face="Times New Roman"><b>A toolbox for brain network construction and classification (BrainNetClass)</b></font><br>
   <font size=3 face="Times New Roman">Zhen Zhou, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, Dinggang Shen</font><br>
