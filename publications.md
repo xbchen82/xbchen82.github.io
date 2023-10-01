@@ -9,22 +9,26 @@ permalink: /publications/
 
 ### In progress
 
-- **<font size=3 face="Times New Roman">Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+- <p><font size=3 face="Times New Roman"><b>Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
   
-- **<font size=3 face="Times New Roman">Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
+- <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, et al.</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
-- **<font size=3 face="Times New Roman">Unsupervised Cross-scenario Abnormal Driving Behavior Recognition Using Smartphone Sensor Data</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Yong Wang, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
+- <p><font size=3 face="Times New Roman"><b>Unsupervised Cross-scenario Abnormal Driving Behavior Recognition Using Smartphone Sensor Data</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yong Wang, et al.</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
-- **<font size=3 face="Times New Roman">Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</font>**
-  <p><font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font></p>
-  <p><font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
+- <p><font size=3 face="Times New Roman"><b>Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
+- <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), Jian Yang(通信作者)</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
+  
 ### 2023
 - <p><font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font><br>
@@ -103,14 +107,14 @@ permalink: /publications/
 
 - <p><font size=3 face="Times New Roman"><b>Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</b></font><br>
   <font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA</font><br> 
-  <<font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (23), 2874</p>  
+  <font size=3 face="Times New Roman" color="blue"><i><b>China Mechanical Engineering</b></i></font> 31 (23), 2874</p>  
 
 - <p><font size=3 face="Times New Roman"><b>Learning robust discriminant subspace based on joint L2, p-and L2, s-Norm distance metrics</b></font><br>
   <font size=3 face="Times New Roman">Liyong Fu, Zechao Li, Qiaolin Ye, Hang Yin, Qingwang Liu, Xiaobo Chen, Xijian Fan, Wankou Yang, Guowei Yang</font><br> 
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i></font> (SCI)</p>  
 
-- <font size=3 face="Times New Roman"><b>Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</b></font><br>
-  <p><font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font><br>
+- <p><font size=3 face="Times New Roman"><b>Soft-weighted-average ensemble vehicle detection method based on single-stage and two-stage deep learning models</b></font><br>
+  <font size=3 face="Times New Roman">Hai Wang, Yijie Yu, Yingfeng Cai, Xiaobo Chen, Long Chen, Yicheng Li</font><br>
   <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Vehicles</b></i></font> 6 (1), 100-109 (SCI)</p>  
 
 - <p><font size=3 face="Times New Roman"><b>A toolbox for brain network construction and classification (BrainNetClass)</b></font><br>
