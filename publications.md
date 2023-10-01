@@ -97,9 +97,9 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>Multimedia Tools and Applications</b></i></font> 80 (15), 23073-23089 (SCI)</p>  
 
 ### 2020
-- **<font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font>**  
-  <p><font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen</font></p>  
-  <p><font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>,2020 (SCI)</p>  
+- <p><font size=3 face="Times New Roman">Multiview feature learning with multiatlas-based functional connectivity networks for MCI diagnosis</font><br> 
+  <font size=3 face="Times New Roman">Yu Zhang, Han Zhang, Ehsan Adeli, Xiaobo Chen, Mingxia Liu, Dinggang Shen</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>,2020 (SCI)</p>  
 
 - **<font size=3 face="Times New Roman">Vehicle Emergency Lane-changing Behavior Prediction Method Based on GMM-HMM and ANN</font>**
   <p><font size=3 face="Times New Roman">Yang YU, Jun LIANG, Long CHEN, Xiaobo CHEN, Ning ZHU, Guodong HUA</font></p>  
