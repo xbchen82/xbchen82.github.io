@@ -9,9 +9,9 @@ permalink: /publications/
 
 ### In progress
 
-- <p><font size=3 face="Times New Roman"><b>Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, et al.</font><br>
-  <font size=3 face="Times New Roman">submitted to IEEE xxx 2022</font></p>
+- <p><font size=3 face="Times New Roman"><b>Multi-Branch Feature Learning Network via Global-Local Self-Distillation for Vehicle Re-Identification</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, et al.</font><br>
+  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
   
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, et al.</font><br>
