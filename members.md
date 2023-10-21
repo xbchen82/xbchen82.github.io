@@ -79,7 +79,7 @@ permalink: /members/
 <table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：轨迹预测<br/>发表IEEE论文4篇<br/>工作单位：烟台东方威思顿电气有限公司</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，发表IEEE论文1篇</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，发表IEEE论文1篇<br/>工作单位：泰安银行</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="80px" height="110px"><br/>张致豪<br/>研究方向：多目标协同跟踪<br/>发表论文1篇<br/>工作单位：烟台市福山区交通运输局</td>
     </tr>
 	<tr>
