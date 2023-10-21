@@ -21,15 +21,15 @@ permalink: /publications/
   <font size=3 face="Times New Roman">Xiaobo Chen, Yong Wang, et al.</font><br>
   <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
-- <p><font size=3 face="Times New Roman"><b>Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, et al.</font><br>
-  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
-
 - <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), Jian Yang(通信作者)</font><br>
   <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
   
 ### 2023
+- <p><font size=3 face="Times New Roman"><b>Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, Feng Zhao, Qiaolin Ye</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2023 </p>
+  
 - <p><font size=3 face="Times New Roman"><b>Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Fuwen Deng, Jun Liang, Jian Yang</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2023 </p>
