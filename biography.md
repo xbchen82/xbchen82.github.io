@@ -177,6 +177,10 @@ permalink: /biography/
   <p><font size=3>Information Sciences</font></p>
   <p><font size=3>Computer Vision and Image Understanding</font></p>
   <p><font size=3>Expert Systems With Applications</font></p>
+  <p><font size=3>Engineering Applications of Artificial Intelligence</font></p>
   <p><font size=3>Knowledge-Based Systems</font></p>
+  <p><font size=3>Mechanical Systems and Signal Processing</font></p>
+  <p><font size=3>Energy</font></p>
+  <p><font size=3>Computer Methods and Programs in Biomedicine</font></p>
   
   
