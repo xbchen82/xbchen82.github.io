@@ -120,6 +120,78 @@ layout: default
     </td>
 </tr>
 </table>
+
+<HR>
+<style type="text/css">
+    #header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+		margin-bottom: 1px;
+    }
+
+    #header h1 {
+        text-align: left;
+    }
+
+    #header .more-btn {
+        text-align: right;
+    }
+
+
+*{margin: 0;padding: 0;}
+	#div1{position: relative;border: 1px solid 0x000; height: 300px;margin:10px auto 0;overflow: hidden;}
+	#div1 ul{position: absolute;left: 0;}
+	#div1 ul li {list-style: none; width: 200px; float: left; padding: 10px; height: 160px; border: 1px;}
+	#div1 ul li img{width:100%;}
+</style>
+<script type="text/javascript">
+	window.onload=function(){
+		var oDiv=document.getElementById('div1');
+		var oUl=oDiv.getElementsByTagName('ul')[0];
+		var aLi=oUl.getElementsByTagName('li');
+		var timer=null;
+		var iSpeed=-1;
+		oUl.innerHTML+=oUl.innerHTML;//定义图片可以循环播放
+		oUl.style.width=aLi.length*aLi[0].offsetWidth+'px';//定义外层ul的宽度，根据图片的个数和每个图片的宽度计算，保证总宽度是可调整的
+		function fnMove(){
+			if(oUl.offsetLeft<-oUl.offsetWidth/2){
+				oUl.style.left=0;
+			}else if(oUl.offsetLeft>0){
+				oUl.style.left=-oUl.offsetWidth/2+'px';
+			}//定义到边界的时候，实现无缝衔接
+			oUl.style.left=oUl.offsetLeft+iSpeed+'px';
+//定义图片的右边距随着速度不断不断增加，或减小，实现运动的效果
+		}
+		timer=setInterval(fnMove,30);
+		oDiv.onmouseover=function(){
+			clearInterval(timer);
+//鼠标移动到图片上，清除定时器，停止运动
+		}
+		oDiv.onmouseout=function(){
+			timer=setInterval(fnMove,30);
+//鼠标移出，重新开启定时器，重新运动
+		}
+	};
+</script>
+<body>
+	<div id="header">
+        <h1><font size="5" <a name="stud">代表性论文</a></font></h1>
+        <a href="https://xbchen82.github.io/publications/" class="more-btn">更多>></a>
+    </div>
+	<div id="div1">
+		<ul>
+			<li><img src="/images/ITS.jpg"></li>
+			<li><img src="/images/IOT.jpg"></li>
+			<li><img src="/images/TIM.jpg"></li>
+			<li><img src="/images/TVT.jpg"></li>
+			<li><img src="/images/RAL.jpg"></li>
+			<div style="clear: none;"></div>
+		</ul>
+	</div>
+
+</body>
+
 <HR>
 	<h3><font size="5" color="#A23400"><a name="stud">研究生招生信息</a></font></h3>
 	<p style="text-align:justify; text-justify:inter-ideograph;">&nbsp;&nbsp;&nbsp;&nbsp;实验室学术氛围浓厚，同学科研成果突出，能在研究生期间完成2~4篇论文并发表在知名期刊，如IEEE TITS/TVT/TIM/IOTJ，计算机研究与发展等。经过三年培养，同学的理论素养和编程实践能力显著提升，就业面广，可以继续深造或在知名企业、事业单位等就职。<br/><b>实验室要求：</b> <br/>&nbsp;&nbsp;&nbsp;&nbsp;(1)道德品格是成功的基石。实验室<font color="red">欢迎有理想、有追求、勤奋好学、做事踏实</font>的同学。<br/>&nbsp;&nbsp;&nbsp;&nbsp;(2)一定的<font color="red">编程能力</font>是完成科研任务的必备技能。 <br/>&nbsp;&nbsp;&nbsp;&nbsp;(3)遵守<font color="red">实验室作息时间</font>，保证足够的科研投入。<br/><b>实验室提供：</b> <br/>&nbsp;&nbsp;&nbsp;&nbsp;(1)<font color="blue">详细的科研指导</font>，助力同学在研究生期间取得成功。<br/>&nbsp;&nbsp;&nbsp;&nbsp;(2)<font color="blue">丰厚的科研奖励</font>，依据科研成果提供有激励的科研奖励，多劳多得。<br/>&nbsp;&nbsp;&nbsp;&nbsp;(3)<font color="blue">充足的计算资源</font>，实验室拥有多台高性能服务器，配备RTX3090、3080Ti等显卡，可以支持各种深度网络模型训练和快速迭代。<br/><br/>欢迎计算机、人工智能等相关专业的同学加入实验室，<b>名额有限，请尽早联系(如果9月入学，建议当年的5-8月联系，越早越好：<a href="mailto:xbchen82@gmail.com">xbchen82@gmail.com</a></b><br/></p>
