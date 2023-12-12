@@ -170,6 +170,7 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Biomedical Engineering</font></p>
   <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
   <p><font size=3>IEEE Transactions on Circuits and Systems II: Express Briefs</font></p>
+  <p><font size=3>IEEE Transactions on Consumer Electronics</font></p>
   <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
   <p><font size=3>IEEE Communications Letters</font></p>
   <p><font size=3>Pattern Recognition</font></p>
