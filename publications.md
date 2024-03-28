@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /publications/
 ---
-*[My Google Scholar Profile](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
+*[My Google Scholar Profile,Citation:3100+,H-index:30](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
 [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
@@ -25,15 +25,15 @@ permalink: /publications/
 ### 2023
 - <p><font size=3 face="Times New Roman"><b>Unsupervised Cross-scenario Abnormal Driving Behavior Recognition Using Smartphone Sensor Data</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Yong Wang, Xiaodong Sun, Yingfeng Cai</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Jounrnal</b></i></font>, 2023 </p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Jounrnal</b></i></font>, 2023  <a href="https://ieeexplore.ieee.org/document/10365683/">link</a> </p>
   
 - <p><font size=3 face="Times New Roman"><b>Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Fengbo Luo, Feng Zhao, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2023 </p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2023  <a href="https://ieeexplore.ieee.org/document/10313963/">link</a>,<a href="https://github.com/xbchen82/SRGAT">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Fuwen Deng, Jun Liang, <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2023 </p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2023  <a href="https://ieeexplore.ieee.org/document/10367756/">link</a>,<a href="https://github.com/xbchen82/SNARTF">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Jian Du, Fuwen Deng, Feng Zhao</font><br>
