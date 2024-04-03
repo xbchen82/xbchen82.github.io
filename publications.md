@@ -20,7 +20,7 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i></font>, 2024 </p>
 
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Jun Li, <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Jun Li, <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a></font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2024 </p>
   
 ### 2023
@@ -33,7 +33,7 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2023  <a href="https://ieeexplore.ieee.org/document/10313963/">link</a>,<a href="https://github.com/xbchen82/SRGAT">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Stochastic Non-Autoregressive Transformer-based Multimodal Pedestrian Trajectory Prediction for Intelligent Vehicles</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Fuwen Deng, Jun Liang, <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Fuwen Deng, Jun Liang, <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a></font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2023  <a href="https://ieeexplore.ieee.org/document/10367756/">link</a>,<a href="https://github.com/xbchen82/SNARTF">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Transferable Driver Facial Expression Recognition Based on Joint Discriminative Correlation Alignment Network with Enhanced Feature Attention</b></font><br>
@@ -66,7 +66,7 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"> <i><b>IEEE Internet of Things Journal</b></i></font>, 9(20): 20122-20135, 2022 <a href="https://ieeexplore.ieee.org/document/9768132">link</a>,<a href="https://github.com/xbchen82/lrssrtc">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Huanjia Zhang, Feng Zhao, Yu Hu, Chenkai Tan, <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a></font><br>
   <font size=3 face="Times New Roman" color="blue"> <i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 3(10):19471-19483, 2022 <a href="https://ieeexplore.ieee.org/document/9767719">link</a>,<a href="https://github.com/xbchen82/stdan">code</a></p>
 
 - <p><font size=3 face="Times New Roman"><b>Intention-aware Transformer with Adaptive Social and Temporal Learning for Vehicle Trajectory Prediction</b></font><br>

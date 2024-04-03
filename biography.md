@@ -22,7 +22,7 @@ permalink: /biography/
 - **<font size=3>博士</font>**
   <p><font size=3>学校：<a href="http://www.njust.edu.cn/">南京理工大学</a></font></p>
   <p><font size=3>专业：模式识别与智能系统(国家重点学科)</font></p>
-  <p><font size=3>导师：<a href="http://www.patternrecognition.asia/jian/">杨健</a>(长江学者，国家杰青)</font></p>
+  <p><font size=3>导师：<a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">杨健</a>(长江学者，国家杰青)</font></p>
   <p><font size=3>年份：2009-2013</font></p>
 
 - **<font size=3>硕士</font>**
