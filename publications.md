@@ -17,7 +17,7 @@ permalink: /publications/
 ### 2024
 - <p><font size=3 face="Times New Roman"><b>Multi-Branch Feature Learning Network via Global-Local Self-Distillation for Vehicle Re-Identification</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Chuan Hu, Hai Wang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i></font>, 2024 </p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i></font>, 2024  <a href="https://ieeexplore.ieee.org/abstract/document/10495198/">link</a></p>
 
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Based on Cross-Modal Transformer and Uncertainty-Aware Multi-Task Learning for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Jun Li, <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a></font><br>
