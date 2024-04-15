@@ -172,7 +172,9 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Circuits and Systems II: Express Briefs</font></p>
   <p><font size=3>IEEE Transactions on Consumer Electronics</font></p>
   <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
+  <p><font size=3>IEEE Signal Processing Letters</font></p> 
   <p><font size=3>IEEE Communications Letters</font></p>
+  <p><font size=3>Information Fusion</font></p>
   <p><font size=3>Pattern Recognition</font></p>
   <p><font size=3>Neural Networks</font></p>
   <p><font size=3>Information Sciences</font></p>
@@ -180,8 +182,10 @@ permalink: /biography/
   <p><font size=3>Expert Systems With Applications</font></p>
   <p><font size=3>Engineering Applications of Artificial Intelligence</font></p>
   <p><font size=3>Knowledge-Based Systems</font></p>
+  <p><font size=3>Knowledge and Information Systems</font></p>
   <p><font size=3>Mechanical Systems and Signal Processing</font></p>
   <p><font size=3>Energy</font></p>
   <p><font size=3>Computer Methods and Programs in Biomedicine</font></p>
+  <p><font size=3>Transportation Research Part C: Emerging Technologies</font></p>
   
   
