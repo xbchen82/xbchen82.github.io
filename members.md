@@ -23,7 +23,7 @@ permalink: /members/
 <p><b>2024级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/XYX.jpg" alt="薛玉玺" width="80px" height="110px"><br/>薛玉玺<br/>研究方向：自动驾驶<br/>南京理工大学博士生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/XYX.png" alt="薛玉玺" width="80px" height="110px"><br/>薛玉玺<br/>研究方向：自动驾驶<br/>南京理工大学博士生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
         <td width="33.33%"></td>				
 		<td width="33.33%"></td>
     </tr>
