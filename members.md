@@ -20,6 +20,15 @@ permalink: /members/
 
 ---
 **<font size=4 face='Times New Roman' color='#177cb0'>Doctoral Candidate(在读博士生)</font>**
+<p><b>2024级</b></p>
+<table width="100%">
+    <tr>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/XYX.jpg" alt="薛玉玺" width="80px" height="110px"><br/>薛玉玺<br/>研究方向：自动驾驶<br/>南京理工大学博士生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
+        <td width="33.33%"></td>				
+		<td width="33.33%"></td>
+    </tr>
+</table>
+
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
@@ -48,7 +57,7 @@ permalink: /members/
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>投稿IEEE论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表IEEE论文1篇</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表IEEE论文1篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测</td>
     </tr>
