@@ -15,6 +15,10 @@ permalink: /publications/
   <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
 ### 2024
+- <p><font size=3 face="Times New Roman"><b>Composite Nonconvex Low-Rank Tensor Completion with Joint Structural Regression for Traffic Sensor Networks Data Recovery</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, Feng Zhao, Fuwen Deng, Qiaolin Ye</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Computational Social Systems</b></i></font>, 2024  </p>
+  
 - <p><font size=3 face="Times New Roman"><b>Multi-Branch Feature Learning Network via Global-Local Self-Distillation for Vehicle Re-Identification</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Haoze Yu, Chuan Hu, Hai Wang</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Vehicular Technology</b></i></font>, 2024  <a href="https://ieeexplore.ieee.org/document/10495198/">link</a></p>
