@@ -58,7 +58,7 @@ permalink: /members/
 <table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表IEEE论文1篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表IEEE论文1篇</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表IEEE论文2篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测</td>
     </tr>
 	<tr>
