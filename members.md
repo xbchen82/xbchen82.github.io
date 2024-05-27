@@ -40,6 +40,20 @@ permalink: /members/
 
 ---
 **<font size=4 face='Times New Roman' color='#177cb0'>Master Candidate(在读硕士生)</font>**
+<p><b>2024级</b></p>
+<table width="100%">
+    <tr>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/lh.jpg" alt="李贺" width="80px" height="110px"><br/>李贺<br/>研究方向：</td>
+        <td width="33.33%"></td>
+		<td width="33.33%"></td>	
+    </tr>
+	<tr>
+        <td width="33.33%"></td>
+        <td width="33.33%"></td>	
+        <td width="33.33%"></td>	
+    </tr>
+</table>
+
 <p><b>2023级</b></p>
 <table width="100%">
     <tr>
