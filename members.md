@@ -44,7 +44,7 @@ permalink: /members/
 <table width="100%">
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/lh.jpg" alt="李贺" width="80px" height="110px"><br/>李贺<br/>研究方向：</td>
-        <td width="33.33%"></td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/XN.jpg" alt="徐楠" width="80px" height="110px"><br/>徐楠<br/>研究方向：</td>
 		<td width="33.33%"></td>	
     </tr>
 	<tr>
