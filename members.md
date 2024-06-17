@@ -173,3 +173,5 @@ permalink: /members/
 ### 精彩团建
 <p><b>2023-05-31，祝贺张欢嘉、高玉祥顺利毕业，前程似锦！</b></p>
 <center><div><img style="height: 400px;" src="/images/activity/20230531.jpg" alt="Fun" align=center></div></center>
+<p><b>2024-06-02，祝贺余昊泽，王勇，罗锋波，杜健顺利毕业，前程似锦！</b></p>
+<center><div><img style="height: 400px;" src="/images/activity/20240602.jpg" alt="Fun" align=center></div></center>
