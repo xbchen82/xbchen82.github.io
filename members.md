@@ -43,12 +43,12 @@ permalink: /members/
 <p><b>2024级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/lh.jpg" alt="李贺" width="80px" height="110px"><br/>李贺<br/>研究方向：</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/XN.jpg" alt="徐楠" width="80px" height="110px"><br/>徐楠<br/>研究方向：</td>
-		<td width="33.33%"></td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/lh.jpg" alt="李贺" width="80px" height="110px"><br/>李贺<br/>研究方向：自动驾驶强化学习</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/XN.jpg" alt="徐楠" width="80px" height="110px"><br/>徐楠<br/>研究方向：交通大数据</td>
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/zy.jpg" alt="徐楠" width="80px" height="110px"><br/>赵琰<br/>研究方向：</td>	
     </tr>
 	<tr>
-        <td width="33.33%"></td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ydc.jpg" alt="余道成" width="80px" height="110px"><br/>余道成<br/>研究方向：</td>	
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
@@ -57,12 +57,12 @@ permalink: /members/
 <p><b>2023级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/wjy.jpg" alt="王俊宇" width="80px" height="110px"><br/>王俊宇<br/>研究方向：</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/xw.jpg" alt="徐伟" width="80px" height="110px"><br/>徐伟<br/>研究方向：</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/wjy.jpg" alt="王俊宇" width="80px" height="110px"><br/>王俊宇<br/>研究方向：轨迹预测</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/xw.jpg" alt="徐伟" width="80px" height="110px"><br/>徐伟<br/>研究方向：行人意图识别</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/smc.jpg" alt="时孟超" width="80px" height="110px"><br/>时孟超<br/>研究方向：</td>	
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/zjp.jpg" alt="臧金鹏" width="80px" height="110px"><br/>臧金鹏<br/>研究方向：</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/zjp.jpg" alt="臧金鹏" width="80px" height="110px"><br/>臧金鹏<br/>研究方向：跟车行为</td>
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
@@ -76,7 +76,7 @@ permalink: /members/
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：目标检测</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：驾驶行为</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="80px" height="110px"><br/>陈琳<br/>研究方向：驾驶行为识别</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="80px" height="110px"><br/>周祥正<br/>研究方向：轨迹预测<br/>南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
     </tr>
