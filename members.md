@@ -45,7 +45,7 @@ permalink: /members/
     <tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/lh.jpg" alt="李贺" width="80px" height="110px"><br/>李贺<br/>研究方向：自动驾驶强化学习</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/XN.jpg" alt="徐楠" width="80px" height="110px"><br/>徐楠<br/>研究方向：交通大数据</td>
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/zy.jpg" alt="徐楠" width="80px" height="110px"><br/>赵琰<br/>研究方向：</td>	
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/zy.jpg" alt="赵琰" width="80px" height="110px"><br/>赵琰<br/>研究方向：</td>	
     </tr>
 	<tr>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/ydc.jpg" alt="余道成" width="80px" height="110px"><br/>余道成<br/>研究方向：</td>	
@@ -76,7 +76,7 @@ permalink: /members/
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：驾驶行为</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：驾驶行为<br/>发表IEEE论文1篇</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="80px" height="110px"><br/>陈琳<br/>研究方向：驾驶行为识别</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="80px" height="110px"><br/>周祥正<br/>研究方向：轨迹预测<br/>南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
     </tr>
