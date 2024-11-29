@@ -7,14 +7,13 @@ permalink: /publications/
 
 [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
-### In progress
 
-
-- <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
-  <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), Jian Yang(通信作者)</font><br>
-  <font size=3 face="Times New Roman">submitted to IEEE xxx 2023</font></p>
 
 ### 2024
+- <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Deep Unsupervised Transfer Adversarial Network for Abnormal Driving Behavior Recognition Based on Smartphone Sensors</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Rui Qu, Feng Zhao</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Sensors Journal</b></i></font>, 2024  <a href="https://ieeexplore.ieee.org/document/10721344/">link</a></p>
