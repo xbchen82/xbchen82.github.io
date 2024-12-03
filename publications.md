@@ -3,13 +3,17 @@ layout: page
 title: 
 permalink: /publications/
 ---
-*[My Google Scholar Profile (Citations:3200+,H-index:30)](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
+*[My Google Scholar Profile (Citations:3600+,H-index:31)](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
 [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 
 
 ### 2024
+- <p><font size=3 face="Times New Roman"><b>Deformable Cross-Attention Transformer for Weakly Aligned RGB-T Pedestrian Detection</b></font><br>
+  <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Sheng Wang, Luyang Liu, Hengyang Shi, Lihong Fan, Jing Tian, Jun Liang(通信作者)</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a></p>
