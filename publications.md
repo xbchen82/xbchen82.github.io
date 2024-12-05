@@ -12,7 +12,7 @@ permalink: /publications/
 ### 2024
 - <p><font size=3 face="Times New Roman"><b>Deformable Cross-Attention Transformer for Weakly Aligned RGB-T Pedestrian Detection</b></font><br>
   <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Sheng Wang, Luyang Liu, Hengyang Shi, Lihong Fan, Jing Tian, Jun Liang(通信作者)</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a>,<a href="https://github.com/jiongger/DeformCAT">code</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Edge-Enhanced Heterogeneous Graph Transformer with Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>

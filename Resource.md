@@ -13,7 +13,9 @@ permalink: /resource/
 
 - **<font size=3 face="Times New Roman">Code for our paper "Intention-aware Vehicle Trajectory Prediction based on Spatial-temporal Dynamic Attention Network for Internet of Vehicles"</font>**
   <p><font size=3 face="Times New Roman"><a href="https://github.com/xbchen82/stdan">https://github.com/xbchen82/stdan</a></font></p>
-  
+
+- **<font size=3 face="Times New Roman">Code for our paper "Deformable Cross-Attention Transformer for Weakly-Aligned RGB-T Pedestrian Detection"</font>**
+  <p><font size=3 face="Times New Roman"><a href="https://github.com/jiongger/DeformCAT">https://github.com/jiongger/DeformCAT</a></font></p>  
  ---
  
 ### Data
