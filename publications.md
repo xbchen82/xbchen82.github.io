@@ -10,6 +10,10 @@ permalink: /publications/
 
 
 ### 2024
+- <p><font size=3 face="Times New Roman"><b>Multi-Branch Attentive Transformer with Joint Temporal and Social Correlations for Traffic Agents Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yuwen Liang, Junyu Wang, Qiaolin Ye, Yingfeng Cai</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Computational Social Systems</b></i></font>, 2024  <a href="https://ieeexplore.ieee.org/">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Deformable Cross-Attention Transformer for Weakly Aligned RGB-T Pedestrian Detection</b></font><br>
   <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Sheng Wang, Luyang Liu, Hengyang Shi, Lihong Fan, Jing Tian, Jun Liang(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2024 <a href="https://ieeexplore.ieee.org/">link</a>,<a href="https://github.com/jiongger/DeformCAT">code</a></p>
