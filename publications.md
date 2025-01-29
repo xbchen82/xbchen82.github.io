@@ -18,7 +18,7 @@ permalink: /publications/
   
 - <p><font size=3 face="Times New Roman"><b>Heterogeneous Hypergraph Transformer Network with Cros-modal Future Interaction for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a>,<a href="https://github.com/zhou00NJUST/HHT-CFI">code</a></p>
 
 ### 2024
 - <p><font size=3 face="Times New Roman"><b>Multi-Branch Attentive Transformer with Joint Temporal and Social Correlations for Traffic Agents Trajectory Prediction</b></font><br>
