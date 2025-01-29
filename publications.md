@@ -5,9 +5,20 @@ permalink: /publications/
 ---
 *[My Google Scholar Profile (Citations:3600+,H-index:31)](https://scholar.google.com/citations?user=F2sBN_oAAAAJ&hl=en&oi=sra)*
 
-[2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
+[2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
-
+### 2025
+- <p><font size=3 face="Times New Roman"><b>Diff-Refiner: Enhancing Multi-Agent Trajectory Prediction with a Plug-and-Play Diffusion Refiner</b></font><br>
+  <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b> IEEE International Conference on Robotics and Automation (ICRA)</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  
+- <p><font size=3 face="Times New Roman"><b>Traffic Agents Trajectory Prediction Based on Enhanced Bidirectional Recurrent Network and Adaptive Social Interaction Model</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Yuwen Liang, Chuan Hu, Hai Wang, Qiaolin Ye</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  
+- <p><font size=3 face="Times New Roman"><b>Heterogeneous Hypergraph Transformer Network with Cros-modal Future Interaction for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a></p>
 
 ### 2024
 - <p><font size=3 face="Times New Roman"><b>Multi-Branch Attentive Transformer with Joint Temporal and Social Correlations for Traffic Agents Trajectory Prediction</b></font><br>
