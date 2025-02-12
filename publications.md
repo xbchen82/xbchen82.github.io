@@ -14,7 +14,7 @@ permalink: /publications/
   
 - <p><font size=3 face="Times New Roman"><b>Traffic Agents Trajectory Prediction Based on Enhanced Bidirectional Recurrent Network and Adaptive Social Interaction Model</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Yuwen Liang, Chuan Hu, Hai Wang, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/10879468">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Heterogeneous Hypergraph Transformer Network with Cros-modal Future Interaction for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
