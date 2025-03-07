@@ -87,12 +87,12 @@ permalink: /members/
 <p><b>2021级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表IEEE论文2篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表IEEE论文2篇<br/>工作单位：襄阳市南漳县科学技术和经济信息化局</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测<br/>发表IEEE论文1篇</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>发表IEEE论文1篇</td>
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>发表IEEE论文1篇<br/>工作单位：郑州西亚斯学院计算机软件与工程学院</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="110px"><br/>杜健<br/>研究方向：驾驶员表情识别<br/>发表IET论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="110px"><br/>杜健<br/>研究方向：驾驶员表情识别<br/>发表IET论文1篇<br/>工作单位：山东康源医药集团有限公司</td>
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
