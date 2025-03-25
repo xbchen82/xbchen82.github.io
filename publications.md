@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2025
 - <p><font size=3 face="Times New Roman"><b>Robust Multiple Flat Projections Clustering with Truncated Distance Maximization Constraints</b></font><br>
   <font size=3 face="Times New Roman">Jie Yang, Zhao Zhang, Xiaobo Chen, Zhongqi Xu, Liyong Fu, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>, 2025 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Adaptive Graph Transformer with Future Interaction Modeling for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Junyu Wang, Fuwen Deng, Zuoyong Li</font><br>
