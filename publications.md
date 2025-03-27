@@ -14,7 +14,7 @@ permalink: /publications/
   
 - <p><font size=3 face="Times New Roman"><b>Adaptive Graph Transformer with Future Interaction Modeling for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Junyu Wang, Fuwen Deng, Zuoyong Li</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Knowledge-Based Systems</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Knowledge-Based Systems</b></i></font>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125004101">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Diff-Refiner: Enhancing Multi-Agent Trajectory Prediction with a Plug-and-Play Diffusion Refiner</b></font><br>
   <font size=3 face="Times New Roman">Xiangzheng Zhou, Xiaobo Chen(通信作者), <a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=tLbjVM9T1OzsoNduSpyHQg==&yxsh=4iVdgPyuKTE=&zydm=L-3Jh59wXco=">Jian Yang</a>(通信作者)</font><br>
