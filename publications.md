@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2025
 - <p><font size=3 face="Times New Roman"><b>A Hypergraph-Based Dual-Path Multi-Agent Trajectory Prediction Model with Topology Inferring</b></font><br>
-  <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Yongjie Zhou, Hang Yang, Zhou Zhang, Jun Liang</font><br>
+  <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Yongjie Zhou, Hang Yang, Zhou Zhang, Jun Liang(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Robust Multiple Flat Projections Clustering with Truncated Distance Maximization Constraints</b></font><br>
