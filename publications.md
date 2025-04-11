@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2025
 - <p><font size=3 face="Times New Roman"><b>Diversified Distillation Fusion Network for Vehicle Re-Identification</b></font><br>
   <font size=3 face="Times New Roman">Huaming Zhang, Xiaobo Chen(通信作者), Haoze Yu, Kok Lay Teo</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Expert Systems With Applications</i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Expert Systems With Applications</b></i></font>, 2025 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>A Hypergraph-Based Dual-Path Multi-Agent Trajectory Prediction Model with Topology Inferring</b></font><br>
   <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Yongjie Zhou, Hang Yang, Zhou Zhang, Jun Liang(通信作者)</font><br>
