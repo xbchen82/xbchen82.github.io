@@ -8,6 +8,10 @@ permalink: /publications/
 [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2025
+- <p><font size=3 face="Times New Roman"><b>Diversified Distillation Fusion Network for Vehicle Re-Identification</b></font><br>
+  <font size=3 face="Times New Roman">Huaming Zhang, Xiaobo Chen(通信作者), Haoze Yu, Kok Lay Teo</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Expert Systems With Applications</i></font>, 2025 <a href="">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>A Hypergraph-Based Dual-Path Multi-Agent Trajectory Prediction Model with Topology Inferring</b></font><br>
   <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Yongjie Zhou, Hang Yang, Zhou Zhang, Jun Liang(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a></p>
