@@ -71,14 +71,14 @@ permalink: /members/
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表IEEE论文1篇</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表IEEE论文2篇</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测<br/>发表IEEE论文2篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表TITS 1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表TIM,TCSS,TETCI各1篇</td>	
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测<br/>发表TASE,TCSS各1篇</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：驾驶行为<br/>发表IEEE论文1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/QR.jpg" alt="曲锐" width="80px" height="110px"><br/>曲锐<br/>研究方向：驾驶行为<br/>发表IEEE SensorsJ 1篇</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/CL1.jpg" alt="陈琳" width="80px" height="110px"><br/>陈琳<br/>研究方向：驾驶行为识别</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="80px" height="110px"><br/>周祥正<br/>研究方向：轨迹预测，发表IEEE论文1篇，ICRA 1篇，EAAI 1篇<br/>南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/ZXZ.jpg" alt="周祥正" width="80px" height="110px"><br/>周祥正<br/>研究方向：轨迹预测，发表TITS 1篇，ICRA 1篇，EAAI 1篇<br/>南京理工大学研究生，co-supervised with Prof. <a href="http://www.patternrecognition.asia/jian/">Jian Yang</a></td>
     </tr>
 </table>
 
@@ -87,12 +87,12 @@ permalink: /members/
 <p><b>2021级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表IEEE论文2篇<br/>工作单位：襄阳市南漳县科学技术和经济信息化局</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测<br/>发表IEEE论文1篇</td>	
-		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>发表IEEE论文1篇<br/>工作单位：郑州西亚斯学院计算机软件与工程学院</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/yhz.jpg" alt="余昊泽" width="80px" height="110px"><br/>余昊泽<br/>研究方向：车辆重识别<br/>发表TIM，TVT各1篇<br/>工作单位：襄阳市南漳县科学技术和经济信息化局</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/lfb.jpg" alt="罗锋波" width="80px" height="110px"><br/>罗锋波<br/>研究方向：轨迹预测<br/>发表IEEE RAL 1篇</td>	
+		<td width="33.33%"><img src="https://xbchen82.github.io/images/wy.jpg" alt="王勇" width="80px" height="110px"><br/>王勇<br/>研究方向：驾驶行为识别<br/>发表IEEE IOT-J 1篇<br/>工作单位：郑州西亚斯学院计算机软件与工程学院</td>
     </tr>
 	<tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="110px"><br/>杜健<br/>研究方向：驾驶员表情识别<br/>发表IET论文1篇<br/>工作单位：山东康源医药集团有限公司</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/dj.jpg" alt="杜健" width="80px" height="110px"><br/>杜健<br/>研究方向：驾驶员表情识别<br/>发表IET ITS论文1篇<br/>工作单位：山东康源医药集团有限公司</td>
         <td width="33.33%"></td>	
         <td width="33.33%"></td>	
     </tr>
@@ -101,8 +101,8 @@ permalink: /members/
 <p><b>2020级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：轨迹预测<br/>发表IEEE论文4篇<br/>工作单位：烟台东方威思顿电气有限公司</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，发表IEEE论文1篇<br/>工作单位：泰安银行</td>	
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/zhj.jpg" alt="张欢嘉" width="80px" height="110px"><br/>张欢嘉<br/>研究方向：轨迹预测<br/>发表TITS 2篇，TVT、TIM各1篇<br/>工作单位：烟台东方威思顿电气有限公司</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/gyx.png" alt="高玉祥" width="80px" height="110px"><br/>高玉祥<br/>研究方向：驾驶行为分类<br/>发表会议论文1篇，发表TITS 1篇<br/>工作单位：泰安银行</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/zzh.jpg" alt="张致豪" width="80px" height="110px"><br/>张致豪<br/>研究方向：多目标协同跟踪<br/>发表论文1篇<br/>工作单位：烟台市福山区交通运输局</td>
     </tr>
 	<tr>
