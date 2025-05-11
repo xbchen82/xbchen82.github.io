@@ -187,6 +187,7 @@ permalink: /biography/
   <p><font size=3>Knowledge and Information Systems</font></p>
   <p><font size=3>Mechanical Systems and Signal Processing</font></p>
   <p><font size=3>Energy</font></p>
+   <p><font size=3>Robotics and Autonomous Systems</font></p>
   <p><font size=3>Computer Methods and Programs in Biomedicine</font></p>
   <p><font size=3>Transportation Research Part C: Emerging Technologies</font></p>
   <p><font size=3>Transportmetrica A: Transport Science</font></p>
