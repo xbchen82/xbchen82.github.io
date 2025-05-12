@@ -32,8 +32,8 @@ permalink: /members/
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="80px" height="110px"><br/>张华铭<br/>研究方向：环境感知</td>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="80px" height="110px"><br/>胡煜<br/>研究方向：轨迹预测，发表IEEE论文1篇<br/>江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a></td>				
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ZHM.jpg" alt="张华铭" width="80px" height="110px"><br/>张华铭<br/>研究方向：环境感知，发表ESWA 1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/hy.jpg" alt="胡煜" width="80px" height="110px"><br/>胡煜<br/>研究方向：轨迹预测，发表TMM, EAAI各1篇<br/>江苏大学博士生，co-supervised with Prof. <a href="https://aeri.ujs.edu.cn/info/1293/2700.htm">Jun Liang</a></td>				
 		<td width="33.33%"></td>
     </tr>
 </table>
