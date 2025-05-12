@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/86ee515b-43cc-453b-86c8-61fbebbd892b)---
 layout: page
 title: 
 permalink: /publications/
@@ -8,6 +8,10 @@ permalink: /publications/
 [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2025
+- <p><font size=3 face="Times New Roman"><b>Robust Pedestrian Crossing Intention Prediction Via Uncertainty-Guided Transformer Ensemble Network for Autonomous Driving</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Wei Xu, Dapeng Cheng, Lei Yang</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2025 <a href="">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Via Progressive Multimodal Token Fusion for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Shilin Zhang, Yingfeng Cai</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="">link</a></p>
