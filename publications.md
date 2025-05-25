@@ -15,23 +15,23 @@ permalink: /publications/
   
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Via Progressive Multimodal Token Fusion for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Shilin Zhang, Yingfeng Cai</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11006279/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Nonconvex Low-Tubal-Rank Tensor Completion with Temporal Regularization For Spatiotemporal Traffic Data Recovery</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Kaiyuan Wang, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Emerging Topics in Computational Intelligence</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Emerging Topics in Computational Intelligence</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11010122/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Diversified Distillation Fusion Network for Vehicle Re-Identification</b></font><br>
   <font size=3 face="Times New Roman">Huaming Zhang, Xiaobo Chen(通信作者), Haoze Yu, Kok Lay Teo</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Expert Systems With Applications</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Expert Systems With Applications</b></i></font>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425013302">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>A Hypergraph-Based Dual-Path Multi-Agent Trajectory Prediction Model with Topology Inferring</b></font><br>
   <font size=3 face="Times New Roman">Yu Hu, Xiaobo Chen(通信作者), Yongjie Zhou, Hang Yang, Zhou Zhang, Jun Liang(通信作者)</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Engineering Applications of Artificial Intelligence</b></i></font>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197625007997">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Robust Multiple Flat Projections Clustering with Truncated Distance Maximization Constraints</b></font><br>
   <font size=3 face="Times New Roman">Jie Yang, Zhao Zhang, Xiaobo Chen, Zhongqi Xu, Liyong Fu, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Cybernetics</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11007672">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Adaptive Graph Transformer with Future Interaction Modeling for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Junyu Wang, Fuwen Deng, Zuoyong Li</font><br>
