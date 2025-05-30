@@ -68,10 +68,12 @@ permalink: /members/
     </tr>
 </table>
 
+---
+**<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2022级</b></p>
 <table width="100%">
     <tr>
-        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表TITS, TIM各1篇</td>
+        <td width="33.33%"><img src="https://xbchen82.github.io/images/ShilingZhang.jpg" alt="张世林" width="80px" height="110px"><br/>张世林<br/>研究方向：行人意图识别<br/>发表TITS,TIM,TCSS各1篇</td>
         <td width="33.33%"><img src="https://xbchen82.github.io/images/KaiyuanWang.jpg" alt="王开元" width="80px" height="110px"><br/>王开元<br/>研究方向：优化<br/>发表TIM,TCSS,TETCI各1篇</td>	
 		<td width="33.33%"><img src="https://xbchen82.github.io/images/LWY.jpg" alt="梁瑜文" width="80px" height="110px"><br/>梁瑜文<br/>研究方向：轨迹预测<br/>发表TASE,TCSS各1篇</td>
     </tr>
@@ -82,8 +84,6 @@ permalink: /members/
     </tr>
 </table>
 
----
-**<font size=4 face='Times New Roman' color='#177cb0'>Alumni(毕业生)</font>**
 <p><b>2021级</b></p>
 <table width="100%">
     <tr>
