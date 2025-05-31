@@ -9,6 +9,10 @@ permalink: /publications/
 [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2025
+- <p><font size=3 face="Times New Roman"><b>Evidential Multimodal Fusion Network for Trusted Pedestrian Crossing Intent Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Shilin Zhang, Xiaobo Chen(通信作者), Wei Xu, Lei Yang, Jian Yang</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Computational Social Systems</b></i></font>, 2025 <a href="">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Robust Pedestrian Crossing Intention Prediction Via Uncertainty-Guided Transformer Ensemble Network for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Wei Xu, Dapeng Cheng, Lei Yang</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2025 <a href="">link</a></p>
