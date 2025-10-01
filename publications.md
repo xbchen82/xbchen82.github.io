@@ -14,7 +14,7 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Dual-Domain Low-Rank Tensor Completion for Traffic Data Recovery</b></font><br>
-  <font size=3 face="Times New Roman">Xiaobo Chen, Nan Xu, </font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Nan Xu, Kaiyuan Wang</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>Applied Mathematical Modelling</b></i></font>, 2025 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Evidential Multimodal Fusion Network for Trusted Pedestrian Crossing Intent Prediction</b></font><br>
@@ -280,6 +280,7 @@ permalink: /publications/
 - <p><font size=3 face='Times New Roman'><b>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</b></font><br>
   <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font><br>
   <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
+
 
 
 
