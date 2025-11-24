@@ -9,21 +9,30 @@ permalink: /publications/
 [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2025
+- <p><font size=3 face="Times New Roman"><b>Human-Like Autonomous Driving Car-Following Behavior Learning Based on Adversarial
+Training and Uncertainty-Aware DDPG</b></font><br>
+  <font size=3 face="Times New Roman">Xiaobo Chen, Jinpeng Zhang, Feng Zhao</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2025 <a href="">link</a></p>
+
+- <p><font size=3 face="Times New Roman"><b>Learning Robust Discriminant Projections Via Double Capped Lp-Norm Distance Metrics With "Min" Constraints</b></font><br>
+  <font size=3 face="Times New Roman">Jie Yang, Xiaobo Chen, Zhao Zhang, Liyong Fu, Qiaolin Ye</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11244809/">link</a></p>
+
 - <p><font size=3 face="Times New Roman"><b>Nonconvex Transform-Based Low-Rank Tensor Completion with Coupled Spatiotemporal Relation Learning for Traffic Data Recovery</b></font><br>
   <font size=3 face="Times New Roman">Kaiyuan Wang, Xiaobo Chen(通信作者), Nan Xu, Zuoyong Li, Qiaolin Ye</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Intelligent Transportation Systems</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11220833/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Dual-Domain Low-Rank Tensor Completion for Traffic Data Recovery</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Nan Xu, Kaiyuan Wang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>Applied Mathematical Modelling</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>Applied Mathematical Modelling</b></i></font>, 2025 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0307904X25004780">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Evidential Multimodal Fusion Network for Trusted Pedestrian Crossing Intent Prediction</b></font><br>
   <font size=3 face="Times New Roman">Shilin Zhang, Xiaobo Chen(通信作者), Wei Xu, Lei Yang, Jian Yang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Computational Social Systems</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Computational Social Systems</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11073807/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Robust Pedestrian Crossing Intention Prediction Via Uncertainty-Guided Transformer Ensemble Network for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Shilin Zhang, Wei Xu, Dapeng Cheng, Lei Yang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Instrumentation and Measurement</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11021364/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Pedestrian Crossing Intention Prediction Via Progressive Multimodal Token Fusion for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Shilin Zhang, Yingfeng Cai</font><br>
@@ -280,6 +289,7 @@ permalink: /publications/
 - <p><font size=3 face='Times New Roman'><b>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</b></font><br>
   <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font><br>
   <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
+
 
 
 
