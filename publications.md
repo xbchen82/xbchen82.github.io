@@ -9,8 +9,7 @@ permalink: /publications/
 [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2025
-- <p><font size=3 face="Times New Roman"><b>Human-Like Autonomous Driving Car-Following Behavior Learning Based on Adversarial
-Training and Uncertainty-Aware DDPG</b></font><br>
+- <p><font size=3 face="Times New Roman"><b>Human-Like Autonomous Driving Car-Following Behavior Learning Based on Adversarial Training and Uncertainty-Aware DDPG</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Jinpeng Zang, Feng Zhao</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2025 <a href="">link</a></p>
 
@@ -289,6 +288,7 @@ Training and Uncertainty-Aware DDPG</b></font><br>
 - <p><font size=3 face='Times New Roman'><b>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</b></font><br>
   <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font><br>
   <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
+
 
 
 
