@@ -6,7 +6,7 @@
 name:  Welcome to Xiaobo Chen's Smart Unmanned Systems Lab (SUSL)
 
 # Short bio or description (displayed in the header)
-# description: Traffic Information Intelligent Perception and Control (TIIPC) 
+# description: Smart Unmanned Systems 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: # https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -84,4 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 
