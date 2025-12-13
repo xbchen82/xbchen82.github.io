@@ -11,7 +11,7 @@ permalink: /publications/
 ### 2025
 - <p><font size=3 face="Times New Roman"><b>Human-Like Autonomous Driving Car-Following Behavior Learning Based on Adversarial Training and Uncertainty-Aware DDPG</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Jinpeng Zang, Feng Zhao</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2025 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Robotics and Automation Letters</b></i></font>, 2025 <a href="https://ieeexplore.ieee.org/document/11299408">link</a></p>
 
 - <p><font size=3 face="Times New Roman"><b>Learning Robust Discriminant Projections Via Double Capped Lp-Norm Distance Metrics With "Min" Constraints</b></font><br>
   <font size=3 face="Times New Roman">Jie Yang, Xiaobo Chen, Zhao Zhang, Liyong Fu, Qiaolin Ye</font><br>
@@ -288,6 +288,7 @@ permalink: /publications/
 - <p><font size=3 face='Times New Roman'><b>Traffic state spatial-temporal characteristic analysis and short-term forecasting based on manifold similarity</b></font><br>
   <font size=3 face='Times New Roman'>Qingchao Liu, Yingfeng Cai, Haobin Jiang, Xiaobo Chen, Jian Lu</font><br>
   <font size=3 face='Times New Roman' color="blue"><i><b>IEEE Access</b></i></font> 6, 9690-9702 (SCI)</p>
+
 
 
 
