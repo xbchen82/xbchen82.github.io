@@ -11,7 +11,7 @@ permalink: /publications/
 ### 2026
 - <p><font size=3 face="Times New Roman"><b>Seeing Beyond the Present: A Future-Aware Privileged Knowledge Distillation Framework for Vehicle Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Yuxi Xue, Chao Wang, Xiaobo Chen, Jianjun Qian, Jian Yang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia (CCF-A)</b></i></font>, 2026 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2026 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Fast Adaptation of Car-Following Models Under Diverse Traffic Scenarios Based on Meta-Learning Framework</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Jinpeng Zang, Rui Qu, Chuan Hu, Hai Wang</font><br>
