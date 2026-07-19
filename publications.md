@@ -11,7 +11,7 @@ permalink: /publications/
 ### 2026
 - <p><font size=3 face="Times New Roman"><b>Learning from Past and Future: A Unified Instantaneous Pedestrian Intent Prediction Framework Based on Privileged Knowledge Distillation for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Jianjun Qian</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2026 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2026 <a href="https://ieeexplore.ieee.org/document/11609251/">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Egocentric-View Pedestrian Crossing Intention Prediction With Limited Observation: An Approach Based on Knowledge Distillation And Feature Decoupling</b></font><br>
   <font size=3 face="Times New Roman">Wei Xu, Xiaobo Chen(通信作者), Shilin Zhang, Fuwen Deng</font><br>
