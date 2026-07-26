@@ -22,7 +22,7 @@ permalink: /publications/
   <font size=3 face="Times New Roman" color="blue"><i><b>Pattern Recognition</b></i></font>, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0031320326008265">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Seeing Beyond the Present: A Future-Aware Privileged Knowledge Distillation Framework for Vehicle Trajectory Prediction</b></font><br>
-  <font size=3 face="Times New Roman">Yuxi Xue, Chao Wang, Xiaobo Chen, Jianjun Qian, Jian Yang</font><br>
+  <font size=3 face="Times New Roman">Yuxi Xue, Chao Wang, Xiaobo Chen(通信作者), Jianjun Qian(通信作者), Jian Yang(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Multimedia</b></i></font>, 2026 <a href="">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Fast Adaptation of Car-Following Models Under Diverse Traffic Scenarios Based on Meta-Learning Framework</b></font><br>
