@@ -9,6 +9,10 @@ permalink: /publications/
 [2026](#2026)  || [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2026
+- <p><font size=3 face="Times New Roman"><b>A Collaborative Perception Framework for Efficient Communication and Accurate Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Chuan Hu, Wenfeng Leng, Xiaobo Chen, Zi Yang, Hao Chen, Ying Zhang, Xi Zhang</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Journal</b></i></font>, 2026 <a href="">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>Learning from Past and Future: A Unified Instantaneous Pedestrian Intent Prediction Framework Based on Privileged Knowledge Distillation for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Jianjun Qian</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Transactions on Automation Science and Engineering</b></i></font>, 2026 <a href="https://ieeexplore.ieee.org/document/11609251/">link</a></p>
