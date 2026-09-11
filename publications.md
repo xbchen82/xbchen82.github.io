@@ -11,7 +11,7 @@ permalink: /publications/
 ### 2026
 - <p><font size=3 face="Times New Roman"><b>A Collaborative Perception Framework for Efficient Communication and Accurate Prediction</b></font><br>
   <font size=3 face="Times New Roman">Chuan Hu, Wenfeng Leng, Xiaobo Chen, Zi Yang, Hao Chen, Ying Zhang, Xi Zhang</font><br>
-  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Journal</b></i></font>, 2026 <a href="">link</a></p>
+  <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Journal</b></i></font>, 2026 <a href="https://ieeexplore.ieee.org/document/11684760">link</a></p>
   
 - <p><font size=3 face="Times New Roman"><b>Learning from Past and Future: A Unified Instantaneous Pedestrian Intent Prediction Framework Based on Privileged Knowledge Distillation for Autonomous Driving</b></font><br>
   <font size=3 face="Times New Roman">Xiaobo Chen, Wei Xu, Jianjun Qian</font><br>
