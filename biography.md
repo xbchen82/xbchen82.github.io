@@ -172,6 +172,7 @@ permalink: /biography/
   <p><font size=3>IEEE Transactions on Medical Imaging</font></p> 
   <p><font size=3>IEEE Transactions on Circuits and Systems II: Express Briefs</font></p>
   <p><font size=3>IEEE Transactions on Consumer Electronics</font></p>
+  <p><font size=3>IEEE Transactions on Emerging Topics in Computational Intelligence</font></p>
   <p><font size=3>IEEE Internet of Things Journal</font></p>
   <p><font size=3>IEEE Journal of Biomedical and Health Informatics</font></p> 
   <p><font size=3>IEEE Signal Processing Letters</font></p> 
