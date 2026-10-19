@@ -9,6 +9,10 @@ permalink: /publications/
 [2026](#2026)  || [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2026
+- <p><font size=3 face="Times New Roman"><b>DSBTR: A Diffusion Schrödinger Bridge Trajectory Refiner for Multi-Agent Trajectory Prediction</b></font><br>
+  <font size=3 face="Times New Roman">Yuxi Xue, Xiangzheng Zhou, Xiaobo Chen(通信作者), Jianjun Qian(通信作者), Jian Yang(通信作者)</font><br>
+  <font size=3 face="Times New Roman" color="blue"><i><b>NeurIPS</b></i></font>, 2026 <a href="https://openreview.net/forum?id=B68WLZ0xU0#discussion">link</a></p>
+  
 - <p><font size=3 face="Times New Roman"><b>A Collaborative Perception Framework for Efficient Communication and Accurate Prediction</b></font><br>
   <font size=3 face="Times New Roman">Chuan Hu, Wenfeng Leng, Xiaobo Chen, Zi Yang, Hao Chen, Ying Zhang, Xi Zhang</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>IEEE Internet of Things Journal</b></i></font>, 2026 <a href="https://ieeexplore.ieee.org/document/11684760">link</a></p>
