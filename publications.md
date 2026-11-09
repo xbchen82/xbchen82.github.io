@@ -9,7 +9,7 @@ permalink: /publications/
 [2026](#2026)  || [2025](#2025)  || [2024](#2024)  || [2023](#2023)  ||  [2022](#2022)  ||  [2021](#2021)  ||  [2020](#2020)  ||  [2019](#2019)  ||  [2018](#2018)  ||  [2017](#2017)  ||  [2016](#2016)  ||  [2015](#2015)  ||  [2014](#2014)  ||  [2013](#2013)  ||  [2012](#2012)  ||  [2011](#2011)   
 
 ### 2026
-- <p><font size=3 face="Times New Roman"><b>DSBTR: A Diffusion Schrödinger Bridge Trajectory Refiner for Multi-Agent Trajectory Prediction</b></font><br>
+- <p><font size=3 face="Times New Roman"><b>EARefiner: An Endpoint-Aligned Diffusion Trajectory Refiner via Schrödinger Bridges for Multi-Agent Trajectory Prediction</b></font><br>
   <font size=3 face="Times New Roman">Yuxi Xue, Xiangzheng Zhou, Xiaobo Chen(通信作者), Jianjun Qian(通信作者), Jian Yang(通信作者)</font><br>
   <font size=3 face="Times New Roman" color="blue"><i><b>NeurIPS</b></i></font>, 2026 <a href="https://openreview.net/forum?id=B68WLZ0xU0#discussion">link</a></p>
   
